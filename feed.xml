@@ -8,20 +8,33 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Cobertura de Porto Alegre, Região Metropolitana e serviços essenciais no RS (últimas 24h).</description>
-<lastBuildDate>Tue, 10 Feb 2026 11:24:35 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 19:55:39 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[BR-470 tem estreitamento de pista em Bento Gonçalves por obras]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1_7afd5051e7c59a6d1ace3853fe97d8e8a2bc73a8/</link>
+<title><![CDATA[Bloqueio parcial no Túnel da Conceição para recapeamento asfáltico]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1_60287d6ed6f0f249ce24eaeaf44e46ded2359288/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 13:50:42 GMT</pubDate>
+<pubDate>Tue, 10 Feb 2026 14:33:41 GMT</pubDate>
 <category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
-<guid isPermaLink="false"><![CDATA[rs1:7afd5051e7c59a6d1ace3853fe97d8e8a2bc73a8]]></guid>
-<description><![CDATA[Trecho da BR-470 entre os quilômetros 216 e 220, em Bento Gonçalves, opera em sistema Pare e Siga devido a obras no km 217.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1:60287d6ed6f0f249ce24eaeaf44e46ded2359288]]></guid>
+<description><![CDATA[O Túnel da Conceição, em Porto Alegre, terá bloqueio de meia pista para obras de recapeamento asfáltico a partir desta quarta-feira.]]></description>
 <content:encoded><![CDATA[
-<p>Trecho da BR-470 entre os quilômetros 216 e 220, em Bento Gonçalves, opera em sistema Pare e Siga devido a obras no km 217. O tráfego na BR-470, em Bento Gonçalves, na Serra gaúcha, está com pista estreitada entre os quilômetros 216 e 220. A medida ocorre por conta de obras programadas no km 217.</p>
-<p>Os serviços começaram às 8h desta segunda-feira e seguem até o dia 27 de março. O trânsito no trecho opera em sistema Pare e Siga para garantir a segurança dos motoristas. As intervenções fazem parte de ações de gestão de risco voltadas para a segurança viária e a melhoria da infraestrutura da rodovia.</p>
-<p>Motoristas devem redobrar a atenção ao trafegar pelo trecho durante o período das obras.</p>
+<p>O Túnel da Conceição, em Porto Alegre, terá bloqueio de meia pista para obras de recapeamento asfáltico a partir desta quarta-feira. A intervenção será realizada no sentido Centro-bairro, no trecho entre a alça de acesso e o cruzamento com a avenida Osvaldo Aranha.</p>
+<p>O bloqueio visa a retirada do asfalto antigo e a aplicação de uma nova camada no pavimento, conforme informado pela EPTC. Motoristas devem ficar atentos às alterações no trânsito durante o período das obras.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[INMET emite avisos de perigo potencial para chuvas intensas no Rio Grande do Sul]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1_c99e4b0cd7d47267c617b14186c6a6902b1503a7/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 10 Feb 2026 15:05:08 GMT</pubDate>
+<category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
+<guid isPermaLink="false"><![CDATA[rs1:c99e4b0cd7d47267c617b14186c6a6902b1503a7]]></guid>
+<description><![CDATA[O Instituto Nacional de Meteorologia emitiu dois alertas de chuva intensa que abrangem praticamente todas as regiões do Rio Grande do Sul nesta terça-feira.]]></description>
+<content:encoded><![CDATA[
+<p>O Instituto Nacional de Meteorologia emitiu dois alertas de chuva intensa que abrangem praticamente todas as regiões do Rio Grande do Sul nesta terça-feira. O primeiro aviso entrou em vigor às 10h15 e segue até 23h59, prevendo chuva entre 20 e 30 milímetros por hora ou até 50 milímetros no acumulado do dia. Este alerta inclui a Serra gaúcha e o Nordeste do Estado.</p>
+<p>O segundo aviso começou às 10h59 e vale até as 20h, atingindo as regiões Noroeste, Norte, parte da região Central, Vales, região metropolitana de Porto Alegre, parte do Litoral Norte, Costa Doce e parte da região Sul.</p>
+<p>A população deve ficar atenta às condições do tempo ao longo do dia devido aos riscos de chuvas intensas no Estado.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
