@@ -8,33 +8,19 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Cobertura de Porto Alegre, Região Metropolitana e serviços essenciais no RS (últimas 24h).</description>
-<lastBuildDate>Tue, 10 Feb 2026 19:55:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 20:54:27 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Bloqueio parcial no Túnel da Conceição para recapeamento asfáltico]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1_60287d6ed6f0f249ce24eaeaf44e46ded2359288/</link>
+<title><![CDATA[Defesa Civil de Porto Alegre alerta para aumento da probabilidade de El Niño em 2026]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1_580244e012b3b0ae8085509cac4a13b89af500f9/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 10 Feb 2026 14:33:41 GMT</pubDate>
+<pubDate>Tue, 10 Feb 2026 20:42:34 GMT</pubDate>
 <category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
-<guid isPermaLink="false"><![CDATA[rs1:60287d6ed6f0f249ce24eaeaf44e46ded2359288]]></guid>
-<description><![CDATA[O Túnel da Conceição, em Porto Alegre, terá bloqueio de meia pista para obras de recapeamento asfáltico a partir desta quarta-feira.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1:580244e012b3b0ae8085509cac4a13b89af500f9]]></guid>
+<description><![CDATA[A Defesa Civil de Porto Alegre divulgou comunicado sobre a possibilidade de ocorrência do fenômeno El Niño em 2026, destacando incertezas nas previsões.]]></description>
 <content:encoded><![CDATA[
-<p>O Túnel da Conceição, em Porto Alegre, terá bloqueio de meia pista para obras de recapeamento asfáltico a partir desta quarta-feira. A intervenção será realizada no sentido Centro-bairro, no trecho entre a alça de acesso e o cruzamento com a avenida Osvaldo Aranha.</p>
-<p>O bloqueio visa a retirada do asfalto antigo e a aplicação de uma nova camada no pavimento, conforme informado pela EPTC. Motoristas devem ficar atentos às alterações no trânsito durante o período das obras.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[INMET emite avisos de perigo potencial para chuvas intensas no Rio Grande do Sul]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1_c99e4b0cd7d47267c617b14186c6a6902b1503a7/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 10 Feb 2026 15:05:08 GMT</pubDate>
-<category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
-<guid isPermaLink="false"><![CDATA[rs1:c99e4b0cd7d47267c617b14186c6a6902b1503a7]]></guid>
-<description><![CDATA[O Instituto Nacional de Meteorologia emitiu dois alertas de chuva intensa que abrangem praticamente todas as regiões do Rio Grande do Sul nesta terça-feira.]]></description>
-<content:encoded><![CDATA[
-<p>O Instituto Nacional de Meteorologia emitiu dois alertas de chuva intensa que abrangem praticamente todas as regiões do Rio Grande do Sul nesta terça-feira. O primeiro aviso entrou em vigor às 10h15 e segue até 23h59, prevendo chuva entre 20 e 30 milímetros por hora ou até 50 milímetros no acumulado do dia. Este alerta inclui a Serra gaúcha e o Nordeste do Estado.</p>
-<p>O segundo aviso começou às 10h59 e vale até as 20h, atingindo as regiões Noroeste, Norte, parte da região Central, Vales, região metropolitana de Porto Alegre, parte do Litoral Norte, Costa Doce e parte da região Sul.</p>
-<p>A população deve ficar atenta às condições do tempo ao longo do dia devido aos riscos de chuvas intensas no Estado.</p>
+<p>A Defesa Civil de Porto Alegre divulgou comunicado sobre a possibilidade de ocorrência do fenômeno El Niño em 2026, destacando incertezas nas previsões. Modelos climáticos recentes apontam para um aumento gradual da probabilidade do El Niño a partir do meio do ano, com maior chance de consolidação no segundo semestre de 2026. As estimativas indicam probabilidades entre 50% e 60%, mas ainda há um grau considerável de incerteza.</p>
+<p>A confirmação da ocorrência do fenômeno depende da evolução das temperaturas da superfície do Oceano Pacífico e da dinâmica da atmosfera nos próximos meses. A Defesa Civil recomenda acompanhamento das atualizações para melhor compreensão dos possíveis impactos do El Niño.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
