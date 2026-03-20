@@ -8,20 +8,21 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Cobertura de Porto Alegre, Região Metropolitana e serviços essenciais no RS (últimas 24h).</description>
-<lastBuildDate>Thu, 19 Mar 2026 14:10:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 14:10:10 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Homem é morto a tiros em posto de combustíveis na zona norte de Porto Alegre]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1_52e8d61f5607231602ecd3f84209af99b719be74/</link>
+<title><![CDATA[Praias do Lami em Porto Alegre estão impróprias para banho devido ao pH elevado]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1_95758a17e11419a7fb39dd975739b01fdd35e7e1/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 19 Mar 2026 13:12:06 GMT</pubDate>
+<pubDate>Fri, 20 Mar 2026 13:13:36 GMT</pubDate>
 <category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
-<guid isPermaLink="false"><![CDATA[rs1:52e8d61f5607231602ecd3f84209af99b719be74]]></guid>
-<description><![CDATA[Um homem foi assassinado a tiros na noite de quarta-feira em um posto de combustíveis na zona norte de Porto Alegre. O caso apresenta características de execução.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1:95758a17e11419a7fb39dd975739b01fdd35e7e1]]></guid>
+<description><![CDATA[Três praias localizadas no bairro Lami, em Porto Alegre, apresentam pH acima dos parâmetros exigidos, tornando-as impróprias para banho.]]></description>
 <content:encoded><![CDATA[
-<p>Um homem foi assassinado a tiros na noite de quarta-feira em um posto de combustíveis na zona norte de Porto Alegre. O caso apresenta características de execução. O ataque ocorreu por volta das 22h40 na avenida Souza Reis, no bairro São João. Cinco homens armados chegaram em um carro prata e dispararam várias vezes contra a vítima, que estava dentro de outro veículo estacionado no posto.</p>
-<p>Uma mulher que estava com a vítima não foi atingida. Policiais militares que faziam patrulhamento na região flagraram o ataque e houve troca de tiros, resultando em um policial militar ferido no pé.</p>
-<p>O nome e a idade da vítima não foram divulgados.</p>
+<p>Três praias localizadas no bairro Lami, em Porto Alegre, apresentam pH acima dos parâmetros exigidos, tornando-as impróprias para banho. O Departamento Municipal de Água e Esgotos (Dmae) informou que a alteração no pH das águas das praias do Lami se deve à estiagem durante o período de coleta, que alterou temporariamente as características do Lago Guaíba.</p>
+<p>Enquanto isso, as três praias monitoradas no bairro Belém Novo continuam oferecendo condições adequadas para balneabilidade. As análises fazem parte do 20º relatório de balneabilidade da temporada, que abrange o período de 19 de fevereiro a 18 de março.</p>
+<p>O Conama estabelece que, para que um ponto seja considerado próprio para banho, a concentração da bactéria Escherichia coli deve ser inferior a 800 NMP/100 mL nas últimas cinco amostras, e o valor da última amostra não pode ultrapassar 2000 NMP/100 mL. Além disso, o pH deve estar entre 6,0 e 9,0.</p>
+<p>O monitoramento da qualidade da água segue sendo realizado para garantir a segurança dos banhistas nas praias da região.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
