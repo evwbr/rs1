@@ -8,19 +8,34 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Cobertura de Porto Alegre, Região Metropolitana e serviços essenciais no RS (últimas 24h).</description>
-<lastBuildDate>Mon, 27 Apr 2026 23:30:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 19:30:44 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Terça-feira terá tempo firme e frio com possibilidade de geada no Rio Grande do Sul]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1_e56af94adbe72b495313194e5fe58a8f0b9ae99d/</link>
+<title><![CDATA[Frio perde força em Porto Alegre após temperaturas típicas de inverno]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1_0577c04af3229287cb26505c0f13f4c3e6bc5936/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Apr 2026 23:27:55 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 18:03:18 GMT</pubDate>
 <category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
-<guid isPermaLink="false"><![CDATA[rs1:e56af94adbe72b495313194e5fe58a8f0b9ae99d]]></guid>
-<description><![CDATA[O Rio Grande do Sul terá tempo firme na maior parte do Estado nesta terça-feira, com temperaturas baixas e chance de geada em várias regiões.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1:0577c04af3229287cb26505c0f13f4c3e6bc5936]]></guid>
+<description><![CDATA[Porto Alegre registrou temperaturas baixas no início da semana, mas o frio deve diminuir nos próximos dias.]]></description>
 <content:encoded><![CDATA[
-<p>O Rio Grande do Sul terá tempo firme na maior parte do Estado nesta terça-feira, com temperaturas baixas e chance de geada em várias regiões. As mínimas na terça-feira devem variar entre 1°C e 13°C, com formação de geada possível na Campanha, no Sul, no Centro, no Norte, na Serra, nos Vales e na porção oeste da região metropolitana de Porto Alegre.</p>
-<p>Durante a tarde, as temperaturas permanecem amenas, com máximas entre 15°C e 22°C em todo o Estado. A população deve se preparar para o frio e a possibilidade de geada nas áreas indicadas.</p>
+<p>Porto Alegre registrou temperaturas baixas no início da semana, mas o frio deve diminuir nos próximos dias. A queda acentuada nas temperaturas ocorreu após a passagem de uma frente fria e a atuação da primeira massa de ar polar do outono. As menores marcas foram registradas na manhã desta terça-feira em diferentes regiões da cidade.</p>
+<p>Na Lomba do Sabão, na zona leste, a mínima chegou a 6,1°C às 5h40. No Lami, no extremo sul, a temperatura marcou 6,8°C às 7h. Em Belém Novo, a estação do INMET registrou 7,1°C às 7h.</p>
+<p>No Aeroporto, na zona norte, a mínima foi de 8°C, enquanto no Jardim Botânico, também pelo INMET, a temperatura chegou a 8,8°C. O frio deve perder intensidade em Porto Alegre nos próximos dias, encerrando o período de temperaturas típicas de inverno.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[CONTRAN suspende multas de pedágio eletrônico free flow por prazo determinado]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1_901877ea3b01296500d5ce7f35aa2e05a44461e3/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 19:12:49 GMT</pubDate>
+<category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
+<guid isPermaLink="false"><![CDATA[rs1:901877ea3b01296500d5ce7f35aa2e05a44461e3]]></guid>
+<description><![CDATA[O Conselho Nacional de Trânsito suspendeu 3,4 milhões de multas aplicadas em rodovias com pedágio eletrônico free flow, concedendo prazo para regularização sem cobrança de multa.]]></description>
+<content:encoded><![CDATA[
+<p>O Conselho Nacional de Trânsito suspendeu 3,4 milhões de multas aplicadas em rodovias com pedágio eletrônico free flow, concedendo prazo para regularização sem cobrança de multa. A medida permite que motoristas regularizem tarifas de pedágio em aberto até o dia 16 de novembro, sem a cobrança da multa de trânsito. Quem quitar os débitos dentro desse período poderá recuperar os pontos lançados na Carteira Nacional de Habilitação.</p>
+<p>Após 16 de novembro, os motoristas com tarifas em aberto voltarão a ser cobrados pelo valor do pedágio e pela multa por atraso. Até a integração nacional dos dados, a consulta deve ser feita nos sites e aplicativos das concessionárias responsáveis pelas rodovias.</p>
+<p>As concessionárias devem disponibilizar canais para que o motorista identifique onde o veículo passou e efetue o pagamento da tarifa. O prazo para regularização dos débitos segue até 16 de novembro, garantindo aos motoristas a oportunidade de evitar multas e recuperar pontos na CNH.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
