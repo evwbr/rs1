@@ -14,5 +14,37 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_cd7e2fb758e94f6f7e3bd414be1a92491dc82955/",
     "usedAt": 1779037845724,
     "usedAtIso": "2026-05-17T17:10:45.724Z"
+  },
+  "source:e766e4b073358e0fa89d0625a0941c8afa849b61": {
+    "url": "https://agorars.com/agora-no-transito/dois-homens-morrem-em-acidente-na-ers-456-em-pinhal-da-serra",
+    "title": "Dois homens morrem em colisão frontal na ERS-456 em Pinhal da Serra",
+    "guid": "rs1multi:deb52f45ca817eeb2c2bf5ad2907f3cc28d59749",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_deb52f45ca817eeb2c2bf5ad2907f3cc28d59749/",
+    "usedAt": 1779038267817,
+    "usedAtIso": "2026-05-17T17:17:47.817Z"
+  },
+  "source:b2a94d837969c729a2314e0875de77f97d0c82ed": {
+    "url": "https://agorars.com/agora-no-transito/acidente-com-caminhao-bloqueia-faixas-da-br-116-no-vale-do-sinos",
+    "title": "Acidente com caminhão bloqueia faixas da BR-116 próximo à ponte do Rio dos Sinos",
+    "guid": "rs1multi:b58fc7aad021a93d140a87b969b35b82b9782adc",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b58fc7aad021a93d140a87b969b35b82b9782adc/",
+    "usedAt": 1779038267817,
+    "usedAtIso": "2026-05-17T17:17:47.817Z"
+  },
+  "source:802dd4698532b7b520eec85954602f4d6bd0b6e9": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-domingo-chuva-frio",
+    "title": "Chuva atinge grande parte do Rio Grande do Sul neste domingo com pancadas fortes no Norte e Nordeste",
+    "guid": "rs1multi:173677ed9df0149964879990b37cfa522ddb4ce9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_173677ed9df0149964879990b37cfa522ddb4ce9/",
+    "usedAt": 1779038267817,
+    "usedAtIso": "2026-05-17T17:17:47.817Z"
+  },
+  "source:041b233ece8fb62b12e3fcdbc36962860dd1bbc6": {
+    "url": "https://agorars.com/agora-no-transito/prf-apreende-r-4585-mil-escondidos-em-caminhonete-na-regiao-central-do-rs",
+    "title": "PRF apreende R$ 458,5 mil em caminhonete na BR-287 em Santiago",
+    "guid": "rs1multi:03e8792856ecb1ee869cbf6a5b4804b5824e08a7",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_03e8792856ecb1ee869cbf6a5b4804b5824e08a7/",
+    "usedAt": 1779038267817,
+    "usedAtIso": "2026-05-17T17:17:47.817Z"
   }
 }
