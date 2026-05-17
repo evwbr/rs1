@@ -4,26 +4,42 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - RS1 (Porto Alegre e Região Metropolitana)</title>
+<title>Evo Web News - RS1 (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
-<description>Cobertura de Porto Alegre, Região Metropolitana e serviços essenciais no RS (últimas 24h).</description>
-<lastBuildDate>Sun, 17 May 2026 01:30:23 GMT</lastBuildDate>
+<description>Notícias do Rio Grande do Sul (últimas 24h) - Evo Web News</description>
+<lastBuildDate>Sun, 17 May 2026 17:11:37 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Domingo terá chuva e queda de temperatura no RS |]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1_173677ed9df0149964879990b37cfa522ddb4ce9/</link>
+<title><![CDATA[Justiça Eleitoral cassa diplomas da prefeita e vice de Cachoeirinha por abuso de poder político]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_6e3d71ccab257f5a8fbe7590ac9ca6ca08165995/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 17 May 2026 00:35:22 GMT</pubDate>
-<category><![CDATA[Porto Alegre e Região Metropolitana]]></category>
-<guid isPermaLink="false"><![CDATA[rs1:173677ed9df0149964879990b37cfa522ddb4ce9]]></guid>
-<description><![CDATA[Porto Alegre, RS, Brasil 26/9/2024. Chuva em Porto Alegre. Crédito: Alex Rocha/PMPA A previs&atilde;o do tempo indica chuva em grande parte do Rio Grande do Sul neste domingo (17). As pancadas devem ser fracas a moderadas na maioria das regi&otilde;es, mas podem ganhar for&ccedil;a no Norte e no Nordeste do Estado. As…]]></description>
+<pubDate>Sun, 17 May 2026 15:33:48 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rs1multi:6e3d71ccab257f5a8fbe7590ac9ca6ca08165995]]></guid>
+<description><![CDATA[Atualização do Rio Grande do Sul.]]></description>
 <content:encoded><![CDATA[
-<p>Porto Alegre, RS, Brasil 26/9/2024. Chuva em Porto Alegre. Crédito: Alex Rocha/PMPA A previs&amp;atilde;o do tempo indica chuva em grande parte do Rio Grande do Sul neste domingo (17). As pancadas devem ser fracas a moderadas na maioria das regi&amp;otilde;es, mas podem ganhar for&amp;ccedil;a no Norte e no Nordeste do Estado. As…</p>
-<p>Crédito: Alex Rocha/PMPA A previs&amp;atilde;o do tempo indica chuva em grande parte do Rio Grande do Sul neste domingo (17). As pancadas devem ser fracas a moderadas na maioria das regi&amp;otilde;es, mas podem ganhar for&amp;ccedil;a no Norte e no Nordeste do Estado.</p>
-<p>As &amp;aacute;reas com maior presen&amp;ccedil;a de chuva incluem a metade Norte, Centro, Costa Doce, regi&amp;atilde;o metropolitana de Porto Alegre e Litoral M&amp;eacute;dio. No Norte e no Nordeste, as pancadas podem ser fortes e vir acompanhadas de raios.</p>
-<p>Os acumulados previstos variam entre 5 mm e 25 mm ao longo do dia. As m&amp;iacute;nimas ficam entre 8&amp;deg;C e 18&amp;deg;C, enquanto as m&amp;aacute;ximas oscilam entre 12&amp;deg;C e 21&amp;deg;C. Chuva em Porto Alegre Em Porto Alegre, o domingo deve ter chuva moderada a forte ao longo do dia. A temperatura entra em decl&amp;iacute;nio, com m&amp;aacute;xima de 18&amp;deg;C.</p>
-<p>O tema segue em acompanhamento, e novas informações devem ser atualizadas conforme houver comunicados oficiais.</p>
+<p>A decisão foi proferida pela juíza eleitoral Suélen Caetano de Oliveira, da 143ª Zona Eleitoral, no último sábado (16). Além da cassação dos diplomas, a sentença aplicou multa de R$ 15 mil para cada um dos investigados. A inelegibilidade não foi imposta ao vice-prefeito, pois não houve comprovação de sua participação direta ou anuência explícita nos atos analisados.</p>
+<p>A ação analisou dois vídeos publicados no perfil pessoal de Jussara quando ela exercia o cargo de prefeita interina. Em um deles, a então prefeita aparece em uma ação de limpeza urbana, com servidores uniformizados ao fundo, além de uma marca d'água identificando "Jussara prefeita interina" e o bordão "Aqui é trabalho". No outro vídeo, Jussara aparece sentada na cabine de uma retroescavadeira durante uma intervenção no Arroio Passinhos.</p>
+<p>Na sentença, a juíza destacou que atos administrativos reais foram transformados em peças de marketing político pessoal, utilizando a estrutura e a imagem da administração municipal para associar a candidatura à execução de serviços públicos.</p>
+<p>O contexto da enchente que atingiu Cachoeirinha em 2024 também agravou a avaliação da Justiça. A decisão apontou que os vídeos exploravam ações sensíveis para a população, como limpeza urbana e desassoreamento do Arroio Passinhos, ultrapassando a prestação de contas e assumindo caráter eleitoral.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[INMET emite alerta de tempestade para a metade norte do Rio Grande do Sul neste fim de semana]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_cd7e2fb758e94f6f7e3bd414be1a92491dc82955/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 16 May 2026 17:23:22 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rs1multi:cd7e2fb758e94f6f7e3bd414be1a92491dc82955]]></guid>
+<description><![CDATA[O Instituto Nacional de Meteorologia emitiu um alerta amarelo de tempestade para a metade norte do Rio Grande do Sul, válido entre sábado e domingo, com previsão de ventos fortes e possibilidade de granizo.]]></description>
+<content:encoded><![CDATA[
+<p>O Instituto Nacional de Meteorologia emitiu um alerta amarelo de tempestade para a metade norte do Rio Grande do Sul, válido entre sábado e domingo, com previsão de ventos fortes e possibilidade de granizo.</p>
+<p>O alerta começou às 8h02 de sábado (16) e segue até as 23h59 de domingo (17), abrangendo áreas do Noroeste, Norte, Serra e Litoral Norte do estado, especialmente nas cidades próximas à divisa com Santa Catarina.</p>
+<p>O aviso indica a possibilidade de ventos entre 40 km/h e 60 km/h, além de chance de queda de granizo, o que pode causar transtornos à população dessas regiões.</p>
+<p>O Instituto Nacional de Meteorologia destaca que o risco de cortes no fornecimento de energia elétrica é baixo, mas alerta para possíveis danos em plantações, queda de galhos de árvores e alagamentos em áreas vulneráveis.</p>
+<p>O alerta reforça a importância de medidas preventivas para minimizar os impactos da tempestade, garantindo a segurança da população e a proteção do patrimônio.</p>
+<p>A população deve ficar atenta às condições do tempo e seguir as orientações das autoridades locais para evitar acidentes e prejuízos causados pelas condições adversas previstas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
