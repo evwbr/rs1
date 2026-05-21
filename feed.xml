@@ -8,22 +8,38 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Thu, 21 May 2026 00:27:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 15:27:12 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Rio Grande do Sul enfrenta frio intenso e geada com tempo estável nesta quinta-feira]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1multi_c89490073f67fc399e2f0088c526e4c78babce6f/</link>
+<title><![CDATA[Produtores rurais do Rio Grande do Sul declararam cerca de 30% dos animais até junho]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_a9ffd249620ff969a4d8bf589365f02a33856c86/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 20 May 2026 23:13:01 GMT</pubDate>
+<pubDate>Thu, 21 May 2026 15:04:50 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rs1multi:c89490073f67fc399e2f0088c526e4c78babce6f]]></guid>
-<description><![CDATA[Atualização do Rio Grande do Sul.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1multi:a9ffd249620ff969a4d8bf589365f02a33856c86]]></guid>
+<description><![CDATA[Produtores rurais do Rio Grande do Sul declararam 29,86% dos animais criados no estado, dentro do prazo que vai até 30 de junho.]]></description>
 <content:encoded><![CDATA[
-<p>As temperaturas mínimas no estado devem variar entre -1°C e 12°C, com possibilidade de marcas negativas em algumas áreas gaúchas. Já as máximas ficam entre 8°C e 18°C ao longo do dia, mantendo o clima frio em grande parte do território.</p>
-<p>A nebulosidade aumenta em algumas regiões do Rio Grande do Sul, porém não há previsão de chuva significativa para esta quinta-feira.</p>
-<p>A chance de geada é maior nas áreas do Norte, Nordeste, Serra e Campanha, onde as condições climáticas favorecem a formação do fenômeno. Moradores dessas regiões devem se preparar para o frio e os efeitos da geada.</p>
-<p>Apesar do aumento da nebulosidade, o estado não deve registrar precipitações relevantes, o que mantém o cenário de tempo firme e temperaturas baixas durante o dia.</p>
-<p>O frio intenso e a geada são características típicas desta época do ano no Rio Grande do Sul, exigindo cuidados especiais, principalmente para a agricultura e para a população mais vulnerável.</p>
+<p>Produtores rurais do Rio Grande do Sul declararam 29,86% dos animais criados no estado, dentro do prazo que vai até 30 de junho.</p>
+<p>A Declaração de Rebanho é uma obrigação sanitária para todos os produtores rurais gaúchos que possuem animais. O período para realizar a declaração e atualização começou em abril e segue até o final de junho.</p>
+<p>Até o momento, foram entregues 103 mil declarações, o que representa quase 30% das 358 mil esperadas para este ano.</p>
+<p>No portal, os produtores encontram um tutorial com orientações para realizar o registro corretamente. Além disso, é possível fazer a declaração utilizando formulários em PDF ou presencialmente nas inspetorias e escritórios de Defesa Agropecuária, com auxílio dos servidores da Secretaria da Agricultura.</p>
+<p>Para validar a declaração, o produtor deve assinar digitalmente com a senha do Produtor Online, garantindo a autenticidade do registro e o cumprimento das exigências sanitárias do estado.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Novo reservatório em Porto Alegre deve reduzir alagamentos na Zona Norte]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_1220f701adaf94205f93d8a97f604408fd7b14cb/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 21 May 2026 14:09:39 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rs1multi:1220f701adaf94205f93d8a97f604408fd7b14cb]]></guid>
+<description><![CDATA[Um reservatório de amortecimento inaugurado em Porto Alegre promete diminuir os alagamentos nos bairros Passo d'Areia e Santa Maria Goretti, beneficiando cerca de 25 mil moradores.]]></description>
+<content:encoded><![CDATA[
+<p>Um reservatório de amortecimento inaugurado em Porto Alegre promete diminuir os alagamentos nos bairros Passo d'Areia e Santa Maria Goretti, beneficiando cerca de 25 mil moradores.</p>
+<p>A estrutura está localizada nas dependências do Porto Alegre Country Club e foi vistoriada pelo prefeito Sebastião Melo junto a técnicos do Departamento Municipal de Água e Esgotos (Dmae).</p>
+<p>O reservatório R15 integra o sistema de drenagem urbana da cidade e tem capacidade para armazenar temporariamente mais de 37 milhões de litros de água da chuva, o equivalente a cerca de 15 piscinas olímpicas cheias.</p>
+<p>O objetivo da obra é liberar o volume de água de forma gradual na rede de drenagem, evitando a sobrecarga do sistema e reduzindo os pontos de alagamento nos bairros atendidos.</p>
+<p>Com a implantação do reservatório, a expectativa é melhorar a qualidade de vida dos moradores da região, minimizando os transtornos causados pelas enchentes e fortalecendo a infraestrutura urbana de Porto Alegre.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
