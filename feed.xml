@@ -8,22 +8,21 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Fri, 22 May 2026 13:26:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 18:27:20 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Porto Alegre registra temperaturas mínimas abaixo de 8°C e previsão indica chuvas fracas para sábado]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1multi_a673aa5c65024387767274b2dee4e011dcbac330/</link>
+<title><![CDATA[Trens terão circulação limitada entre Mercado e Mathias Velho devido a obras na rodovia]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_da36bf9d9f8df044e9ccc6dc34379b0d8e3f9add/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 22 May 2026 12:53:33 GMT</pubDate>
+<pubDate>Fri, 22 May 2026 17:28:37 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rs1multi:a673aa5c65024387767274b2dee4e011dcbac330]]></guid>
-<description><![CDATA[Porto Alegre teve temperaturas mínimas de 7,7°C no Jardim Botânico e 6,4°C no Belém Novo nesta sexta-feira, com previsão de chuviscos e chuva fraca para a metade Sul e o Litoral no sábado.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1multi:da36bf9d9f8df044e9ccc6dc34379b0d8e3f9add]]></guid>
+<description><![CDATA[Atualização do Rio Grande do Sul.]]></description>
 <content:encoded><![CDATA[
-<p>Porto Alegre teve temperaturas mínimas de 7,7°C no Jardim Botânico e 6,4°C no Belém Novo nesta sexta-feira, com previsão de chuviscos e chuva fraca para a metade Sul e o Litoral no sábado.</p>
-<p>O Sistema de Monitoramento e Alertas Agroclimáticos do Rio Grande do Sul (Simagro-RS) registrou temperaturas baixas em Porto Alegre nesta sexta-feira, com 7,7°C no Jardim Botânico e 6,4°C no bairro Belém Novo.</p>
-<p>O Centro de Monitoramento da Defesa Civil (CMDEC) aponta que no sábado a condição climática deve apresentar chuviscos e chuva fraca na metade Sul do estado e no Litoral. Nas demais regiões, o tempo permanecerá estável, porém com maior nebulosidade.</p>
-<p>As temperaturas mínimas previstas para o sábado variam entre 3°C e 12°C, enquanto as máximas devem oscilar entre 12°C e 21°C, indicando um dia com variação térmica moderada.</p>
-<p>A previsão indica que as condições climáticas devem manter-se estáveis na maior parte do estado, com atenção especial para as áreas que poderão registrar precipitações leves, o que pode influenciar atividades ao ar livre e o setor agropecuário.</p>
+<p>Os trabalhos, realizados pelo Departamento Nacional de Infraestrutura de Transportes (Dnit), ocorrem em uma área da rodovia que cruza a linha férrea, exigindo a interrupção parcial do serviço de trem.</p>
+<p>No sábado, os trens operarão com intervalo de 15 minutos entre as estações Mercado e Mathias Velho, onde será feito o transbordo para ônibus que cobrirão o trecho até Novo Hamburgo.</p>
+<p>Os ônibus terão paradas próximas às estações São Luís, Petrobras, Esteio, Luiz Pasteur, Sapucaia, Unisinos, São Leopoldo, Rio dos Sinos, Santo Afonso, Industrial, Fenac e Novo Hamburgo, com intervalos previstos de 10 minutos entre as viagens.</p>
+<p>As partidas dos ônibus da estação Mathias Velho em direção a Novo Hamburgo ocorrerão das 4h25 às 23h25, enquanto no sentido contrário sairão da estação Novo Hamburgo das 4h20 às 23h05, garantindo a continuidade do transporte durante as obras.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
