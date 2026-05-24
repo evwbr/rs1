@@ -326,5 +326,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c9dad11b2fe231ad0f36a901474cf1f15e7b0194/",
     "usedAt": 1779567973613,
     "usedAtIso": "2026-05-23T20:26:13.613Z"
+  },
+  "source:b6698c941023426e1d0d4ffcb9dc0bcf7decb93e": {
+    "url": "https://agorars.com/agora-no-transito/acidente-ers-324-casca-dois-obitos",
+    "title": "Duas pessoas morrem em colisão frontal na ERS-324 em Casca",
+    "guid": "rs1multi:31302afee5bd699b5ca3ab2c58ef3879ed40d099",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_31302afee5bd699b5ca3ab2c58ef3879ed40d099/",
+    "usedAt": 1779647173221,
+    "usedAtIso": "2026-05-24T18:26:13.221Z"
+  },
+  "source:feac90146ce537ba07a6dc5291d04bd89609ff83": {
+    "url": "https://agorars.com/rs/porto-alegre/manutencoes-dmae-falta-agua-bairros-porto-alegre",
+    "title": "Manutenção no sistema de água afeta abastecimento em bairros de Porto Alegre nesta terça e quarta-feira",
+    "guid": "rs1multi:2d12500a32ede12b87c006af034c466cb9b66f54",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2d12500a32ede12b87c006af034c466cb9b66f54/",
+    "usedAt": 1779647173221,
+    "usedAtIso": "2026-05-24T18:26:13.221Z"
   }
 }
