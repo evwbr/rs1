@@ -494,5 +494,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_05edef12163201b1cb5f37b9a8a263855232f8fa/",
     "usedAt": 1779974773915,
     "usedAtIso": "2026-05-28T13:26:13.915Z"
+  },
+  "source:6b0a293aab52b7dd2b18c1f77260fb4525921562": {
+    "url": "https://agorars.com/cultura/exposicao-faces-do-dinheiro-musecom-porto-alegre",
+    "title": "Exposição no Museu Numismático aborda a relação histórica entre humanos e dinheiro",
+    "guid": "rs1multi:52b6b13e802dbb66b4b393797b0c8e0d0665f45a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_52b6b13e802dbb66b4b393797b0c8e0d0665f45a/",
+    "usedAt": 1779978374321,
+    "usedAtIso": "2026-05-28T14:26:14.321Z"
+  },
+  "source:19530690850fad5e8ddeafda89d44ffe1c6b2df5": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-tempestade-rs-sexta-norte-noroeste",
+    "title": "Inmet emite alerta de tempestades com chuva intensa e ventos no Norte e Noroeste do Rio Grande do Sul",
+    "guid": "rs1multi:08373f482534e363876ec4d650680f79bfb9a1cb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_08373f482534e363876ec4d650680f79bfb9a1cb/",
+    "usedAt": 1779978374321,
+    "usedAtIso": "2026-05-28T14:26:14.321Z"
   }
 }
