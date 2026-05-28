@@ -8,22 +8,37 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Thu, 28 May 2026 13:27:19 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 14:27:20 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Grupo criminoso é investigado por fraudes em campanhas beneficentes online no Rio Grande do Sul]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1multi_05edef12163201b1cb5f37b9a8a263855232f8fa/</link>
+<title><![CDATA[Exposição no Museu Numismático aborda a relação histórica entre humanos e dinheiro]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_52b6b13e802dbb66b4b393797b0c8e0d0665f45a/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 28 May 2026 13:09:04 GMT</pubDate>
+<pubDate>Thu, 28 May 2026 14:02:49 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rs1multi:05edef12163201b1cb5f37b9a8a263855232f8fa]]></guid>
-<description><![CDATA[Autoridades investigam esquema que utilizava imagens e histórias de uma criança com distrofia muscular para aplicar golpes em campanhas de arrecadação na internet em Capão da Canoa.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1multi:52b6b13e802dbb66b4b393797b0c8e0d0665f45a]]></guid>
+<description><![CDATA[O Museu Histórico Numismático apresenta uma exposição que explora a relação do ser humano com o dinheiro desde os primórdios até os dias atuais, reunindo moedas, cofres e instrumentos de câmbio.]]></description>
 <content:encoded><![CDATA[
-<p>Autoridades investigam esquema que utilizava imagens e histórias de uma criança com distrofia muscular para aplicar golpes em campanhas de arrecadação na internet em Capão da Canoa.</p>
-<p>Uma investigação policial mira um grupo especializado em fraudes eletrônicas que criava falsas campanhas beneficentes na internet. O esquema usava indevidamente a imagem e a história de uma criança de 10 anos, moradora de Capão da Canoa, diagnosticada com distrofia muscular de Duchenne, para enganar doadores.</p>
-<p>As campanhas fraudulentas reproduziam fotos da criança e informações sobre sua condição de saúde, além de elementos visuais semelhantes aos de plataformas legítimas de financiamento coletivo. Essa estratégia conferia aparência de autenticidade às arrecadações falsas.</p>
-<p>A distrofia muscular de Duchenne é uma doença rara cujo tratamento demanda alto custo financeiro, o que motivava a criação das campanhas falsas.</p>
-<p>A investigação busca identificar todos os envolvidos no esquema e responsabilizá-los pelos crimes cometidos. As autoridades reforçam a importância de verificar a veracidade das campanhas beneficentes antes de realizar doações, para evitar prejuízos e apoiar causas legítimas.</p>
+<p>O Museu Histórico Numismático apresenta uma exposição que explora a relação do ser humano com o dinheiro desde os primórdios até os dias atuais, reunindo moedas, cofres e instrumentos de câmbio.</p>
+<p>A mostra, realizada em parceria com o NUMIS, reúne protomoedas, cofres, caixas de transporte de barras de ouro, vales, cheques e outros objetos que foram utilizados como instrumentos de troca ao longo da história.</p>
+<p>Governos e impérios utilizaram a cunhagem de moedas não apenas como ferramenta econômica, mas também como meio de propaganda política e disseminação cultural, destaca o diretor geral do NUMIS, Yuri Victorino.</p>
+<p>O planejamento da mostra inclui curadorias próprias do museu, co-curadorias com parceiros externos e a possibilidade de receber exposições itinerantes que estão em circulação.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Inmet emite alerta de tempestades com chuva intensa e ventos no Norte e Noroeste do Rio Grande do Sul]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_08373f482534e363876ec4d650680f79bfb9a1cb/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 28 May 2026 13:33:03 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rs1multi:08373f482534e363876ec4d650680f79bfb9a1cb]]></guid>
+<description><![CDATA[O Instituto Nacional de Meteorologia (Inmet) divulgou um alerta para tempestades com chuva forte, ventos intensos e possibilidade de granizo em áreas do Norte e Noroeste do Rio Grande do Sul.]]></description>
+<content:encoded><![CDATA[
+<p>O Instituto Nacional de Meteorologia (Inmet) divulgou um alerta para tempestades com chuva forte, ventos intensos e possibilidade de granizo em áreas do Norte e Noroeste do Rio Grande do Sul.</p>
+<p>O aviso não abrange todo o território Gaúcho, concentrando-se principalmente nas áreas mais ao Norte e Noroeste do estado. Nessas localidades, há risco moderado de transtornos causados pelas condições climáticas.</p>
+<p>Apesar da intensidade da chuva e dos ventos, o risco de cortes no fornecimento de energia elétrica, danos a plantações, queda de galhos e alagamentos é considerado baixo. A população dessas regiões deve, no entanto, manter atenção às condições do tempo.</p>
+<p>As autoridades recomendam acompanhamento dos boletins meteorológicos para atualização das condições e orientações sobre eventuais mudanças no cenário climático.</p>
+<p>A previsão indica que as condições adversas devem se concentrar nas próximas horas, com possibilidade de melhora avanço do sistema meteorológico.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
