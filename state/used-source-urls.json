@@ -606,5 +606,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_490275d69fbb48ca3accac58a499f93894fc82cf/",
     "usedAt": 1780093573597,
     "usedAtIso": "2026-05-29T22:26:13.597Z"
+  },
+  "source:15b2170dde841a71b15a5dd10f4073490d8f7476": {
+    "url": "https://agorars.com/sua-saude/homem-com-suspeita-de-ebola-e-internado-em-sao-paulo",
+    "title": "Homem com sintomas compatíveis com Ebola é internado em hospital de São Paulo",
+    "guid": "rs1multi:687f740f188fd7021fd4ed74dfc0fbc7cf8140f9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_687f740f188fd7021fd4ed74dfc0fbc7cf8140f9/",
+    "usedAt": 1780161973257,
+    "usedAtIso": "2026-05-30T17:26:13.257Z"
+  },
+  "source:09e215a502b1fcff3b7250643595a22da1c3b86e": {
+    "url": "https://agorars.com/agora-no-transito/acidentes-seis-mortos-rodovias-estaduais-rs",
+    "title": "Seis pessoas morrem em cinco acidentes nas rodovias estaduais do Rio Grande do Sul entre sexta e sábado",
+    "guid": "rs1multi:1ea023264289dcaf320b66851122393337e589e4",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1ea023264289dcaf320b66851122393337e589e4/",
+    "usedAt": 1780161973257,
+    "usedAtIso": "2026-05-30T17:26:13.257Z"
   }
 }
