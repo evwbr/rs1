@@ -790,5 +790,45 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_041ceff13e995f77eccafd0d2f317cecd08c50c9/",
     "usedAt": 1783030207475,
     "usedAtIso": "2026-07-02T22:10:07.475Z"
+  },
+  "source:320bc7ad3d9c7c2c1e064b94a499323403cb8e60": {
+    "url": "https://agorars.com/plantao-rs/delegado-da-policia-federal-e-baleado-em-operacao-em-passo-fundo",
+    "title": "Delegado e agente da Polícia Federal são baleados durante operação contra contrabando em Passo Fundo",
+    "guid": "rs1multi:18483639e8ed8a2b1f1784d6b5d349d9fcac8356",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_18483639e8ed8a2b1f1784d6b5d349d9fcac8356/",
+    "usedAt": 1783032202674,
+    "usedAtIso": "2026-07-02T22:43:22.674Z"
+  },
+  "source:1dbc0eea82110c2f30ce099af8f35ce4c336c7fe": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-para-risco-muito-alto-de-inundacao-em-sao-borja",
+    "title": "Defesa Civil emite alerta de risco muito alto para inundações no rio Uruguai em São Borja",
+    "guid": "rs1multi:7d57f0b325007c510cd7f4a5c4fca9fa2a279535",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7d57f0b325007c510cd7f4a5c4fca9fa2a279535/",
+    "usedAt": 1783032202674,
+    "usedAtIso": "2026-07-02T22:43:22.674Z"
+  },
+  "source:c73072b18cb94136407e12ce29125e6cc17921b9": {
+    "url": "https://agorars.com/rs/trabalho-escravo-glorinha-indigenas-resgatados",
+    "title": "Seis trabalhadores indígenas são resgatados de condições análogas à escravidão em propriedade rural de Glorinha",
+    "guid": "rs1multi:510b91950364e2240e148d8f8505dbb0cb5f7cc7",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_510b91950364e2240e148d8f8505dbb0cb5f7cc7/",
+    "usedAt": 1783032202674,
+    "usedAtIso": "2026-07-02T22:43:22.674Z"
+  },
+  "source:7c62541ae613db064a9b4ded9c50c7f9c2af427c": {
+    "url": "https://agorars.com/plantao-rs/motorista-morre-em-colisao-frontal-na-ers-287-em-restinga-seca",
+    "title": "Motorista morre e duas pessoas ficam feridas em colisão frontal na ERS-287 em Restinga Sêca",
+    "guid": "rs1multi:727a466912fade2129e9d3d0237d1b7062487bde",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_727a466912fade2129e9d3d0237d1b7062487bde/",
+    "usedAt": 1783032202674,
+    "usedAtIso": "2026-07-02T22:43:22.674Z"
+  },
+  "source:2f5617c88027e7bab2b438d23a56291d607406b3": {
+    "url": "https://agorars.com/plantao-rs/familia-aguiar-buscas-por-corpos-sao-retomadas-em-canoas-apos-denuncia-anonima",
+    "title": "Polícia encerra buscas na Estrada do Paquetá em Canoas sem localizar corpos de vítimas de feminicídio",
+    "guid": "rs1multi:4a3d143fcbb1f833f1f8e7ff469610dde6d9142b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4a3d143fcbb1f833f1f8e7ff469610dde6d9142b/",
+    "usedAt": 1783032202674,
+    "usedAtIso": "2026-07-02T22:43:22.674Z"
   }
 }
