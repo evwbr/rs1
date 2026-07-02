@@ -766,5 +766,29 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7707dc6e5735037d6fba6a5ac92c62506bbdd8ce/",
     "usedAt": 1783027573219,
     "usedAtIso": "2026-07-02T21:26:13.219Z"
+  },
+  "source:38926ed9410d3d7adede89e50411dc057c70aa86": {
+    "url": "https://agorars.com/brasil-e-mundo/petrobras-reduz-querosene-aviacao-julho",
+    "title": "Preço do querosene de aviação recua pelo",
+    "guid": "rs1multi:bf79687265a8d32a2539a6ff095429486d2bdeb7",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bf79687265a8d32a2539a6ff095429486d2bdeb7/",
+    "usedAt": 1783030207475,
+    "usedAtIso": "2026-07-02T22:10:07.475Z"
+  },
+  "source:7a5562f206a8cb0ec31f26e766673cf26f4f82b0": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/julho-comeca-com-alerta-para-chuva-intensa-e-temporais-no-rs",
+    "title": "Rio Grande do Sul enfrenta alerta de chuva intensa e temporais com risco de alagamentos nesta quarta-feira",
+    "guid": "rs1multi:7f8ad590a1f1ed96cc5d20b6df41106f0dac19e0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f8ad590a1f1ed96cc5d20b6df41106f0dac19e0/",
+    "usedAt": 1783030207475,
+    "usedAtIso": "2026-07-02T22:10:07.475Z"
+  },
+  "source:6190fa94e38cadf636e049d8a8c3bffbd4ffb3c0": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-desloca-equipes-para-areas-sob-risco-de-chuva-no-rs",
+    "title": "Defesa Civil do Rio Grande do Sul mobiliza equipes e recursos para regiões do Noroeste e Norte diante de risco de novos danos pela chuva",
+    "guid": "rs1multi:041ceff13e995f77eccafd0d2f317cecd08c50c9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_041ceff13e995f77eccafd0d2f317cecd08c50c9/",
+    "usedAt": 1783030207475,
+    "usedAtIso": "2026-07-02T22:10:07.475Z"
   }
 }
