@@ -8,21 +8,22 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Fri, 03 Jul 2026 00:28:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 01:26:47 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Rio Grande do Sul enfrenta frio intenso com geada ampla e tempo firme nesta sexta-feira]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1multi_5f1e7ac0d438b27c32308114a5dca66eb570a4bd/</link>
+<title><![CDATA[Hospitais de Porto Alegre enfrentam alta ocupação e adotam restrição no atendimento de emergência]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_53efae6cf13b87417d5819abc109cdae747c30fd/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 03 Jul 2026 00:01:58 GMT</pubDate>
+<pubDate>Fri, 03 Jul 2026 00:45:32 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rs1multi:5f1e7ac0d438b27c32308114a5dca66eb570a4bd]]></guid>
-<description><![CDATA[O Rio Grande do Sul registra frio intenso nesta sexta-feira, com temperaturas máximas entre 5°C e 14°C, tempo firme na maior parte do Estado e geada em diversas regiões.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1multi:53efae6cf13b87417d5819abc109cdae747c30fd]]></guid>
+<description><![CDATA[A emergência adulta do Hospital Conceição em Porto Alegre opera com 95 pacientes para 51 leitos, levando à adoção de protocolo de restrição para casos gravíssimos.]]></description>
 <content:encoded><![CDATA[
-<p>O Rio Grande do Sul registra frio intenso nesta sexta-feira, com temperaturas máximas entre 5°C e 14°C, tempo firme na maior parte do Estado e geada em diversas regiões.</p>
-<p>Apesar da estabilidade do tempo, ainda há possibilidade de chuvisco ou chuva fraca isolada na Serra, na Região Metropolitana de Porto Alegre e no Extremo Sul. No entanto, essa instabilidade é pontual e não altera o predomínio do tempo seco no Estado.</p>
-<p>A geada deve ocorrer de forma ampla, especialmente nas Missões, na Campanha, no Centro, no Sul, no Sudoeste, nos Pampas e na região de Santa Maria. Nas áreas mais elevadas da Serra Gaúcha, não se descarta a ocorrência de precipitação invernal durante a madrugada.</p>
-<p>As rajadas de vento podem variar entre 50 km/h e 70 km/h na costa, aumentando a sensação de frio e exigindo atenção para atividades na região costeira.</p>
+<p>A emergência adulta do Hospital Conceição em Porto Alegre opera com 95 pacientes para 51 leitos, levando à adoção de protocolo de restrição para casos gravíssimos.</p>
+<p>O Hospital São Lucas da PUCRS atendia 12 pacientes na emergência adulta, funcionando como unidade referenciada devido às obras de modernização estrutural previstas para serem concluídas no fim do ano. No total, os hospitais de Porto Alegre tinham 4.318 pacientes internados, 4.458 leitos operacionais e 541 leitos bloqueados.</p>
+<p>Entre os internados, 58% eram moradores da capital e 42% de outros municípios. Nos pronto atendimentos municipais, havia 157 solicitações de internação, principalmente para leitos adultos.</p>
+<p>A UPA Moacyr Scliar, na zona norte, atendia 54 pacientes, com 49 na enfermaria adulta e 5 na UTI. O PA Bom Jesus operava com 208% de ocupação, a Lomba do Pinheiro com 175%, e o PACS Cruzeiro do Sul também registrava sobrecarga em suas enfermarias e UTIs.</p>
+<p>A situação evidencia a pressão sobre o sistema de saúde da capital, especialmente nas emergências e UTIs, exigindo medidas restritivas para garantir atendimento aos casos mais graves e a orientação para que pacientes busquem outras unidades quando possível.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
