@@ -862,5 +862,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1da283838299f1941230297fda89f5891431b5d0/",
     "usedAt": 1783092373406,
     "usedAtIso": "2026-07-03T15:26:13.406Z"
+  },
+  "source:b4b64e8bc46f99ba2120d92162853c2ef54c7552": {
+    "url": "https://agorars.com/agora-no-tempo/rio-uruguai-nivel-inundacao-sao-borja-itaqui-uruguaiana",
+    "title": "Níveis elevados do Rio Uruguai colocam São Borja, Itaqui e Uruguaiana em alerta para inundações",
+    "guid": "rs1multi:541234de94c26e6ba9e3a28fa0c1f88f963422c9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_541234de94c26e6ba9e3a28fa0c1f88f963422c9/",
+    "usedAt": 1783106773251,
+    "usedAtIso": "2026-07-03T19:26:13.251Z"
+  },
+  "source:23b04304e9d286e9447bdf14e650f9b004948993": {
+    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-alerta-sarampo-vacina",
+    "title": "Porto Alegre emite alerta sobre sarampo após confirmação de casos em São Paulo",
+    "guid": "rs1multi:31007c39a0b3731e6d84784351c6f79f50a4b0a6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_31007c39a0b3731e6d84784351c6f79f50a4b0a6/",
+    "usedAt": 1783106773251,
+    "usedAtIso": "2026-07-03T19:26:13.251Z"
   }
 }
