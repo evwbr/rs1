@@ -1038,5 +1038,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0fc2571ab8256600040ff6ff0a54ac1da5f35681/",
     "usedAt": 1783603573235,
     "usedAtIso": "2026-07-09T13:26:13.235Z"
+  },
+  "source:be5614b3508313e21bb40f2035239f0c2c6f1653": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-rs-sexta-sabado-vento-granizo",
+    "title": "Inmet emite alertas de tempestades para o Rio Grande do Sul entre sexta e sábado",
+    "guid": "rs1multi:90811a03b6115a992fa1da239f5570f83145867e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_90811a03b6115a992fa1da239f5570f83145867e/",
+    "usedAt": 1783607175083,
+    "usedAtIso": "2026-07-09T14:26:15.083Z"
+  },
+  "source:6600d56d9327f9b668f2a8b8271ebf196bc67cbf": {
+    "url": "https://agorars.com/cotidiano/voo-direto-porto-alegre-foz-do-iguacu",
+    "title": "Voos entre Porto Alegre e Foz do Iguaçu têm mudanças nas frequências e horários em agosto",
+    "guid": "rs1multi:0dd66c0778f10ce83fbf6396f07d96d6f6e0d9c9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0dd66c0778f10ce83fbf6396f07d96d6f6e0d9c9/",
+    "usedAt": 1783607175083,
+    "usedAtIso": "2026-07-09T14:26:15.083Z"
   }
 }
