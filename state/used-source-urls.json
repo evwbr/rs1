@@ -1118,5 +1118,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_12ab958984ca80fe4ebdb64641693281abc628db/",
     "usedAt": 1783689973437,
     "usedAtIso": "2026-07-10T13:26:13.437Z"
+  },
+  "source:d04893a1304e270e7f92c57cf008e57ba0147e09": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-laranja-tempestade-ampliado-rs-sabado",
+    "title": "Inmet amplia alerta laranja de tempestades para várias regiões do Rio Grande do Sul neste sábado",
+    "guid": "rs1multi:9871161dbdb4819c9e8d82557baf1ce7ac8bb9cf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9871161dbdb4819c9e8d82557baf1ce7ac8bb9cf/",
+    "usedAt": 1783693574017,
+    "usedAtIso": "2026-07-10T14:26:14.017Z"
+  },
+  "source:339180a9fc7d03b77855bad3aa12e7675808598e": {
+    "url": "https://agorars.com/brasil-e-mundo/mpf-pede-que-inss-suspenda-exigencia-de-biometria-para-beneficios",
+    "title": "MPF recomenda dispensa temporária do cadastro biométrico para concessão de benefícios do INSS até 2026",
+    "guid": "rs1multi:afa9031488c8a0a00fc661b201cfdd48e582f6e2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_afa9031488c8a0a00fc661b201cfdd48e582f6e2/",
+    "usedAt": 1783693574017,
+    "usedAtIso": "2026-07-10T14:26:14.017Z"
   }
 }
