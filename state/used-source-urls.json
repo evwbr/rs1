@@ -1102,5 +1102,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fddd9f93060417ce7cd9b82b3cfbff327752afda/",
     "usedAt": 1783643173154,
     "usedAtIso": "2026-07-10T00:26:13.154Z"
+  },
+  "source:92f1dc0d93ea3242e3d79997929e8fe646e1d0b7": {
+    "url": "https://agorars.com/cotidiano/ibge-processo-seletivo-analistas-censitarios",
+    "title": "IBGE abre inscrições para processo seletivo com 1.020 vagas de analista censitário em todo o país",
+    "guid": "rs1multi:e995aae65291973113140a044fed60215c868019",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e995aae65291973113140a044fed60215c868019/",
+    "usedAt": 1783689973437,
+    "usedAtIso": "2026-07-10T13:26:13.437Z"
+  },
+  "source:e270ce49bcc1b3306005a90512f7c23c7cc81d28": {
+    "url": "https://agorars.com/cotidiano/anvisa-regras-vacinas-covid-19-variantes",
+    "title": "Anvisa pública norma para vacinas contra novas variantes do coronavírus no Brasil",
+    "guid": "rs1multi:12ab958984ca80fe4ebdb64641693281abc628db",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_12ab958984ca80fe4ebdb64641693281abc628db/",
+    "usedAt": 1783689973437,
+    "usedAtIso": "2026-07-10T13:26:13.437Z"
   }
 }
