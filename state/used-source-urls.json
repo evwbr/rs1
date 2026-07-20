@@ -1462,5 +1462,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e1a1391a0bbee95f14a030df34a1ce46c80be2ef/",
     "usedAt": 1784496373058,
     "usedAtIso": "2026-07-19T21:26:13.058Z"
+  },
+  "source:6dc893f4afef94a1c77d482ba9b8117e8f19facf": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-rs-segunda-granizo-rajadas-90-kmh-chuva-120-mm",
+    "title": "Rio Grande do Sul enfrenta temporais com risco de granizo e ventos fortes nesta segunda-feira",
+    "guid": "rs1multi:ffb70f397d4edb94fb936b35ccd1ece496e69cee",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ffb70f397d4edb94fb936b35ccd1ece496e69cee/",
+    "usedAt": 1784510773162,
+    "usedAtIso": "2026-07-20T01:26:13.162Z"
+  },
+  "source:80f17363743491d6c2e00165b8ff4c9934ce9724": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-rs-danos-41-municipios-desalojados-120-mm",
+    "title": "Chuvas intensas causam danos em 41 municípios do Rio Grande do Sul e deixam 19 desalojados",
+    "guid": "rs1multi:9ddaae79c79507b86329337dc69cea885666fe69",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9ddaae79c79507b86329337dc69cea885666fe69/",
+    "usedAt": 1784510773162,
+    "usedAtIso": "2026-07-20T01:26:13.162Z"
   }
 }
