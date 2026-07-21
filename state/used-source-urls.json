@@ -1582,5 +1582,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_229bf245301b96b9116cb18986844f5a9e6c9f62/",
     "usedAt": 1784669177816,
     "usedAtIso": "2026-07-21T21:26:17.816Z"
+  },
+  "source:e625c63c348549304dbc133bdff098d62e58a94f": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/chuva-perde-forca-rs-quarta-feira-70-mm",
+    "title": "Chuva perde intensidade no Rio Grande do Sul, mas tempo segue instável em várias regiões",
+    "guid": "rs1multi:013aa2a4b1b61270d3becfba5f5ef9206c5fe01e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_013aa2a4b1b61270d3becfba5f5ef9206c5fe01e/",
+    "usedAt": 1784676374196,
+    "usedAtIso": "2026-07-21T23:26:14.196Z"
+  },
+  "source:8a4be758eba4c3a73fa97f4a26cf88bb93f82922": {
+    "url": "https://agorars.com/agora-no-transito/rodovias-rs-pontos-bloqueios-totais-parciais",
+    "title": "Rio Grande do Sul registra 19 pontos de bloqueio em rodovias devido a enchentes e deslizamentos",
+    "guid": "rs1multi:f146fcc12d61d80cd91b2a6a3e368bc4abe072fe",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f146fcc12d61d80cd91b2a6a3e368bc4abe072fe/",
+    "usedAt": 1784676374196,
+    "usedAtIso": "2026-07-21T23:26:14.196Z"
   }
 }
