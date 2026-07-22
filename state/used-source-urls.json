@@ -1614,5 +1614,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_844b5b605199ae39979fc28d33422aacf3e03925/",
     "usedAt": 1784701574616,
     "usedAtIso": "2026-07-22T06:26:14.616Z"
+  },
+  "source:c0184160b679f083247eff2d9714d4827f3164f6": {
+    "url": "https://agorars.com/rs/vales/taquari/rio-taquari-cota-inundacao-alerta-sete-cidades",
+    "title": "Rio Taquari atinge cota de inundação em vários municípios do Vale do Taquari",
+    "guid": "rs1multi:c25324f66ace0c0d5cac58633091b97837ca2eea",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c25324f66ace0c0d5cac58633091b97837ca2eea/",
+    "usedAt": 1784726774931,
+    "usedAtIso": "2026-07-22T13:26:14.931Z"
+  },
+  "source:d360ac42e81b55020b0f3192a636a58b87b4d313": {
+    "url": "https://agorars.com/agora-no-transito/rodovias-rs-bloqueios-totais-parciais-quarta-feira",
+    "title": "Rio Grande do Sul registra 19 pontos de bloqueio em rodovias estaduais e federais nesta quarta-feira",
+    "guid": "rs1multi:965e70c3a7be703c4fe68b798624853eb9b4cda7",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_965e70c3a7be703c4fe68b798624853eb9b4cda7/",
+    "usedAt": 1784726774931,
+    "usedAtIso": "2026-07-22T13:26:14.931Z"
   }
 }
