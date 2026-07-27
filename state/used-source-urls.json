@@ -1902,5 +1902,21 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_83271b319c8537920e86a7fcfecac50d982b426c/",
     "usedAt": 1785158773852,
     "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:654adb68025a3e899c485ca04aaf4af51b5ab26d": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-rs-chuva-alagamentos-transbordamentos",
+    "title": "Rio Grande do Sul recebe alerta vermelho para chuvas intensas e tempestades até terça-feira",
+    "guid": "rs1multi:98c61042c9458f4b0da59ce6df732da69baa8fb0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_98c61042c9458f4b0da59ce6df732da69baa8fb0/",
+    "usedAt": 1785162373558,
+    "usedAtIso": "2026-07-27T14:26:13.558Z"
+  },
+  "source:d89acdde76420645a34d84c0ec7c0286ef49d526": {
+    "url": "https://agorars.com/agora-no-transito/homem-morre-apos-trator-sair-da-pista-e-capotar-na-ers-126",
+    "title": "Homem de 66 anos morre após trator capotar na ERS-126 em Maximiliano de Almeida",
+    "guid": "rs1multi:595db8d0927b8661d73e8b78c9da655bfb5e7a4c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_595db8d0927b8661d73e8b78c9da655bfb5e7a4c/",
+    "usedAt": 1785162373558,
+    "usedAtIso": "2026-07-27T14:26:13.558Z"
   }
 }
