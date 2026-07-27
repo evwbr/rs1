@@ -1870,5 +1870,37 @@
     "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_801f15eff631fb60302e2a815aaac914f18bf477/",
     "usedAt": 1785097573452,
     "usedAtIso": "2026-07-26T20:26:13.452Z"
+  },
+  "source:78689fb113546fd3b0918a2aee2f97215ed45eb3": {
+    "url": "https://agorars.com/agora-no-tempo/tempestades-rs-granizo-vento-90-kmh-chuva-200-mm",
+    "title": "Instituto Nacional de Meteorologia emite alertas de tempestades com risco de granizo e ventos fortes no Rio Grande do Sul",
+    "guid": "rs1multi:b06dd69c14ee225136fa366bd0af70aa972ae081",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b06dd69c14ee225136fa366bd0af70aa972ae081/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:ccfd3c34dd14d11020d73e9ef9a0e7f2ca8f647b": {
+    "url": "https://agorars.com/agora-no-tempo/quatro-cidades-do-rs-seguem-sob-alerta-de-inundacao-nesta-segunda-feira",
+    "title": "Rios em níveis elevados mantêm alertas de enchentes em cidades do Rio Grande do Sul",
+    "guid": "rs1multi:631e606952f93ab11105670f9612a46b9b54b2ad",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_631e606952f93ab11105670f9612a46b9b54b2ad/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:4ad4e877651cb5e7f2cc7ac2d734cecaf16fd6cc": {
+    "url": "https://agorars.com/brasil-e-mundo/octavio-gallotti-ex-presidente-stf-morre-95-anos",
+    "title": "Morre aos 95 anos o ministro aposentado e ex-presidente do STF Octavio Gallotti",
+    "guid": "rs1multi:1b3e4f009c1bb7d33407737816ee0676807ed77e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1b3e4f009c1bb7d33407737816ee0676807ed77e/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:e6ee3fda9a902e6222e71c382257eff3dd4c4356": {
+    "url": "https://agorars.com/agora-no-transito/acidente-br-293-morto-feridos-capao-do-leao",
+    "title": "Acidente na BR-293 em Capão do Leão deixa uma pessoa morta e quatro feridas",
+    "guid": "rs1multi:83271b319c8537920e86a7fcfecac50d982b426c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_83271b319c8537920e86a7fcfecac50d982b426c/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
   }
 }
