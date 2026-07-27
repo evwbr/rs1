@@ -2,45 +2,54 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - RS1 (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Notícias do Rio Grande do Sul (últimas 72h) - Evo Web News</description>
-<lastBuildDate>Mon, 27 Jul 2026 17:56:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:22:37 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Motorista de aplicativo é feito refém durante roubo de carro em São Leopoldo e veículo colide em Novo Hamburgo]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1multi_80f3cf23932b373912b084d26bee0bbd5bb60750/</link>
+<title><![CDATA[Defesa Civil alerta para tempestades com granizo e ventos fortes no Rio Grande do Sul]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_194f310ac5f688bffb26c7674ba0f1e18cc99b5a/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 17:36:54 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 19:06:39 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rs1multi:80f3cf23932b373912b084d26bee0bbd5bb60750]]></guid>
-<description><![CDATA[Um motorista de aplicativo de 43 anos foi mantido refém após ter seu carro roubado em São Leopoldo; o veículo foi localizado em fuga e colidiu em Novo Hamburgo, deixando o condutor ferido e preso.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1multi:194f310ac5f688bffb26c7674ba0f1e18cc99b5a]]></guid>
+<description><![CDATA[A Defesa Civil do Rio Grande do Sul emitiu alerta para tempestades com possibilidade de granizo grande e rajadas de vento acima de 90 km/h entre esta segunda-feira (27) e terça-feira (28), com risco de chuvas intensas em várias regiões do estado.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F438988%2F97553ce0b20fbed3" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F438988%2F97553ce0b20fbed3" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F438988%2F97553ce0b20fbed3"/>
 <content:encoded><![CDATA[
-<p>Um motorista de aplicativo de 43 anos foi mantido refém após ter seu carro roubado em São Leopoldo; o veículo foi localizado em fuga e colidiu em Novo Hamburgo, deixando o condutor ferido e preso.</p>
-<p>O roubo ocorreu em São Leopoldo, quando dois homens abordaram o motorista de aplicativo, roubaram seu carro, dinheiro e telefone celular. A vítima foi amarrada no banco traseiro do veículo com o cinto de segurança enquanto os criminosos fugiam.</p>
-<p>A família do motorista acionou a Guarda Municipal ao perceber que ele não havia retornado no horário previsto. Os agentes localizaram o carro na BR-116 e deram ordem de parada, mas o condutor desobedeceu e seguiu em direção a Novo Hamburgo.</p>
-<p>No cruzamento das ruas Doutor Magalhães Calvet e 24 de Maio, no bairro Vila Rosa, o veículo colidiu. O homem que dirigia o carro roubado abandonou o veículo e caiu no chão, ficando ferido.</p>
-<p>Após receber atendimento médico, o condutor foi encaminhado à Delegacia de Polícia de Pronto Atendimento (DPPA) e preso. O motorista de aplicativo também ficou ferido e permanecia internado até o fim da manhã desta segunda-feira (27).</p>
-<p>A ocorrência mobilizou as autoridades locais e reforça a atenção para casos de roubo e sequestro na região.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F438988%2F97553ce0b20fbed3" alt="Defesa Civil alerta para tempestades com granizo e ventos fortes no Rio Grande do Sul" /></p>
+<p>A Defesa Civil do Rio Grande do Sul emitiu alerta para tempestades com possibilidade de granizo grande e rajadas de vento acima de 90 km/h entre esta segunda-feira (27) e terça-feira (28), com risco de chuvas intensas em várias regiões do estado.</p>
+<p>O alerta abrange principalmente as regiões Oeste, Centro, Campanha, Sul, Costa Doce e parte dos Vales, onde podem ocorrer volumes de chuva de até 100 milímetros em 12 horas e 150 milímetros em 24 horas. A previsão indica que o período de precipitação começou nesta segunda-feira e deve se estender até quarta-feira (29).</p>
+<p>A Defesa Civil destaca que ainda há incertezas sobre a localização exata dos maiores acumulados de chuva. Um cenário aponta para volumes de até 150 milímetros em 24 horas nas regiões Centro, Oeste e Vales, enquanto outro desloca a chuva mais intensa para a Campanha, Costa Doce e Sul. A resposta das bacias hidrográficas também é incerta, dificultando a previsão precisa do impacto das chuvas.</p>
+<p>O monitoramento hidrológico indica possibilidade de elevação dos níveis dos rios no Oeste e Centro do estado, que já estão altos após as chuvas recentes. Há alerta para inundações no Rio Ibirapuitã e em toda a Região Hidrográfica do Guaíba, com destaque para os rios Jacuí, Caí, Sinos e Gravataí. Também estão sob alerta as bacias dos rios Camaquã, Ibicuí, Santa Maria e Vacacaí, que não foram afetadas pelas inundações anteriores.</p>
+<p>Modelos meteorológicos apresentam divergências quanto ao risco em algumas regiões. Enquanto um modelo indica baixo risco para bacias de resposta rápida, como as dos rios Taquari e Caí, outro projeta um cenário mais abrangente de alerta para a região do Guaíba. A Defesa Civil recomenda que a população acompanhe as atualizações dos alertas, conheça os planos de contingência municipais e siga as orientações das autoridades locais.</p>
+<p>Além disso, uma nova rodada de chuvas está prevista entre sexta-feira (31) e segunda-feira (3), com possibilidade de volumes elevados, embora haja divergências na localização e intensidade. Para o período entre 5 e 10 de agosto, as projeções também apresentam diferenças significativas, variando de pouca precipitação a volumes expressivos em grande parte do estado.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Nível do rio Jacuí recua em Eldorado do Sul, mas município mantém alerta e desalojados]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1multi_8bec9241dfbe382d76a3fff91a17add54e8efe7a/</link>
+<title><![CDATA[Chuvas intensas podem ter causado danos em lavouras de inverno no Rio Grande do Sul]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_80a26a2fa3a57d81e44e314bdc25a7964a633e8d/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 25 Jul 2026 20:00:33 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 18:17:19 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rs1multi:8bec9241dfbe382d76a3fff91a17add54e8efe7a]]></guid>
-<description><![CDATA[O nível do rio Jacuí diminuiu durante a manhã deste sábado em Eldorado do Sul, mas o município segue em alerta moderado a alto, com cerca de 90 pessoas desalojadas.]]></description>
+<guid isPermaLink="false"><![CDATA[rs1multi:80a26a2fa3a57d81e44e314bdc25a7964a633e8d]]></guid>
+<description><![CDATA[As fortes chuvas registradas entre 1º e 21 de julho no Rio Grande do Sul podem ter provocado danos pontuais nas lavouras de trigo, afetando o desenvolvimento das plantas em algumas regiões do estado.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F391038%2F89f821a6c47536b6" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F391038%2F89f821a6c47536b6" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F391038%2F89f821a6c47536b6"/>
 <content:encoded><![CDATA[
-<p>O nível do rio Jacuí diminuiu durante a manhã deste sábado em Eldorado do Sul, mas o município segue em alerta moderado a alto, com cerca de 90 pessoas desalojadas.</p>
-<p>O rio Jacuí apresentou queda no nível em dois pontos monitorados pela Defesa Civil de Eldorado do Sul na manhã deste sábado. No bairro Picada Norte, o nível recuou de 2,66 metros para 2,59 metros, uma redução de sete centímetros.</p>
-<p>Apesar da diminuição, Eldorado do Sul permanece em prontidão nível 3, considerado alerta moderado a alto pela administração municipal. A situação mantém cerca de 90 pessoas desalojadas na cidade.</p>
-<p>Na região do Lago Guaíba, os níveis se mantiveram estáveis nas estações monitoradas. No bairro Sans Souci, o nível do lago permaneceu em 1,06 metro entre as 3h05 e as 10h34. Na estação Itaí, as medições oscilaram entre 77 e 82 centímetros desde a madrugada de sexta-feira.</p>
-<p>Em Porto Alegre, o nível do Guaíba estava em 2,09 metros no Cais Mauá durante a manhã, após atingir o pico de 2,15 metros na tarde de sexta-feira. Na Ilha da Pintada, o nível registrado foi de 1,90 metro no mesmo período.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F391038%2F89f821a6c47536b6" alt="Chuvas intensas podem ter causado danos em lavouras de inverno no Rio Grande do Sul" /></p>
+<p>As fortes chuvas registradas entre 1º e 21 de julho no Rio Grande do Sul podem ter provocado danos pontuais nas lavouras de trigo, afetando o desenvolvimento das plantas em algumas regiões do estado.</p>
+<p>Antes das chuvas intensas, o tempo estava estável, com boa incidência de radiação solar, o que favoreceu a emergência e o desenvolvimento das áreas semeadas com trigo. A implantação das lavouras estava próxima da fase final, com as maiores áreas ainda a serem semeadas concentradas no Planalto Superior e no Sudeste do estado.</p>
+<p>O excesso de chuva pode ter causado enxurradas e alagamentos em algumas localidades, além de provocar lixiviação, processo que remove nutrientes do solo e pode comprometer o crescimento das plantas. Apesar disso, os índices de vegetação permanecem acima dos registrados na safra anterior e da média histórica em todas as regiões produtoras monitoradas.</p>
+<p>Os dados mais recentes disponíveis, referentes até 20 de julho, ainda não refletem os possíveis impactos negativos das chuvas. No Noroeste do Rio Grande do Sul, houve uma pequena redução no índice de vegetação no período mais recente, mas os níveis continuam superiores aos da safra passada e à média histórica.</p>
+<p>Em outras regiões do país, o tempo seco favoreceu a maturação e colheita do algodão e do milho segunda safra. No Paraná, a umidade elevada dificultou a entrada de máquinas e a realização de manejos preventivos em algumas áreas. Em Santa Catarina, as condições de solo e temperatura favoreceram o desenvolvimento inicial das lavouras, embora as chuvas tenham atrasado ligeiramente o fim da semeadura.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
