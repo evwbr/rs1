@@ -1,4 +1,364 @@
 {
+  "source:24902e57ec29d584ad96e2f1377170af81af2658": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-para-tempestades-com-rajadas-acima-de-90-km-h-no-rs",
+    "title": "Defesa Civil alerta para tempestades com granizo e ventos fortes no Rio Grande do Sul",
+    "guid": "rs1multi:194f310ac5f688bffb26c7674ba0f1e18cc99b5a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_194f310ac5f688bffb26c7674ba0f1e18cc99b5a/",
+    "usedAt": 1785180085578,
+    "usedAtIso": "2026-07-27T19:21:25.578Z"
+  },
+  "source:a67916c2cf5fc02560df5a09ec7abb67fb7a9a42": {
+    "url": "https://agorars.com/agricultura/conab-aponta-risco-de-danos-a-lavouras-de-inverno-no-rs",
+    "title": "Chuvas intensas podem ter causado danos em lavouras de inverno no Rio Grande do Sul",
+    "guid": "rs1multi:80a26a2fa3a57d81e44e314bdc25a7964a633e8d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_80a26a2fa3a57d81e44e314bdc25a7964a633e8d/",
+    "usedAt": 1785180085578,
+    "usedAtIso": "2026-07-27T19:21:25.578Z"
+  },
+  "source:d3d66a6aa988f2400110e17adeb7cfabb4951cb7": {
+    "url": "https://agorars.com/rs/vales/sinos/motoboy-morre-apos-ser-atingido-por-carro-roubado-em-novo-hamburgo",
+    "title": "Motorista de aplicativo é feito refém durante roubo de carro em São Leopoldo e veículo colide em Novo Hamburgo",
+    "guid": "rs1multi:80f3cf23932b373912b084d26bee0bbd5bb60750",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_80f3cf23932b373912b084d26bee0bbd5bb60750/",
+    "usedAt": 1785174932367,
+    "usedAtIso": "2026-07-27T17:55:32.367Z"
+  },
+  "source:2539e84f8b8a2a5a9bc48e4ffe2abd93a3e9dbe0": {
+    "url": "https://agorars.com/rs/metropolitana/rio-jacui-recua-e-guaiba-fica-estavel-em-eldorado-do-sul",
+    "title": "Nível do rio Jacuí recua em Eldorado do Sul, mas município mantém alerta e desalojados",
+    "guid": "rs1multi:8bec9241dfbe382d76a3fff91a17add54e8efe7a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8bec9241dfbe382d76a3fff91a17add54e8efe7a/",
+    "usedAt": 1785174932367,
+    "usedAtIso": "2026-07-27T17:55:32.367Z"
+  },
+  "source:289213e8c94ca0acffefc6b8c7d5fb49944d9124": {
+    "url": "https://agorars.com/rs/campanha/mp-rs-acao-divaldo-lara-desvio-recursos-servidores-bage",
+    "title": "Ex-prefeito de Bagé é condenado por esquema de desvio de recursos públicos e enriquecimento ilícito",
+    "guid": "rs1multi:17fb39ab5b617715bce08cb991f9db904d148433",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_17fb39ab5b617715bce08cb991f9db904d148433/",
+    "usedAt": 1785165973604,
+    "usedAtIso": "2026-07-27T15:26:13.604Z"
+  },
+  "source:ea2e89cdf2bc28cb5dd6456de90396cdb4aaca5d": {
+    "url": "https://agorars.com/economia/boletim-focus-inflacao-2026-selic-pib-dolar",
+    "title": "Banco Central projeta inflação de 5,12% para 2026 e mantém estabilidade em indicadores econômicos",
+    "guid": "rs1multi:3ff40fe79c77879bf4eedd302babcd8cde69b6f6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3ff40fe79c77879bf4eedd302babcd8cde69b6f6/",
+    "usedAt": 1785165973604,
+    "usedAtIso": "2026-07-27T15:26:13.604Z"
+  },
+  "source:654adb68025a3e899c485ca04aaf4af51b5ab26d": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-rs-chuva-alagamentos-transbordamentos",
+    "title": "Rio Grande do Sul recebe alerta vermelho para chuvas intensas e tempestades até terça-feira",
+    "guid": "rs1multi:98c61042c9458f4b0da59ce6df732da69baa8fb0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_98c61042c9458f4b0da59ce6df732da69baa8fb0/",
+    "usedAt": 1785162373558,
+    "usedAtIso": "2026-07-27T14:26:13.558Z"
+  },
+  "source:d89acdde76420645a34d84c0ec7c0286ef49d526": {
+    "url": "https://agorars.com/agora-no-transito/homem-morre-apos-trator-sair-da-pista-e-capotar-na-ers-126",
+    "title": "Homem de 66 anos morre após trator capotar na ERS-126 em Maximiliano de Almeida",
+    "guid": "rs1multi:595db8d0927b8661d73e8b78c9da655bfb5e7a4c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_595db8d0927b8661d73e8b78c9da655bfb5e7a4c/",
+    "usedAt": 1785162373558,
+    "usedAtIso": "2026-07-27T14:26:13.558Z"
+  },
+  "source:78689fb113546fd3b0918a2aee2f97215ed45eb3": {
+    "url": "https://agorars.com/agora-no-tempo/tempestades-rs-granizo-vento-90-kmh-chuva-200-mm",
+    "title": "Instituto Nacional de Meteorologia emite alertas de tempestades com risco de granizo e ventos fortes no Rio Grande do Sul",
+    "guid": "rs1multi:b06dd69c14ee225136fa366bd0af70aa972ae081",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b06dd69c14ee225136fa366bd0af70aa972ae081/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:ccfd3c34dd14d11020d73e9ef9a0e7f2ca8f647b": {
+    "url": "https://agorars.com/agora-no-tempo/quatro-cidades-do-rs-seguem-sob-alerta-de-inundacao-nesta-segunda-feira",
+    "title": "Rios em níveis elevados mantêm alertas de enchentes em cidades do Rio Grande do Sul",
+    "guid": "rs1multi:631e606952f93ab11105670f9612a46b9b54b2ad",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_631e606952f93ab11105670f9612a46b9b54b2ad/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:4ad4e877651cb5e7f2cc7ac2d734cecaf16fd6cc": {
+    "url": "https://agorars.com/brasil-e-mundo/octavio-gallotti-ex-presidente-stf-morre-95-anos",
+    "title": "Morre aos 95 anos o ministro aposentado e ex-presidente do STF Octavio Gallotti",
+    "guid": "rs1multi:1b3e4f009c1bb7d33407737816ee0676807ed77e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1b3e4f009c1bb7d33407737816ee0676807ed77e/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:e6ee3fda9a902e6222e71c382257eff3dd4c4356": {
+    "url": "https://agorars.com/agora-no-transito/acidente-br-293-morto-feridos-capao-do-leao",
+    "title": "Acidente na BR-293 em Capão do Leão deixa uma pessoa morta e quatro feridas",
+    "guid": "rs1multi:83271b319c8537920e86a7fcfecac50d982b426c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_83271b319c8537920e86a7fcfecac50d982b426c/",
+    "usedAt": 1785158773852,
+    "usedAtIso": "2026-07-27T13:26:13.852Z"
+  },
+  "source:58caab91439554a57ae9c5dbd6d02c5004c2becc": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-risco-inundacoes-rs",
+    "title": "Defesa Civil alerta para risco de inundações em várias regiões do Rio Grande do Sul entre domingo e quarta-feira",
+    "guid": "rs1multi:801f15eff631fb60302e2a815aaac914f18bf477",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_801f15eff631fb60302e2a815aaac914f18bf477/",
+    "usedAt": 1785097573452,
+    "usedAtIso": "2026-07-26T20:26:13.452Z"
+  },
+  "source:506b884cab263313ea8fa61cc9413f5829701943": {
+    "url": "https://agorars.com/agricultura/canela-preta-lavouras-canola-ibiruba",
+    "title": "Aumento da incidência de canela-preta preocupa produtores de canola em Ibirubá, RS",
+    "guid": "rs1multi:49754d8b26634927556f77a974a5af5f16c18df7",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_49754d8b26634927556f77a974a5af5f16c18df7/",
+    "usedAt": 1785093973119,
+    "usedAtIso": "2026-07-26T19:26:13.119Z"
+  },
+  "source:7aa4f8f098733068b6fa262d093b61d595679b6c": {
+    "url": "https://agorars.com/agricultura/baixa-demanda-laranjas-rio-grande-do-sul-industria",
+    "title": "Produtores de laranja enfrentam queda nos preços e direcionam parte da produção para a indústria no Rio Grande do Sul",
+    "guid": "rs1multi:8648a436a8fef4e526148e64a85035d8ff0708ca",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8648a436a8fef4e526148e64a85035d8ff0708ca/",
+    "usedAt": 1785093973119,
+    "usedAtIso": "2026-07-26T19:26:13.119Z"
+  },
+  "source:b3f3d63352b29bfa09afa6d66b5a0da331ec0a7d": {
+    "url": "https://agorars.com/agora-no-tempo/numero-desabrigados-cai-531-rio-grande-do-sul",
+    "title": "Número de desabrigados por chuvas no Rio Grande do Sul cai para 531, com maior concentração no Vale do Taquari",
+    "guid": "rs1multi:14cf2b27088dea93cff1d2b7bfa7e60f0a3e9bc9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_14cf2b27088dea93cff1d2b7bfa7e60f0a3e9bc9/",
+    "usedAt": 1785083173520,
+    "usedAtIso": "2026-07-26T16:26:13.520Z"
+  },
+  "source:1e3b9d14d614c37493aca506b8bf68e9f5a8c946": {
+    "url": "https://agorars.com/agora-no-tempo/rio-dos-sinos-cota-inundacao-sao-leopoldo",
+    "title": "Rio dos Sinos atinge cota de inundação em São Leopoldo com risco muito alto",
+    "guid": "rs1multi:c8f167fe80979a5a488c2b15d457da18041ab530",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c8f167fe80979a5a488c2b15d457da18041ab530/",
+    "usedAt": 1785032773155,
+    "usedAtIso": "2026-07-26T02:26:13.155Z"
+  },
+  "source:7133a3f44569fef3a80d964cf6f9cbfbe71b8a72": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-do-rs-alerta-para-tempestades-severas-e-rajadas-acima-de-90-km-h",
+    "title": "Defesa Civil alerta para tempestades severas e risco de alagamentos no Rio Grande do Sul entre domingo e terça-feira",
+    "guid": "rs1multi:7f031dadd80f16cb5edbd05081821580911b502d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f031dadd80f16cb5edbd05081821580911b502d/",
+    "usedAt": 1785025573593,
+    "usedAtIso": "2026-07-26T00:26:13.593Z"
+  },
+  "source:a77079ffc2e03c48f4f9a4a866113a5c8f1ecf91": {
+    "url": "https://agorars.com/agricultura/trigo-97-area-semeada-floracao-rio-grande-do-sul",
+    "title": "Plantio de trigo no Rio Grande do Sul atinge 97% da área projetada para a safra",
+    "guid": "rs1multi:54ee7f4ca654f9d31cf9d52779e1d6823a1cb8ad",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_54ee7f4ca654f9d31cf9d52779e1d6823a1cb8ad/",
+    "usedAt": 1785011173149,
+    "usedAtIso": "2026-07-25T20:26:13.149Z"
+  },
+  "source:a22ba28fdf8791b78c2c61de494d49be704b6883": {
+    "url": "https://agorars.com/agora-no-tempo/grande-parte-do-rs-tem-risco-de-chuva-forte-vento-e-granizo-neste-domingo",
+    "title": "Grande parte do Rio Grande do Sul fica em alerta para tempestades neste domingo",
+    "guid": "rs1multi:d9129dc360250e1bfe25e106e4648cb5a58cc43b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9129dc360250e1bfe25e106e4648cb5a58cc43b/",
+    "usedAt": 1785000373218,
+    "usedAtIso": "2026-07-25T17:26:13.218Z"
+  },
+  "source:4002b8f6a27b5873b60c5d457e9ec3e751a3b15c": {
+    "url": "https://agorars.com/agora-no-tempo/rs-767-desabrigados-207-municipios-danos-chuvas",
+    "title": "Rio Grande do Sul registra 767 pessoas desabrigadas em oito municípios após chuvas",
+    "guid": "rs1multi:233ca54fefd8b0d30fef6f8cde13f851c020fa46",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_233ca54fefd8b0d30fef6f8cde13f851c020fa46/",
+    "usedAt": 1784939173709,
+    "usedAtIso": "2026-07-25T00:26:13.709Z"
+  },
+  "source:228340918e48f186d44582d9d32bb9f4f015f085": {
+    "url": "https://agorars.com/agora-no-tempo/cheia-do-jacui-deixa-30-pessoas-desalojadas-em-eldorado-do-sul",
+    "title": "Transbordamento do rio Jacuí deixa 30 pessoas desalojadas em Eldorado do Sul",
+    "guid": "rs1multi:880fc28cb242b26cdd844d26a1357c9964932306",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_880fc28cb242b26cdd844d26a1357c9964932306/",
+    "usedAt": 1784935573127,
+    "usedAtIso": "2026-07-24T23:26:13.127Z"
+  },
+  "source:eee09fab7018707963adc0004d69ff8745f60808": {
+    "url": "https://agorars.com/agora-no-tempo/rs-tera-risco-de-temporais-e-chuva-intensa-na-proxima-semana",
+    "title": "Rio Grande do Sul enfrenta risco de tempestades intensas e chuvas volumosas a partir de domingo",
+    "guid": "rs1multi:160c130a954d3f66369e6d58c6d79582bb362ec6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_160c130a954d3f66369e6d58c6d79582bb362ec6/",
+    "usedAt": 1784931974157,
+    "usedAtIso": "2026-07-24T22:26:14.157Z"
+  },
+  "source:7cb629dcf1540aa16aed24e803cf1efa9d7be63d": {
+    "url": "https://agorars.com/agora-no-transito/rs-14-pontos-bloqueio-total-rodovias-estaduais",
+    "title": "Rio Grande do Sul registra 14 bloqueios totais em rodovias estaduais e seis restrições em federais",
+    "guid": "rs1multi:f6f01f2fb8bcea0af961e7d559d74c1a36838447",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f6f01f2fb8bcea0af961e7d559d74c1a36838447/",
+    "usedAt": 1784924773273,
+    "usedAtIso": "2026-07-24T20:26:13.273Z"
+  },
+  "source:6c3a92c09d2e3460e5cf088088fd3f07fa32547e": {
+    "url": "https://agorars.com/agora-no-transito/trensurb-interrompe-mathias-velho-novo-hamburgo-domingo",
+    "title": "Obras na BR-116 afetam operação da Trensurb entre Mercado e Mathias Velho em Porto Alegre",
+    "guid": "rs1multi:83b7060331c4f83e355ce678434a03088a80538d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_83b7060331c4f83e355ce678434a03088a80538d/",
+    "usedAt": 1784921173335,
+    "usedAtIso": "2026-07-24T19:26:13.335Z"
+  },
+  "source:b7fa5a63896cce956779ed5c76e7060a92541d93": {
+    "url": "https://agorars.com/agora-no-transito/br-116-restricoes-dois-pontos-canoas-fim-semana",
+    "title": "BR-116 terá restrições de trânsito em Canoas neste fim de semana por obras em viadutos",
+    "guid": "rs1multi:1e69fed563a4a95034ad988ea52fbc5b28f502ac",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1e69fed563a4a95034ad988ea52fbc5b28f502ac/",
+    "usedAt": 1784917574907,
+    "usedAtIso": "2026-07-24T18:26:14.907Z"
+  },
+  "source:01e0e1de1be6292e2e315c57bec43836d541f01c": {
+    "url": "https://agorars.com/agora-no-tempo/governo-federal-emergencia-17-municipios-temporais-rs",
+    "title": "Defesa Civil registra danos em 205 municípios do Rio Grande do Sul após temporais e reconhece situação de emergência em Eldorado do Sul",
+    "guid": "rs1multi:6a89182527ea1c753dabdbd8540a43eadc116a42",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6a89182527ea1c753dabdbd8540a43eadc116a42/",
+    "usedAt": 1784910373187,
+    "usedAtIso": "2026-07-24T16:26:13.187Z"
+  },
+  "source:23e432471f999f889bf1c5a6f2a75b1b79e3c73b": {
+    "url": "https://agorars.com/rs/porto-alegre/risco-muito-alto-inundacao-ilhas-porto-alegre-guaiba",
+    "title": "Defesa Civil emite alerta de risco muito alto para inundações nas ilhas de Porto Alegre devido à elevação do nível do Guaíba",
+    "guid": "rs1multi:e50ae42652ea678018086a19f89c8eb6171d5764",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e50ae42652ea678018086a19f89c8eb6171d5764/",
+    "usedAt": 1784899573012,
+    "usedAtIso": "2026-07-24T13:26:13.012Z"
+  },
+  "source:7cc346084eff1e977192721ba5742ef1ce855f73": {
+    "url": "https://agorars.com/agora-no-tempo/rs-tempo-instavel-rios-cota-inundacao",
+    "title": "Chuvas mantêm rios elevados e afetam mais de 200 municípios no Rio Grande do Sul",
+    "guid": "rs1multi:63f615cd1b98eafe4da045cf1ea344ccb1710d7b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_63f615cd1b98eafe4da045cf1ea344ccb1710d7b/",
+    "usedAt": 1784874373219,
+    "usedAtIso": "2026-07-24T06:26:13.219Z"
+  },
+  "source:0b5d7db7d089ec18d7fc1f6722d958ba336736b8": {
+    "url": "https://agorars.com/agora-no-tempo/cheias-deixam-1-315-pessoas-desabrigadas-em-18-cidades-do-rs",
+    "title": "Chuvas deixam mais de 1,3 mil pessoas desabrigadas em 18 municípios do Rio Grande do Sul",
+    "guid": "rs1multi:ab9c1a9c6577e252d7e36f5b53b40b515c2167e6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ab9c1a9c6577e252d7e36f5b53b40b515c2167e6/",
+    "usedAt": 1784863573857,
+    "usedAtIso": "2026-07-24T03:26:13.857Z"
+  },
+  "source:d5dbdc1930767762badaec4ba7e710de399a7b2b": {
+    "url": "https://agorars.com/cotidiano/porto-alegre-defesa-civil-alerta-para-alto-risco-de-inundacao-no-bairro-arquipelago",
+    "title": "Defesa Civil emite alerta de alto risco de inundação no bairro Arquipélago, em Porto Alegre",
+    "guid": "rs1multi:e1b324d9dabc6ffec092f5068661e9dd2f334151",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e1b324d9dabc6ffec092f5068661e9dd2f334151/",
+    "usedAt": 1784849173419,
+    "usedAtIso": "2026-07-23T23:26:13.419Z"
+  },
+  "source:7352ee3f13db2477af6ba1e609bba663f3218516": {
+    "url": "https://agorars.com/plantao-rs/lider-de-faccao-do-amapa-e-preso-em-porto-alegre",
+    "title": "Líder de organização criminosa do Amapá é preso em Porto Alegre durante operação conjunta",
+    "guid": "rs1multi:6d3d8fbcf3be680f694fb40dfe657af173883d8b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6d3d8fbcf3be680f694fb40dfe657af173883d8b/",
+    "usedAt": 1784845573419,
+    "usedAtIso": "2026-07-23T22:26:13.419Z"
+  },
+  "source:018bd4d4a9d60cf6381b6104ec292f0891264f11": {
+    "url": "https://agorars.com/rs/porto-alegre/guaiba-sobe-para-196-metro-no-cais-maua",
+    "title": "Elevação gradual do nível do Guaíba leva DMAE a alterar drenagem no bairro Guarujá, em Porto Alegre",
+    "guid": "rs1multi:aa57ee2e96ccd566291f1fb6b2b174549b312175",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aa57ee2e96ccd566291f1fb6b2b174549b312175/",
+    "usedAt": 1784845573419,
+    "usedAtIso": "2026-07-23T22:26:13.419Z"
+  },
+  "source:e81c7e81ac8bf2300b78732f4c47aed35d51c8cc": {
+    "url": "https://agorars.com/agora-no-tempo/rios-superam-cotas-inundacao-rs-guaiba-alerta-porto-alegre",
+    "title": "Rios do Rio Grande do Sul ultrapassam cotas de inundação e Defesa Civil intensifica ações preventivas em Porto Alegre",
+    "guid": "rs1multi:b304e061e2046d632c8856e5d90882ee72566033",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b304e061e2046d632c8856e5d90882ee72566033/",
+    "usedAt": 1784820373529,
+    "usedAtIso": "2026-07-23T15:26:13.529Z"
+  },
+  "source:5742713090eddb3337b026861f79db909df5ad2a": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-alerta-cheias-ilhas-guaruja-extremo-sul",
+    "title": "Defesa Civil de Porto Alegre emite alerta de cheias para regiões ribeirinhas até segunda-feira",
+    "guid": "rs1multi:a4f943112597287f572d152af14095f6c3d2b90b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a4f943112597287f572d152af14095f6c3d2b90b/",
+    "usedAt": 1784816773649,
+    "usedAtIso": "2026-07-23T14:26:13.649Z"
+  },
+  "source:c5b86c5f4f8c639d26f593d2cf11ea9626aa06d7": {
+    "url": "https://agorars.com/agora-no-tempo/rio-cai-31-pessoas-fora-casa-sao-sebastiao-montenegro",
+    "title": "Cheia do Rio Caí força 13 famílias a deixarem casas em São Sebastião do Caí",
+    "guid": "rs1multi:a61e024839c4d5e7008a918caa28ab65c7b55a55",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a61e024839c4d5e7008a918caa28ab65c7b55a55/",
+    "usedAt": 1784816773649,
+    "usedAtIso": "2026-07-23T14:26:13.649Z"
+  },
+  "source:cdd27745aa7820487025aa2b39cc606d1b908c51": {
+    "url": "https://agorars.com/agora-no-tempo/quinta-feira-tera-chuva-fraca-no-leste-gaucho-e-volta-do-frio-ao-rs",
+    "title": "Chuva perde intensidade no Rio Grande do Sul com melhora gradual do tempo nesta quinta-feira",
+    "guid": "rs1multi:eb7290916d35792657733a83efb934fdd4480616",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_eb7290916d35792657733a83efb934fdd4480616/",
+    "usedAt": 1784766373718,
+    "usedAtIso": "2026-07-23T00:26:13.718Z"
+  },
+  "source:b17b20def9b0b0b3eb452472c29d2396b8db9d17": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-causa-danos-em-164-municipios-do-rs-e-deixa-1-099-pessoas-fora-de-casa",
+    "title": "Chuvas intensas causam danos em 164 municípios do Rio Grande do Sul e deixam mais de mil pessoas fora de casa",
+    "guid": "rs1multi:59a94b61dfda267375d8ba09452dbbefc3c60c9c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_59a94b61dfda267375d8ba09452dbbefc3c60c9c/",
+    "usedAt": 1784766373718,
+    "usedAtIso": "2026-07-23T00:26:13.718Z"
+  },
+  "source:4fca71712dbd7fb647d2ec7a0537579acfad01fd": {
+    "url": "https://agorars.com/agora-no-tempo/rs-728-desabrigados-13-municipios-enchentes",
+    "title": "Vale do Taquari concentra mais de 87% das pessoas acolhidas após enchentes no Rio Grande do Sul",
+    "guid": "rs1multi:d51f76ec89f856580894cf98a4fb8333be688066",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d51f76ec89f856580894cf98a4fb8333be688066/",
+    "usedAt": 1784762773407,
+    "usedAtIso": "2026-07-22T23:26:13.407Z"
+  },
+  "source:4ed67da841c1b8f3136ab77012ce68613f39e139": {
+    "url": "https://agorars.com/agora-no-tempo/enchentes-deixam-mais-de-400-pessoas-desabrigadas-em-dez-cidades-do-rs",
+    "title": "Enchentes deixam 461 pessoas desabrigadas em dez municípios do Rio Grande do Sul",
+    "guid": "rs1multi:89ac86e9a474cd4131371b6734d2845ec26d0e87",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_89ac86e9a474cd4131371b6734d2845ec26d0e87/",
+    "usedAt": 1784744773250,
+    "usedAtIso": "2026-07-22T18:26:13.250Z"
+  },
+  "source:9b5ecce08c3836abb161295f5e1877397096fa4f": {
+    "url": "https://agorars.com/rs/porto-alegre/chuva-chega-a-1465-mm-e-defesa-civil-atende-71-ocorrencias-em-porto-alegre",
+    "title": "Chuva intensa acumula até 146,5 mm em Porto Alegre e Defesa Civil registra 71 ocorrências",
+    "guid": "rs1multi:a410597de0edb8580802daae2e55038c3ebdc47f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a410597de0edb8580802daae2e55038c3ebdc47f/",
+    "usedAt": 1784733974587,
+    "usedAtIso": "2026-07-22T15:26:14.587Z"
+  },
+  "source:e479b71096d1fa83d3d0d43e731b9843831b66b1": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-danos-143-municipios-rs-desabrigados-desalojados",
+    "title": "Temporal afeta 143 municípios do Rio Grande do Sul e deixa mais de 200 pessoas sem moradia",
+    "guid": "rs1multi:8438282a24bc8d6ba7adb75eec64978737d218ac",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8438282a24bc8d6ba7adb75eec64978737d218ac/",
+    "usedAt": 1784730374159,
+    "usedAtIso": "2026-07-22T14:26:14.159Z"
+  },
+  "source:c0184160b679f083247eff2d9714d4827f3164f6": {
+    "url": "https://agorars.com/rs/vales/taquari/rio-taquari-cota-inundacao-alerta-sete-cidades",
+    "title": "Rio Taquari atinge cota de inundação em vários municípios do Vale do Taquari",
+    "guid": "rs1multi:c25324f66ace0c0d5cac58633091b97837ca2eea",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c25324f66ace0c0d5cac58633091b97837ca2eea/",
+    "usedAt": 1784726774931,
+    "usedAtIso": "2026-07-22T13:26:14.931Z"
+  },
+  "source:d360ac42e81b55020b0f3192a636a58b87b4d313": {
+    "url": "https://agorars.com/agora-no-transito/rodovias-rs-bloqueios-totais-parciais-quarta-feira",
+    "title": "Rio Grande do Sul registra 19 pontos de bloqueio em rodovias estaduais e federais nesta quarta-feira",
+    "guid": "rs1multi:965e70c3a7be703c4fe68b798624853eb9b4cda7",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_965e70c3a7be703c4fe68b798624853eb9b4cda7/",
+    "usedAt": 1784726774931,
+    "usedAtIso": "2026-07-22T13:26:14.931Z"
+  },
+  "source:bedc9347a3af674afccbc6693834970ac9448348": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-preve-alta-do-taquari-e-do-guaiba-apos-chuva-extrema-no-rs",
+    "title": "Rio Taquari deve continuar subindo e pode atingir cota de inundação a partir de Encantado",
+    "guid": "rs1multi:844b5b605199ae39979fc28d33422aacf3e03925",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_844b5b605199ae39979fc28d33422aacf3e03925/",
+    "usedAt": 1784701574616,
+    "usedAtIso": "2026-07-22T06:26:14.616Z"
+  },
   "source:b7e58c480b2ee18ba1e16684ae42502b8543fc8e": {
     "url": "https://agorars.com/rs/metropolitana/justica-cassa-diplomas-de-jussara-cacapava-e-do-vice-em-cachoeirinha",
     "title": "Justiça Eleitoral cassa diplomas da prefeita e vice de Cachoeirinha por abuso de poder político",
@@ -1607,364 +1967,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:bedc9347a3af674afccbc6693834970ac9448348": {
-    "url": "https://agorars.com/agora-no-tempo/defesa-civil-preve-alta-do-taquari-e-do-guaiba-apos-chuva-extrema-no-rs",
-    "title": "Rio Taquari deve continuar subindo e pode atingir cota de inundação a partir de Encantado",
-    "guid": "rs1multi:844b5b605199ae39979fc28d33422aacf3e03925",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_844b5b605199ae39979fc28d33422aacf3e03925/",
-    "usedAt": 1784701574616,
-    "usedAtIso": "2026-07-22T06:26:14.616Z"
+  "source:ba8c5b7e08f7487298ec607e55ae2c3764b5cc8a": {
+    "url": "https://agorars.com/agora-no-tempo/temporal-causa-alagamentos-e-derruba-arvores-em-porto-alegre",
+    "title": "Chuva intensa causa alagamentos, queda de árvores e falta de energia em Porto Alegre",
+    "guid": "rs1multi:1651bc63c06339094df3abda9aaa9499e88f0bda",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1651bc63c06339094df3abda9aaa9499e88f0bda/",
+    "usedAt": 1785194485293,
+    "usedAtIso": "2026-07-27T23:21:25.293Z"
   },
-  "source:c0184160b679f083247eff2d9714d4827f3164f6": {
-    "url": "https://agorars.com/rs/vales/taquari/rio-taquari-cota-inundacao-alerta-sete-cidades",
-    "title": "Rio Taquari atinge cota de inundação em vários municípios do Vale do Taquari",
-    "guid": "rs1multi:c25324f66ace0c0d5cac58633091b97837ca2eea",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c25324f66ace0c0d5cac58633091b97837ca2eea/",
-    "usedAt": 1784726774931,
-    "usedAtIso": "2026-07-22T13:26:14.931Z"
-  },
-  "source:d360ac42e81b55020b0f3192a636a58b87b4d313": {
-    "url": "https://agorars.com/agora-no-transito/rodovias-rs-bloqueios-totais-parciais-quarta-feira",
-    "title": "Rio Grande do Sul registra 19 pontos de bloqueio em rodovias estaduais e federais nesta quarta-feira",
-    "guid": "rs1multi:965e70c3a7be703c4fe68b798624853eb9b4cda7",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_965e70c3a7be703c4fe68b798624853eb9b4cda7/",
-    "usedAt": 1784726774931,
-    "usedAtIso": "2026-07-22T13:26:14.931Z"
-  },
-  "source:e479b71096d1fa83d3d0d43e731b9843831b66b1": {
-    "url": "https://agorars.com/agora-no-tempo/temporais-danos-143-municipios-rs-desabrigados-desalojados",
-    "title": "Temporal afeta 143 municípios do Rio Grande do Sul e deixa mais de 200 pessoas sem moradia",
-    "guid": "rs1multi:8438282a24bc8d6ba7adb75eec64978737d218ac",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8438282a24bc8d6ba7adb75eec64978737d218ac/",
-    "usedAt": 1784730374159,
-    "usedAtIso": "2026-07-22T14:26:14.159Z"
-  },
-  "source:9b5ecce08c3836abb161295f5e1877397096fa4f": {
-    "url": "https://agorars.com/rs/porto-alegre/chuva-chega-a-1465-mm-e-defesa-civil-atende-71-ocorrencias-em-porto-alegre",
-    "title": "Chuva intensa acumula até 146,5 mm em Porto Alegre e Defesa Civil registra 71 ocorrências",
-    "guid": "rs1multi:a410597de0edb8580802daae2e55038c3ebdc47f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a410597de0edb8580802daae2e55038c3ebdc47f/",
-    "usedAt": 1784733974587,
-    "usedAtIso": "2026-07-22T15:26:14.587Z"
-  },
-  "source:4ed67da841c1b8f3136ab77012ce68613f39e139": {
-    "url": "https://agorars.com/agora-no-tempo/enchentes-deixam-mais-de-400-pessoas-desabrigadas-em-dez-cidades-do-rs",
-    "title": "Enchentes deixam 461 pessoas desabrigadas em dez municípios do Rio Grande do Sul",
-    "guid": "rs1multi:89ac86e9a474cd4131371b6734d2845ec26d0e87",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_89ac86e9a474cd4131371b6734d2845ec26d0e87/",
-    "usedAt": 1784744773250,
-    "usedAtIso": "2026-07-22T18:26:13.250Z"
-  },
-  "source:4fca71712dbd7fb647d2ec7a0537579acfad01fd": {
-    "url": "https://agorars.com/agora-no-tempo/rs-728-desabrigados-13-municipios-enchentes",
-    "title": "Vale do Taquari concentra mais de 87% das pessoas acolhidas após enchentes no Rio Grande do Sul",
-    "guid": "rs1multi:d51f76ec89f856580894cf98a4fb8333be688066",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d51f76ec89f856580894cf98a4fb8333be688066/",
-    "usedAt": 1784762773407,
-    "usedAtIso": "2026-07-22T23:26:13.407Z"
-  },
-  "source:cdd27745aa7820487025aa2b39cc606d1b908c51": {
-    "url": "https://agorars.com/agora-no-tempo/quinta-feira-tera-chuva-fraca-no-leste-gaucho-e-volta-do-frio-ao-rs",
-    "title": "Chuva perde intensidade no Rio Grande do Sul com melhora gradual do tempo nesta quinta-feira",
-    "guid": "rs1multi:eb7290916d35792657733a83efb934fdd4480616",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_eb7290916d35792657733a83efb934fdd4480616/",
-    "usedAt": 1784766373718,
-    "usedAtIso": "2026-07-23T00:26:13.718Z"
-  },
-  "source:b17b20def9b0b0b3eb452472c29d2396b8db9d17": {
-    "url": "https://agorars.com/agora-no-tempo/chuva-causa-danos-em-164-municipios-do-rs-e-deixa-1-099-pessoas-fora-de-casa",
-    "title": "Chuvas intensas causam danos em 164 municípios do Rio Grande do Sul e deixam mais de mil pessoas fora de casa",
-    "guid": "rs1multi:59a94b61dfda267375d8ba09452dbbefc3c60c9c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_59a94b61dfda267375d8ba09452dbbefc3c60c9c/",
-    "usedAt": 1784766373718,
-    "usedAtIso": "2026-07-23T00:26:13.718Z"
-  },
-  "source:5742713090eddb3337b026861f79db909df5ad2a": {
-    "url": "https://agorars.com/agora-no-tempo/porto-alegre-alerta-cheias-ilhas-guaruja-extremo-sul",
-    "title": "Defesa Civil de Porto Alegre emite alerta de cheias para regiões ribeirinhas até segunda-feira",
-    "guid": "rs1multi:a4f943112597287f572d152af14095f6c3d2b90b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a4f943112597287f572d152af14095f6c3d2b90b/",
-    "usedAt": 1784816773649,
-    "usedAtIso": "2026-07-23T14:26:13.649Z"
-  },
-  "source:c5b86c5f4f8c639d26f593d2cf11ea9626aa06d7": {
-    "url": "https://agorars.com/agora-no-tempo/rio-cai-31-pessoas-fora-casa-sao-sebastiao-montenegro",
-    "title": "Cheia do Rio Caí força 13 famílias a deixarem casas em São Sebastião do Caí",
-    "guid": "rs1multi:a61e024839c4d5e7008a918caa28ab65c7b55a55",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a61e024839c4d5e7008a918caa28ab65c7b55a55/",
-    "usedAt": 1784816773649,
-    "usedAtIso": "2026-07-23T14:26:13.649Z"
-  },
-  "source:e81c7e81ac8bf2300b78732f4c47aed35d51c8cc": {
-    "url": "https://agorars.com/agora-no-tempo/rios-superam-cotas-inundacao-rs-guaiba-alerta-porto-alegre",
-    "title": "Rios do Rio Grande do Sul ultrapassam cotas de inundação e Defesa Civil intensifica ações preventivas em Porto Alegre",
-    "guid": "rs1multi:b304e061e2046d632c8856e5d90882ee72566033",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b304e061e2046d632c8856e5d90882ee72566033/",
-    "usedAt": 1784820373529,
-    "usedAtIso": "2026-07-23T15:26:13.529Z"
-  },
-  "source:7352ee3f13db2477af6ba1e609bba663f3218516": {
-    "url": "https://agorars.com/plantao-rs/lider-de-faccao-do-amapa-e-preso-em-porto-alegre",
-    "title": "Líder de organização criminosa do Amapá é preso em Porto Alegre durante operação conjunta",
-    "guid": "rs1multi:6d3d8fbcf3be680f694fb40dfe657af173883d8b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6d3d8fbcf3be680f694fb40dfe657af173883d8b/",
-    "usedAt": 1784845573419,
-    "usedAtIso": "2026-07-23T22:26:13.419Z"
-  },
-  "source:018bd4d4a9d60cf6381b6104ec292f0891264f11": {
-    "url": "https://agorars.com/rs/porto-alegre/guaiba-sobe-para-196-metro-no-cais-maua",
-    "title": "Elevação gradual do nível do Guaíba leva DMAE a alterar drenagem no bairro Guarujá, em Porto Alegre",
-    "guid": "rs1multi:aa57ee2e96ccd566291f1fb6b2b174549b312175",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aa57ee2e96ccd566291f1fb6b2b174549b312175/",
-    "usedAt": 1784845573419,
-    "usedAtIso": "2026-07-23T22:26:13.419Z"
-  },
-  "source:d5dbdc1930767762badaec4ba7e710de399a7b2b": {
-    "url": "https://agorars.com/cotidiano/porto-alegre-defesa-civil-alerta-para-alto-risco-de-inundacao-no-bairro-arquipelago",
-    "title": "Defesa Civil emite alerta de alto risco de inundação no bairro Arquipélago, em Porto Alegre",
-    "guid": "rs1multi:e1b324d9dabc6ffec092f5068661e9dd2f334151",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e1b324d9dabc6ffec092f5068661e9dd2f334151/",
-    "usedAt": 1784849173419,
-    "usedAtIso": "2026-07-23T23:26:13.419Z"
-  },
-  "source:0b5d7db7d089ec18d7fc1f6722d958ba336736b8": {
-    "url": "https://agorars.com/agora-no-tempo/cheias-deixam-1-315-pessoas-desabrigadas-em-18-cidades-do-rs",
-    "title": "Chuvas deixam mais de 1,3 mil pessoas desabrigadas em 18 municípios do Rio Grande do Sul",
-    "guid": "rs1multi:ab9c1a9c6577e252d7e36f5b53b40b515c2167e6",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ab9c1a9c6577e252d7e36f5b53b40b515c2167e6/",
-    "usedAt": 1784863573857,
-    "usedAtIso": "2026-07-24T03:26:13.857Z"
-  },
-  "source:7cc346084eff1e977192721ba5742ef1ce855f73": {
-    "url": "https://agorars.com/agora-no-tempo/rs-tempo-instavel-rios-cota-inundacao",
-    "title": "Chuvas mantêm rios elevados e afetam mais de 200 municípios no Rio Grande do Sul",
-    "guid": "rs1multi:63f615cd1b98eafe4da045cf1ea344ccb1710d7b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_63f615cd1b98eafe4da045cf1ea344ccb1710d7b/",
-    "usedAt": 1784874373219,
-    "usedAtIso": "2026-07-24T06:26:13.219Z"
-  },
-  "source:23e432471f999f889bf1c5a6f2a75b1b79e3c73b": {
-    "url": "https://agorars.com/rs/porto-alegre/risco-muito-alto-inundacao-ilhas-porto-alegre-guaiba",
-    "title": "Defesa Civil emite alerta de risco muito alto para inundações nas ilhas de Porto Alegre devido à elevação do nível do Guaíba",
-    "guid": "rs1multi:e50ae42652ea678018086a19f89c8eb6171d5764",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e50ae42652ea678018086a19f89c8eb6171d5764/",
-    "usedAt": 1784899573012,
-    "usedAtIso": "2026-07-24T13:26:13.012Z"
-  },
-  "source:01e0e1de1be6292e2e315c57bec43836d541f01c": {
-    "url": "https://agorars.com/agora-no-tempo/governo-federal-emergencia-17-municipios-temporais-rs",
-    "title": "Defesa Civil registra danos em 205 municípios do Rio Grande do Sul após temporais e reconhece situação de emergência em Eldorado do Sul",
-    "guid": "rs1multi:6a89182527ea1c753dabdbd8540a43eadc116a42",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6a89182527ea1c753dabdbd8540a43eadc116a42/",
-    "usedAt": 1784910373187,
-    "usedAtIso": "2026-07-24T16:26:13.187Z"
-  },
-  "source:b7fa5a63896cce956779ed5c76e7060a92541d93": {
-    "url": "https://agorars.com/agora-no-transito/br-116-restricoes-dois-pontos-canoas-fim-semana",
-    "title": "BR-116 terá restrições de trânsito em Canoas neste fim de semana por obras em viadutos",
-    "guid": "rs1multi:1e69fed563a4a95034ad988ea52fbc5b28f502ac",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1e69fed563a4a95034ad988ea52fbc5b28f502ac/",
-    "usedAt": 1784917574907,
-    "usedAtIso": "2026-07-24T18:26:14.907Z"
-  },
-  "source:6c3a92c09d2e3460e5cf088088fd3f07fa32547e": {
-    "url": "https://agorars.com/agora-no-transito/trensurb-interrompe-mathias-velho-novo-hamburgo-domingo",
-    "title": "Obras na BR-116 afetam operação da Trensurb entre Mercado e Mathias Velho em Porto Alegre",
-    "guid": "rs1multi:83b7060331c4f83e355ce678434a03088a80538d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_83b7060331c4f83e355ce678434a03088a80538d/",
-    "usedAt": 1784921173335,
-    "usedAtIso": "2026-07-24T19:26:13.335Z"
-  },
-  "source:7cb629dcf1540aa16aed24e803cf1efa9d7be63d": {
-    "url": "https://agorars.com/agora-no-transito/rs-14-pontos-bloqueio-total-rodovias-estaduais",
-    "title": "Rio Grande do Sul registra 14 bloqueios totais em rodovias estaduais e seis restrições em federais",
-    "guid": "rs1multi:f6f01f2fb8bcea0af961e7d559d74c1a36838447",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f6f01f2fb8bcea0af961e7d559d74c1a36838447/",
-    "usedAt": 1784924773273,
-    "usedAtIso": "2026-07-24T20:26:13.273Z"
-  },
-  "source:eee09fab7018707963adc0004d69ff8745f60808": {
-    "url": "https://agorars.com/agora-no-tempo/rs-tera-risco-de-temporais-e-chuva-intensa-na-proxima-semana",
-    "title": "Rio Grande do Sul enfrenta risco de tempestades intensas e chuvas volumosas a partir de domingo",
-    "guid": "rs1multi:160c130a954d3f66369e6d58c6d79582bb362ec6",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_160c130a954d3f66369e6d58c6d79582bb362ec6/",
-    "usedAt": 1784931974157,
-    "usedAtIso": "2026-07-24T22:26:14.157Z"
-  },
-  "source:228340918e48f186d44582d9d32bb9f4f015f085": {
-    "url": "https://agorars.com/agora-no-tempo/cheia-do-jacui-deixa-30-pessoas-desalojadas-em-eldorado-do-sul",
-    "title": "Transbordamento do rio Jacuí deixa 30 pessoas desalojadas em Eldorado do Sul",
-    "guid": "rs1multi:880fc28cb242b26cdd844d26a1357c9964932306",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_880fc28cb242b26cdd844d26a1357c9964932306/",
-    "usedAt": 1784935573127,
-    "usedAtIso": "2026-07-24T23:26:13.127Z"
-  },
-  "source:4002b8f6a27b5873b60c5d457e9ec3e751a3b15c": {
-    "url": "https://agorars.com/agora-no-tempo/rs-767-desabrigados-207-municipios-danos-chuvas",
-    "title": "Rio Grande do Sul registra 767 pessoas desabrigadas em oito municípios após chuvas",
-    "guid": "rs1multi:233ca54fefd8b0d30fef6f8cde13f851c020fa46",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_233ca54fefd8b0d30fef6f8cde13f851c020fa46/",
-    "usedAt": 1784939173709,
-    "usedAtIso": "2026-07-25T00:26:13.709Z"
-  },
-  "source:a22ba28fdf8791b78c2c61de494d49be704b6883": {
-    "url": "https://agorars.com/agora-no-tempo/grande-parte-do-rs-tem-risco-de-chuva-forte-vento-e-granizo-neste-domingo",
-    "title": "Grande parte do Rio Grande do Sul fica em alerta para tempestades neste domingo",
-    "guid": "rs1multi:d9129dc360250e1bfe25e106e4648cb5a58cc43b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9129dc360250e1bfe25e106e4648cb5a58cc43b/",
-    "usedAt": 1785000373218,
-    "usedAtIso": "2026-07-25T17:26:13.218Z"
-  },
-  "source:a77079ffc2e03c48f4f9a4a866113a5c8f1ecf91": {
-    "url": "https://agorars.com/agricultura/trigo-97-area-semeada-floracao-rio-grande-do-sul",
-    "title": "Plantio de trigo no Rio Grande do Sul atinge 97% da área projetada para a safra",
-    "guid": "rs1multi:54ee7f4ca654f9d31cf9d52779e1d6823a1cb8ad",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_54ee7f4ca654f9d31cf9d52779e1d6823a1cb8ad/",
-    "usedAt": 1785011173149,
-    "usedAtIso": "2026-07-25T20:26:13.149Z"
-  },
-  "source:7133a3f44569fef3a80d964cf6f9cbfbe71b8a72": {
-    "url": "https://agorars.com/agora-no-tempo/defesa-civil-do-rs-alerta-para-tempestades-severas-e-rajadas-acima-de-90-km-h",
-    "title": "Defesa Civil alerta para tempestades severas e risco de alagamentos no Rio Grande do Sul entre domingo e terça-feira",
-    "guid": "rs1multi:7f031dadd80f16cb5edbd05081821580911b502d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f031dadd80f16cb5edbd05081821580911b502d/",
-    "usedAt": 1785025573593,
-    "usedAtIso": "2026-07-26T00:26:13.593Z"
-  },
-  "source:1e3b9d14d614c37493aca506b8bf68e9f5a8c946": {
-    "url": "https://agorars.com/agora-no-tempo/rio-dos-sinos-cota-inundacao-sao-leopoldo",
-    "title": "Rio dos Sinos atinge cota de inundação em São Leopoldo com risco muito alto",
-    "guid": "rs1multi:c8f167fe80979a5a488c2b15d457da18041ab530",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c8f167fe80979a5a488c2b15d457da18041ab530/",
-    "usedAt": 1785032773155,
-    "usedAtIso": "2026-07-26T02:26:13.155Z"
-  },
-  "source:b3f3d63352b29bfa09afa6d66b5a0da331ec0a7d": {
-    "url": "https://agorars.com/agora-no-tempo/numero-desabrigados-cai-531-rio-grande-do-sul",
-    "title": "Número de desabrigados por chuvas no Rio Grande do Sul cai para 531, com maior concentração no Vale do Taquari",
-    "guid": "rs1multi:14cf2b27088dea93cff1d2b7bfa7e60f0a3e9bc9",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_14cf2b27088dea93cff1d2b7bfa7e60f0a3e9bc9/",
-    "usedAt": 1785083173520,
-    "usedAtIso": "2026-07-26T16:26:13.520Z"
-  },
-  "source:506b884cab263313ea8fa61cc9413f5829701943": {
-    "url": "https://agorars.com/agricultura/canela-preta-lavouras-canola-ibiruba",
-    "title": "Aumento da incidência de canela-preta preocupa produtores de canola em Ibirubá, RS",
-    "guid": "rs1multi:49754d8b26634927556f77a974a5af5f16c18df7",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_49754d8b26634927556f77a974a5af5f16c18df7/",
-    "usedAt": 1785093973119,
-    "usedAtIso": "2026-07-26T19:26:13.119Z"
-  },
-  "source:7aa4f8f098733068b6fa262d093b61d595679b6c": {
-    "url": "https://agorars.com/agricultura/baixa-demanda-laranjas-rio-grande-do-sul-industria",
-    "title": "Produtores de laranja enfrentam queda nos preços e direcionam parte da produção para a indústria no Rio Grande do Sul",
-    "guid": "rs1multi:8648a436a8fef4e526148e64a85035d8ff0708ca",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8648a436a8fef4e526148e64a85035d8ff0708ca/",
-    "usedAt": 1785093973119,
-    "usedAtIso": "2026-07-26T19:26:13.119Z"
-  },
-  "source:58caab91439554a57ae9c5dbd6d02c5004c2becc": {
-    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-risco-inundacoes-rs",
-    "title": "Defesa Civil alerta para risco de inundações em várias regiões do Rio Grande do Sul entre domingo e quarta-feira",
-    "guid": "rs1multi:801f15eff631fb60302e2a815aaac914f18bf477",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_801f15eff631fb60302e2a815aaac914f18bf477/",
-    "usedAt": 1785097573452,
-    "usedAtIso": "2026-07-26T20:26:13.452Z"
-  },
-  "source:78689fb113546fd3b0918a2aee2f97215ed45eb3": {
-    "url": "https://agorars.com/agora-no-tempo/tempestades-rs-granizo-vento-90-kmh-chuva-200-mm",
-    "title": "Instituto Nacional de Meteorologia emite alertas de tempestades com risco de granizo e ventos fortes no Rio Grande do Sul",
-    "guid": "rs1multi:b06dd69c14ee225136fa366bd0af70aa972ae081",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b06dd69c14ee225136fa366bd0af70aa972ae081/",
-    "usedAt": 1785158773852,
-    "usedAtIso": "2026-07-27T13:26:13.852Z"
-  },
-  "source:ccfd3c34dd14d11020d73e9ef9a0e7f2ca8f647b": {
-    "url": "https://agorars.com/agora-no-tempo/quatro-cidades-do-rs-seguem-sob-alerta-de-inundacao-nesta-segunda-feira",
-    "title": "Rios em níveis elevados mantêm alertas de enchentes em cidades do Rio Grande do Sul",
-    "guid": "rs1multi:631e606952f93ab11105670f9612a46b9b54b2ad",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_631e606952f93ab11105670f9612a46b9b54b2ad/",
-    "usedAt": 1785158773852,
-    "usedAtIso": "2026-07-27T13:26:13.852Z"
-  },
-  "source:4ad4e877651cb5e7f2cc7ac2d734cecaf16fd6cc": {
-    "url": "https://agorars.com/brasil-e-mundo/octavio-gallotti-ex-presidente-stf-morre-95-anos",
-    "title": "Morre aos 95 anos o ministro aposentado e ex-presidente do STF Octavio Gallotti",
-    "guid": "rs1multi:1b3e4f009c1bb7d33407737816ee0676807ed77e",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1b3e4f009c1bb7d33407737816ee0676807ed77e/",
-    "usedAt": 1785158773852,
-    "usedAtIso": "2026-07-27T13:26:13.852Z"
-  },
-  "source:e6ee3fda9a902e6222e71c382257eff3dd4c4356": {
-    "url": "https://agorars.com/agora-no-transito/acidente-br-293-morto-feridos-capao-do-leao",
-    "title": "Acidente na BR-293 em Capão do Leão deixa uma pessoa morta e quatro feridas",
-    "guid": "rs1multi:83271b319c8537920e86a7fcfecac50d982b426c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_83271b319c8537920e86a7fcfecac50d982b426c/",
-    "usedAt": 1785158773852,
-    "usedAtIso": "2026-07-27T13:26:13.852Z"
-  },
-  "source:654adb68025a3e899c485ca04aaf4af51b5ab26d": {
-    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-rs-chuva-alagamentos-transbordamentos",
-    "title": "Rio Grande do Sul recebe alerta vermelho para chuvas intensas e tempestades até terça-feira",
-    "guid": "rs1multi:98c61042c9458f4b0da59ce6df732da69baa8fb0",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_98c61042c9458f4b0da59ce6df732da69baa8fb0/",
-    "usedAt": 1785162373558,
-    "usedAtIso": "2026-07-27T14:26:13.558Z"
-  },
-  "source:d89acdde76420645a34d84c0ec7c0286ef49d526": {
-    "url": "https://agorars.com/agora-no-transito/homem-morre-apos-trator-sair-da-pista-e-capotar-na-ers-126",
-    "title": "Homem de 66 anos morre após trator capotar na ERS-126 em Maximiliano de Almeida",
-    "guid": "rs1multi:595db8d0927b8661d73e8b78c9da655bfb5e7a4c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_595db8d0927b8661d73e8b78c9da655bfb5e7a4c/",
-    "usedAt": 1785162373558,
-    "usedAtIso": "2026-07-27T14:26:13.558Z"
-  },
-  "source:289213e8c94ca0acffefc6b8c7d5fb49944d9124": {
-    "url": "https://agorars.com/rs/campanha/mp-rs-acao-divaldo-lara-desvio-recursos-servidores-bage",
-    "title": "Ex-prefeito de Bagé é condenado por esquema de desvio de recursos públicos e enriquecimento ilícito",
-    "guid": "rs1multi:17fb39ab5b617715bce08cb991f9db904d148433",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_17fb39ab5b617715bce08cb991f9db904d148433/",
-    "usedAt": 1785165973604,
-    "usedAtIso": "2026-07-27T15:26:13.604Z"
-  },
-  "source:ea2e89cdf2bc28cb5dd6456de90396cdb4aaca5d": {
-    "url": "https://agorars.com/economia/boletim-focus-inflacao-2026-selic-pib-dolar",
-    "title": "Banco Central projeta inflação de 5,12% para 2026 e mantém estabilidade em indicadores econômicos",
-    "guid": "rs1multi:3ff40fe79c77879bf4eedd302babcd8cde69b6f6",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3ff40fe79c77879bf4eedd302babcd8cde69b6f6/",
-    "usedAt": 1785165973604,
-    "usedAtIso": "2026-07-27T15:26:13.604Z"
-  },
-  "source:d3d66a6aa988f2400110e17adeb7cfabb4951cb7": {
-    "url": "https://agorars.com/rs/vales/sinos/motoboy-morre-apos-ser-atingido-por-carro-roubado-em-novo-hamburgo",
-    "title": "Motorista de aplicativo é feito refém durante roubo de carro em São Leopoldo e veículo colide em Novo Hamburgo",
-    "guid": "rs1multi:80f3cf23932b373912b084d26bee0bbd5bb60750",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_80f3cf23932b373912b084d26bee0bbd5bb60750/",
-    "usedAt": 1785174932367,
-    "usedAtIso": "2026-07-27T17:55:32.367Z"
-  },
-  "source:2539e84f8b8a2a5a9bc48e4ffe2abd93a3e9dbe0": {
-    "url": "https://agorars.com/rs/metropolitana/rio-jacui-recua-e-guaiba-fica-estavel-em-eldorado-do-sul",
-    "title": "Nível do rio Jacuí recua em Eldorado do Sul, mas município mantém alerta e desalojados",
-    "guid": "rs1multi:8bec9241dfbe382d76a3fff91a17add54e8efe7a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8bec9241dfbe382d76a3fff91a17add54e8efe7a/",
-    "usedAt": 1785174932367,
-    "usedAtIso": "2026-07-27T17:55:32.367Z"
-  },
-  "source:24902e57ec29d584ad96e2f1377170af81af2658": {
-    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-para-tempestades-com-rajadas-acima-de-90-km-h-no-rs",
-    "title": "Defesa Civil alerta para tempestades com granizo e ventos fortes no Rio Grande do Sul",
-    "guid": "rs1multi:194f310ac5f688bffb26c7674ba0f1e18cc99b5a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_194f310ac5f688bffb26c7674ba0f1e18cc99b5a/",
-    "usedAt": 1785180085578,
-    "usedAtIso": "2026-07-27T19:21:25.578Z"
-  },
-  "source:a67916c2cf5fc02560df5a09ec7abb67fb7a9a42": {
-    "url": "https://agorars.com/agricultura/conab-aponta-risco-de-danos-a-lavouras-de-inverno-no-rs",
-    "title": "Chuvas intensas podem ter causado danos em lavouras de inverno no Rio Grande do Sul",
-    "guid": "rs1multi:80a26a2fa3a57d81e44e314bdc25a7964a633e8d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_80a26a2fa3a57d81e44e314bdc25a7964a633e8d/",
-    "usedAt": 1785180085578,
-    "usedAtIso": "2026-07-27T19:21:25.578Z"
+  "source:21ab41d12ad09264099895c80411107e0dffac43": {
+    "url": "https://agorars.com/rs/noroeste/granizo-danifica-imoveis-em-santo-antonio-das-missoes-e-bossoroca",
+    "title": "Temporal de granizo danifica mais de 300 casas em Santo Antônio das Missões e causa estragos em Bossoroca",
+    "guid": "rs1multi:250569e976123b065cba54241a7c6b0668b85cde",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_250569e976123b065cba54241a7c6b0668b85cde/",
+    "usedAt": 1785194485293,
+    "usedAtIso": "2026-07-27T23:21:25.293Z"
   }
 }
