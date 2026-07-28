@@ -1,4 +1,12 @@
 {
+  "source:01172f32d8e6d3a3df462a7c4953492802a50919": {
+    "url": "https://agorars.com/rs/litoral-norte/temporal-osorio-210-casas-destelhadas-postes",
+    "title": "Temporal destelha 210 casas e danifica unidades públicas em Osório",
+    "guid": "rs1multi:07345962c1fc7fb58c7f865332221713145bcf79",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_07345962c1fc7fb58c7f865332221713145bcf79/",
+    "usedAt": 1785266826211,
+    "usedAtIso": "2026-07-28T19:27:06.211Z"
+  },
   "source:d53fca71d7106a7b4485e289af693dba914eb268": {
     "url": "https://agorars.com/agora-no-tempo/alertas-vermelhos-inundacao-rios-gravatai-uruguai",
     "title": "Defesa Civil emite alerta vermelho de inundação para os rios Gravataí e Uruguai no Rio Grande do Sul",
@@ -2039,12 +2047,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:01172f32d8e6d3a3df462a7c4953492802a50919": {
-    "url": "https://agorars.com/rs/litoral-norte/temporal-osorio-210-casas-destelhadas-postes",
-    "title": "Temporal destelha 210 casas e danifica unidades públicas em Osório",
-    "guid": "rs1multi:07345962c1fc7fb58c7f865332221713145bcf79",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_07345962c1fc7fb58c7f865332221713145bcf79/",
-    "usedAt": 1785266826211,
-    "usedAtIso": "2026-07-28T19:27:06.211Z"
+  "source:f2dbe6440c5ea399486680f5de06af19fdf9315b": {
+    "url": "https://agorars.com/plantao-rs/homem-investigado-por-feminicidio-de-adolescente-e-preso-e-passara-por-audiencia-de-custodia",
+    "title": "Jovem de 22 anos é preso após matar ex-namorada em Porto Alegre",
+    "guid": "rs1multi:25e221e22fffd768d30608e9b53e9c2736a04e5b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_25e221e22fffd768d30608e9b53e9c2736a04e5b/",
+    "usedAt": 1785281225450,
+    "usedAtIso": "2026-07-28T23:27:05.450Z"
+  },
+  "source:b3548caca6dfe9e3dc41707f1ee060e0943ccd99": {
+    "url": "https://agorars.com/agora-no-transito/rs-tem-15-pontos-de-bloqueio-em-14-rodovias-nesta-terca",
+    "title": "Rio Grande do Sul registra 15 pontos de bloqueio em 14 rodovias devido a alagamentos e obras",
+    "guid": "rs1multi:601a927d5c0b2c1c3b3d4d1bd33813e13447a56b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_601a927d5c0b2c1c3b3d4d1bd33813e13447a56b/",
+    "usedAt": 1785281225450,
+    "usedAtIso": "2026-07-28T23:27:05.450Z"
   }
 }
