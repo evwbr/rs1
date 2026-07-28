@@ -1,4 +1,12 @@
 {
+  "source:d50f67831d1783f24aec4d4dd5b00a6a3967934e": {
+    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-vermelho-tempestade-rs-6",
+    "title": "Instituto Nacional de Meteorologia emite alerta vermelho de tempestades para o Rio Grande do Sul até quarta-feira",
+    "guid": "rs1multi:6467b5037fb0cc92e6d6a5d1d1752594ad2eabb5",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6467b5037fb0cc92e6d6a5d1d1752594ad2eabb5/",
+    "usedAt": 1785245228027,
+    "usedAtIso": "2026-07-28T13:27:08.027Z"
+  },
   "source:599231e77c0fcac737f8c9e824d3102727556277": {
     "url": "https://agorars.com/cotidiano/chuva-consumidores-sem-luz-rs-rge-ceee",
     "title": "Chuvas causam queda de energia para mais de 66 mil consumidores no Rio Grande do Sul",
@@ -2007,12 +2015,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:d50f67831d1783f24aec4d4dd5b00a6a3967934e": {
-    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-vermelho-tempestade-rs-6",
-    "title": "Instituto Nacional de Meteorologia emite alerta vermelho de tempestades para o Rio Grande do Sul até quarta-feira",
-    "guid": "rs1multi:6467b5037fb0cc92e6d6a5d1d1752594ad2eabb5",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6467b5037fb0cc92e6d6a5d1d1752594ad2eabb5/",
-    "usedAt": 1785245228027,
-    "usedAtIso": "2026-07-28T13:27:08.027Z"
+  "source:3215abf9d31327d3a6b258f5d43dc8e5e003e20b": {
+    "url": "https://agorars.com/agora-no-tempo/chuvas-desalojados-danos-casas-municipios-rs",
+    "title": "Chuvas intensas causam danos e desalojam 57 pessoas em municípios do Rio Grande do Sul",
+    "guid": "rs1multi:392313a7073fbeaacb267f953e23a6a6ac8c2bd3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_392313a7073fbeaacb267f953e23a6a6ac8c2bd3/",
+    "usedAt": 1785252425429,
+    "usedAtIso": "2026-07-28T15:27:05.429Z"
+  },
+  "source:6897f2cf577b612aecf059b2867d989fc82155f1": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-inundacao-rio-dos-sinos-sao-leopoldo",
+    "title": "Defesa Civil emite alerta vermelho para risco de enchentes no Vale do Rio dos Sinos",
+    "guid": "rs1multi:4e79cf9d35f3ff1e6af6131d27607fa187ac1767",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4e79cf9d35f3ff1e6af6131d27607fa187ac1767/",
+    "usedAt": 1785252425429,
+    "usedAtIso": "2026-07-28T15:27:05.429Z"
   }
 }
