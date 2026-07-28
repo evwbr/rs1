@@ -1,4 +1,12 @@
 {
+  "source:d53fca71d7106a7b4485e289af693dba914eb268": {
+    "url": "https://agorars.com/agora-no-tempo/alertas-vermelhos-inundacao-rios-gravatai-uruguai",
+    "title": "Defesa Civil emite alerta vermelho de inundação para os rios Gravataí e Uruguai no Rio Grande do Sul",
+    "guid": "rs1multi:e0a2ed5df5413d86a97c6fe2fdbed6b82a6d1132",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e0a2ed5df5413d86a97c6fe2fdbed6b82a6d1132/",
+    "usedAt": 1785259625619,
+    "usedAtIso": "2026-07-28T17:27:05.619Z"
+  },
   "source:3215abf9d31327d3a6b258f5d43dc8e5e003e20b": {
     "url": "https://agorars.com/agora-no-tempo/chuvas-desalojados-danos-casas-municipios-rs",
     "title": "Chuvas intensas causam danos e desalojam 57 pessoas em municípios do Rio Grande do Sul",
@@ -2031,12 +2039,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:d53fca71d7106a7b4485e289af693dba914eb268": {
-    "url": "https://agorars.com/agora-no-tempo/alertas-vermelhos-inundacao-rios-gravatai-uruguai",
-    "title": "Defesa Civil emite alerta vermelho de inundação para os rios Gravataí e Uruguai no Rio Grande do Sul",
-    "guid": "rs1multi:e0a2ed5df5413d86a97c6fe2fdbed6b82a6d1132",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e0a2ed5df5413d86a97c6fe2fdbed6b82a6d1132/",
-    "usedAt": 1785259625619,
-    "usedAtIso": "2026-07-28T17:27:05.619Z"
+  "source:01172f32d8e6d3a3df462a7c4953492802a50919": {
+    "url": "https://agorars.com/rs/litoral-norte/temporal-osorio-210-casas-destelhadas-postes",
+    "title": "Temporal destelha 210 casas e danifica unidades públicas em Osório",
+    "guid": "rs1multi:07345962c1fc7fb58c7f865332221713145bcf79",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_07345962c1fc7fb58c7f865332221713145bcf79/",
+    "usedAt": 1785266826211,
+    "usedAtIso": "2026-07-28T19:27:06.211Z"
   }
 }
