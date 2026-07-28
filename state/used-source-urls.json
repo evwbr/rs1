@@ -1,4 +1,20 @@
 {
+  "source:76e1e38dcf587c10cc76408dc6b4f8aac30ddc10": {
+    "url": "https://agorars.com/politica/eleicoes/eleitor-votar-sem-biometria-eleicoes-2026",
+    "title": "Eleitores poderão votar nas eleições de 2026 mesmo sem cadastro biométrico",
+    "guid": "rs1multi:771afc90b75db0efcfb86599425f76d5abb597c4",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_771afc90b75db0efcfb86599425f76d5abb597c4/",
+    "usedAt": 1785208885729,
+    "usedAtIso": "2026-07-28T03:21:25.729Z"
+  },
+  "source:59e8ac51cd283cf131c271f25f8f59c33067f39a": {
+    "url": "https://agorars.com/agora-no-tempo/temporal-danos-seis-municipios-rio-grande-do-sul",
+    "title": "Chuva intensa e granizo causam danos em seis municípios do Rio Grande do Sul",
+    "guid": "rs1multi:5c45cf68cea66dc35cb118c2bae35acf2493fd99",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5c45cf68cea66dc35cb118c2bae35acf2493fd99/",
+    "usedAt": 1785208885729,
+    "usedAtIso": "2026-07-28T03:21:25.729Z"
+  },
   "source:ba8c5b7e08f7487298ec607e55ae2c3764b5cc8a": {
     "url": "https://agorars.com/agora-no-tempo/temporal-causa-alagamentos-e-derruba-arvores-em-porto-alegre",
     "title": "Chuva intensa causa alagamentos, queda de árvores e falta de energia em Porto Alegre",
@@ -1983,20 +1999,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:76e1e38dcf587c10cc76408dc6b4f8aac30ddc10": {
-    "url": "https://agorars.com/politica/eleicoes/eleitor-votar-sem-biometria-eleicoes-2026",
-    "title": "Eleitores poderão votar nas eleições de 2026 mesmo sem cadastro biométrico",
-    "guid": "rs1multi:771afc90b75db0efcfb86599425f76d5abb597c4",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_771afc90b75db0efcfb86599425f76d5abb597c4/",
-    "usedAt": 1785208885729,
-    "usedAtIso": "2026-07-28T03:21:25.729Z"
-  },
-  "source:59e8ac51cd283cf131c271f25f8f59c33067f39a": {
-    "url": "https://agorars.com/agora-no-tempo/temporal-danos-seis-municipios-rio-grande-do-sul",
-    "title": "Chuva intensa e granizo causam danos em seis municípios do Rio Grande do Sul",
-    "guid": "rs1multi:5c45cf68cea66dc35cb118c2bae35acf2493fd99",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5c45cf68cea66dc35cb118c2bae35acf2493fd99/",
-    "usedAt": 1785208885729,
-    "usedAtIso": "2026-07-28T03:21:25.729Z"
+  "source:599231e77c0fcac737f8c9e824d3102727556277": {
+    "url": "https://agorars.com/cotidiano/chuva-consumidores-sem-luz-rs-rge-ceee",
+    "title": "Chuvas causam queda de energia para mais de 66 mil consumidores no Rio Grande do Sul",
+    "guid": "rs1multi:7a0737422e4e6b0211a922af1ad96cdc0712966f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7a0737422e4e6b0211a922af1ad96cdc0712966f/",
+    "usedAt": 1785242156059,
+    "usedAtIso": "2026-07-28T12:35:56.059Z"
   }
 }
