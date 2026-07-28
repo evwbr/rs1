@@ -1,4 +1,20 @@
 {
+  "source:3215abf9d31327d3a6b258f5d43dc8e5e003e20b": {
+    "url": "https://agorars.com/agora-no-tempo/chuvas-desalojados-danos-casas-municipios-rs",
+    "title": "Chuvas intensas causam danos e desalojam 57 pessoas em municípios do Rio Grande do Sul",
+    "guid": "rs1multi:392313a7073fbeaacb267f953e23a6a6ac8c2bd3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_392313a7073fbeaacb267f953e23a6a6ac8c2bd3/",
+    "usedAt": 1785252425429,
+    "usedAtIso": "2026-07-28T15:27:05.429Z"
+  },
+  "source:6897f2cf577b612aecf059b2867d989fc82155f1": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-inundacao-rio-dos-sinos-sao-leopoldo",
+    "title": "Defesa Civil emite alerta vermelho para risco de enchentes no Vale do Rio dos Sinos",
+    "guid": "rs1multi:4e79cf9d35f3ff1e6af6131d27607fa187ac1767",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4e79cf9d35f3ff1e6af6131d27607fa187ac1767/",
+    "usedAt": 1785252425429,
+    "usedAtIso": "2026-07-28T15:27:05.429Z"
+  },
   "source:d50f67831d1783f24aec4d4dd5b00a6a3967934e": {
     "url": "https://agorars.com/agora-no-tempo/inmet-alerta-vermelho-tempestade-rs-6",
     "title": "Instituto Nacional de Meteorologia emite alerta vermelho de tempestades para o Rio Grande do Sul até quarta-feira",
@@ -2015,20 +2031,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:3215abf9d31327d3a6b258f5d43dc8e5e003e20b": {
-    "url": "https://agorars.com/agora-no-tempo/chuvas-desalojados-danos-casas-municipios-rs",
-    "title": "Chuvas intensas causam danos e desalojam 57 pessoas em municípios do Rio Grande do Sul",
-    "guid": "rs1multi:392313a7073fbeaacb267f953e23a6a6ac8c2bd3",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_392313a7073fbeaacb267f953e23a6a6ac8c2bd3/",
-    "usedAt": 1785252425429,
-    "usedAtIso": "2026-07-28T15:27:05.429Z"
-  },
-  "source:6897f2cf577b612aecf059b2867d989fc82155f1": {
-    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-inundacao-rio-dos-sinos-sao-leopoldo",
-    "title": "Defesa Civil emite alerta vermelho para risco de enchentes no Vale do Rio dos Sinos",
-    "guid": "rs1multi:4e79cf9d35f3ff1e6af6131d27607fa187ac1767",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4e79cf9d35f3ff1e6af6131d27607fa187ac1767/",
-    "usedAt": 1785252425429,
-    "usedAtIso": "2026-07-28T15:27:05.429Z"
+  "source:d53fca71d7106a7b4485e289af693dba914eb268": {
+    "url": "https://agorars.com/agora-no-tempo/alertas-vermelhos-inundacao-rios-gravatai-uruguai",
+    "title": "Defesa Civil emite alerta vermelho de inundação para os rios Gravataí e Uruguai no Rio Grande do Sul",
+    "guid": "rs1multi:e0a2ed5df5413d86a97c6fe2fdbed6b82a6d1132",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e0a2ed5df5413d86a97c6fe2fdbed6b82a6d1132/",
+    "usedAt": 1785259625619,
+    "usedAtIso": "2026-07-28T17:27:05.619Z"
   }
 }
