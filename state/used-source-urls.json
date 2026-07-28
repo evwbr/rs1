@@ -1,4 +1,12 @@
 {
+  "source:599231e77c0fcac737f8c9e824d3102727556277": {
+    "url": "https://agorars.com/cotidiano/chuva-consumidores-sem-luz-rs-rge-ceee",
+    "title": "Chuvas causam queda de energia para mais de 66 mil consumidores no Rio Grande do Sul",
+    "guid": "rs1multi:7a0737422e4e6b0211a922af1ad96cdc0712966f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7a0737422e4e6b0211a922af1ad96cdc0712966f/",
+    "usedAt": 1785242156059,
+    "usedAtIso": "2026-07-28T12:35:56.059Z"
+  },
   "source:76e1e38dcf587c10cc76408dc6b4f8aac30ddc10": {
     "url": "https://agorars.com/politica/eleicoes/eleitor-votar-sem-biometria-eleicoes-2026",
     "title": "Eleitores poderão votar nas eleições de 2026 mesmo sem cadastro biométrico",
@@ -1999,12 +2007,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:599231e77c0fcac737f8c9e824d3102727556277": {
-    "url": "https://agorars.com/cotidiano/chuva-consumidores-sem-luz-rs-rge-ceee",
-    "title": "Chuvas causam queda de energia para mais de 66 mil consumidores no Rio Grande do Sul",
-    "guid": "rs1multi:7a0737422e4e6b0211a922af1ad96cdc0712966f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7a0737422e4e6b0211a922af1ad96cdc0712966f/",
-    "usedAt": 1785242156059,
-    "usedAtIso": "2026-07-28T12:35:56.059Z"
+  "source:d50f67831d1783f24aec4d4dd5b00a6a3967934e": {
+    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-vermelho-tempestade-rs-6",
+    "title": "Instituto Nacional de Meteorologia emite alerta vermelho de tempestades para o Rio Grande do Sul até quarta-feira",
+    "guid": "rs1multi:6467b5037fb0cc92e6d6a5d1d1752594ad2eabb5",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6467b5037fb0cc92e6d6a5d1d1752594ad2eabb5/",
+    "usedAt": 1785245228027,
+    "usedAtIso": "2026-07-28T13:27:08.027Z"
   }
 }
