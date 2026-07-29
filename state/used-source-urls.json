@@ -1,4 +1,20 @@
 {
+  "source:f2dbe6440c5ea399486680f5de06af19fdf9315b": {
+    "url": "https://agorars.com/plantao-rs/homem-investigado-por-feminicidio-de-adolescente-e-preso-e-passara-por-audiencia-de-custodia",
+    "title": "Jovem de 22 anos é preso após matar ex-namorada em Porto Alegre",
+    "guid": "rs1multi:25e221e22fffd768d30608e9b53e9c2736a04e5b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_25e221e22fffd768d30608e9b53e9c2736a04e5b/",
+    "usedAt": 1785281225450,
+    "usedAtIso": "2026-07-28T23:27:05.450Z"
+  },
+  "source:b3548caca6dfe9e3dc41707f1ee060e0943ccd99": {
+    "url": "https://agorars.com/agora-no-transito/rs-tem-15-pontos-de-bloqueio-em-14-rodovias-nesta-terca",
+    "title": "Rio Grande do Sul registra 15 pontos de bloqueio em 14 rodovias devido a alagamentos e obras",
+    "guid": "rs1multi:601a927d5c0b2c1c3b3d4d1bd33813e13447a56b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_601a927d5c0b2c1c3b3d4d1bd33813e13447a56b/",
+    "usedAt": 1785281225450,
+    "usedAtIso": "2026-07-28T23:27:05.450Z"
+  },
   "source:01172f32d8e6d3a3df462a7c4953492802a50919": {
     "url": "https://agorars.com/rs/litoral-norte/temporal-osorio-210-casas-destelhadas-postes",
     "title": "Temporal destelha 210 casas e danifica unidades públicas em Osório",
@@ -2047,20 +2063,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:f2dbe6440c5ea399486680f5de06af19fdf9315b": {
-    "url": "https://agorars.com/plantao-rs/homem-investigado-por-feminicidio-de-adolescente-e-preso-e-passara-por-audiencia-de-custodia",
-    "title": "Jovem de 22 anos é preso após matar ex-namorada em Porto Alegre",
-    "guid": "rs1multi:25e221e22fffd768d30608e9b53e9c2736a04e5b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_25e221e22fffd768d30608e9b53e9c2736a04e5b/",
-    "usedAt": 1785281225450,
-    "usedAtIso": "2026-07-28T23:27:05.450Z"
+  "source:b8665a20fe91ac57b1a381b6cb24d80db5777846": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-causam-danos-em-43-municipios-e-deixa-72-desalojados-no-rs",
+    "title": "Temporal no Rio Grande do Sul causa danos em 43 municípios e deixa 72 pessoas desalojadas",
+    "guid": "rs1multi:1a2d6c0dd5f1a5547c64573405fb5c4c6af1c6cd",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1a2d6c0dd5f1a5547c64573405fb5c4c6af1c6cd/",
+    "usedAt": 1785288426686,
+    "usedAtIso": "2026-07-29T01:27:06.686Z"
   },
-  "source:b3548caca6dfe9e3dc41707f1ee060e0943ccd99": {
-    "url": "https://agorars.com/agora-no-transito/rs-tem-15-pontos-de-bloqueio-em-14-rodovias-nesta-terca",
-    "title": "Rio Grande do Sul registra 15 pontos de bloqueio em 14 rodovias devido a alagamentos e obras",
-    "guid": "rs1multi:601a927d5c0b2c1c3b3d4d1bd33813e13447a56b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_601a927d5c0b2c1c3b3d4d1bd33813e13447a56b/",
-    "usedAt": 1785281225450,
-    "usedAtIso": "2026-07-28T23:27:05.450Z"
+  "source:d478dbed0ac84392fcad2f5e0aaa4e4c15d5a4b5": {
+    "url": "https://agorars.com/agora-no-tempo/tornado-deixa-ao-menos-cinco-feridos-no-noroeste-do-rs",
+    "title": "Tornado atinge municípios da Região Noroeste do Rio Grande do Sul e deixa feridos e danos materiais",
+    "guid": "rs1multi:f8ab95881d00574ea97e9f60475824441f56380d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f8ab95881d00574ea97e9f60475824441f56380d/",
+    "usedAt": 1785288426686,
+    "usedAtIso": "2026-07-29T01:27:06.686Z"
   }
 }
