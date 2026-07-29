@@ -1,4 +1,36 @@
 {
+  "source:dbbe73feb6706d66c5f7ba8ef2c95930bee9a4dd": {
+    "url": "https://agorars.com/agora-no-tempo/temporal-rs-85-municipios-149-desalojados",
+    "title": "Temporal no Rio Grande do Sul deixa cinco feridos, 149 desalojados e danos em pontes e residências",
+    "guid": "rs1multi:5fa74e99107655b6daca73668c358e7fffef109e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5fa74e99107655b6daca73668c358e7fffef109e/",
+    "usedAt": 1785338825795,
+    "usedAtIso": "2026-07-29T15:27:05.795Z"
+  },
+  "source:def280ad02a083400ae2d14f5f8133ba90e1f083": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-inundacao-vale-taquari-sete-municipios",
+    "title": "Defesa Civil mantém alerta vermelho para inundações na bacia do Rio Taquari no Rio Grande do Sul",
+    "guid": "rs1multi:d9d526b24d0b2db48621bef0a089d341df485e23",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9d526b24d0b2db48621bef0a089d341df485e23/",
+    "usedAt": 1785338825795,
+    "usedAtIso": "2026-07-29T15:27:05.795Z"
+  },
+  "source:3125d769c76f4d46c18204c391935eca66b6cdf0": {
+    "url": "https://agorars.com/rs/vales/paranhana/cheia-rio-paranhana-taquara-igrejinha",
+    "title": "Cheias do Rio Paranhana atingem bairros de Taquara e Igrejinha e deixam moradores desalojados",
+    "guid": "rs1multi:fa0ff2a4c1b8a93dee664a13edbfe612d64e2831",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fa0ff2a4c1b8a93dee664a13edbfe612d64e2831/",
+    "usedAt": 1785338825795,
+    "usedAtIso": "2026-07-29T15:27:05.795Z"
+  },
+  "source:341e312ef8536349d5f20e02ceffc7a3036fb101": {
+    "url": "https://agorars.com/agora-no-transito/vento-danifica-placa-de-sinalizacao-da-freeway-br-386-tambem-tem-bloqueios",
+    "title": "Chuvas causam bloqueios e congestionamentos em rodovias do Rio Grande do Sul",
+    "guid": "rs1multi:a37e47d93904c7c240a11c8bd73d4ef26364cf18",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a37e47d93904c7c240a11c8bd73d4ef26364cf18/",
+    "usedAt": 1785338825795,
+    "usedAtIso": "2026-07-29T15:27:05.795Z"
+  },
   "source:b8665a20fe91ac57b1a381b6cb24d80db5777846": {
     "url": "https://agorars.com/agora-no-tempo/temporais-causam-danos-em-43-municipios-e-deixa-72-desalojados-no-rs",
     "title": "Temporal no Rio Grande do Sul causa danos em 43 municípios e deixa 72 pessoas desalojadas",
@@ -2079,36 +2111,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:dbbe73feb6706d66c5f7ba8ef2c95930bee9a4dd": {
-    "url": "https://agorars.com/agora-no-tempo/temporal-rs-85-municipios-149-desalojados",
-    "title": "Temporal no Rio Grande do Sul deixa cinco feridos, 149 desalojados e danos em pontes e residências",
-    "guid": "rs1multi:5fa74e99107655b6daca73668c358e7fffef109e",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5fa74e99107655b6daca73668c358e7fffef109e/",
-    "usedAt": 1785338825795,
-    "usedAtIso": "2026-07-29T15:27:05.795Z"
-  },
-  "source:def280ad02a083400ae2d14f5f8133ba90e1f083": {
-    "url": "https://agorars.com/agora-no-tempo/alerta-vermelho-inundacao-vale-taquari-sete-municipios",
-    "title": "Defesa Civil mantém alerta vermelho para inundações na bacia do Rio Taquari no Rio Grande do Sul",
-    "guid": "rs1multi:d9d526b24d0b2db48621bef0a089d341df485e23",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9d526b24d0b2db48621bef0a089d341df485e23/",
-    "usedAt": 1785338825795,
-    "usedAtIso": "2026-07-29T15:27:05.795Z"
-  },
-  "source:3125d769c76f4d46c18204c391935eca66b6cdf0": {
-    "url": "https://agorars.com/rs/vales/paranhana/cheia-rio-paranhana-taquara-igrejinha",
-    "title": "Cheias do Rio Paranhana atingem bairros de Taquara e Igrejinha e deixam moradores desalojados",
-    "guid": "rs1multi:fa0ff2a4c1b8a93dee664a13edbfe612d64e2831",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fa0ff2a4c1b8a93dee664a13edbfe612d64e2831/",
-    "usedAt": 1785338825795,
-    "usedAtIso": "2026-07-29T15:27:05.795Z"
-  },
-  "source:341e312ef8536349d5f20e02ceffc7a3036fb101": {
-    "url": "https://agorars.com/agora-no-transito/vento-danifica-placa-de-sinalizacao-da-freeway-br-386-tambem-tem-bloqueios",
-    "title": "Chuvas causam bloqueios e congestionamentos em rodovias do Rio Grande do Sul",
-    "guid": "rs1multi:a37e47d93904c7c240a11c8bd73d4ef26364cf18",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a37e47d93904c7c240a11c8bd73d4ef26364cf18/",
-    "usedAt": 1785338825795,
-    "usedAtIso": "2026-07-29T15:27:05.795Z"
+  "source:7db6e5612bdfb74dfd06339b42926d8a9a1843ef": {
+    "url": "https://agorars.com/sua-saude/anvisa-aprova-cinco-canetas-semaglutida-diabetes",
+    "title": "Anvisa autoriza registro de cinco medicamentos injetáveis para perda de peso no Brasil",
+    "guid": "rs1multi:5118d210480184b17cb30556c52caa32475d5af2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5118d210480184b17cb30556c52caa32475d5af2/",
+    "usedAt": 1785346025269,
+    "usedAtIso": "2026-07-29T17:27:05.269Z"
   }
 }
