@@ -1,4 +1,12 @@
 {
+  "source:7db6e5612bdfb74dfd06339b42926d8a9a1843ef": {
+    "url": "https://agorars.com/sua-saude/anvisa-aprova-cinco-canetas-semaglutida-diabetes",
+    "title": "Anvisa autoriza registro de cinco medicamentos injetáveis para perda de peso no Brasil",
+    "guid": "rs1multi:5118d210480184b17cb30556c52caa32475d5af2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5118d210480184b17cb30556c52caa32475d5af2/",
+    "usedAt": 1785346025269,
+    "usedAtIso": "2026-07-29T17:27:05.269Z"
+  },
   "source:dbbe73feb6706d66c5f7ba8ef2c95930bee9a4dd": {
     "url": "https://agorars.com/agora-no-tempo/temporal-rs-85-municipios-149-desalojados",
     "title": "Temporal no Rio Grande do Sul deixa cinco feridos, 149 desalojados e danos em pontes e residências",
@@ -2111,12 +2119,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7db6e5612bdfb74dfd06339b42926d8a9a1843ef": {
-    "url": "https://agorars.com/sua-saude/anvisa-aprova-cinco-canetas-semaglutida-diabetes",
-    "title": "Anvisa autoriza registro de cinco medicamentos injetáveis para perda de peso no Brasil",
-    "guid": "rs1multi:5118d210480184b17cb30556c52caa32475d5af2",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5118d210480184b17cb30556c52caa32475d5af2/",
-    "usedAt": 1785346025269,
-    "usedAtIso": "2026-07-29T17:27:05.269Z"
+  "source:e4c25d287bddfe7f8039fa25e2c09c289aded6bd": {
+    "url": "https://agorars.com/agora-no-transito/bloqueios-rodovias-estaduais-rs-quarta-feira",
+    "title": "Rio Grande do Sul registra 19 bloqueios totais e três parciais em rodovias estaduais devido a alagamentos e deslizamentos",
+    "guid": "rs1multi:12e3ebd3d6de485d9022b055c54975f654142004",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_12e3ebd3d6de485d9022b055c54975f654142004/",
+    "usedAt": 1785353225230,
+    "usedAtIso": "2026-07-29T19:27:05.230Z"
   }
 }
