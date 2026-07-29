@@ -1,4 +1,12 @@
 {
+  "source:e4c25d287bddfe7f8039fa25e2c09c289aded6bd": {
+    "url": "https://agorars.com/agora-no-transito/bloqueios-rodovias-estaduais-rs-quarta-feira",
+    "title": "Rio Grande do Sul registra 19 bloqueios totais e três parciais em rodovias estaduais devido a alagamentos e deslizamentos",
+    "guid": "rs1multi:12e3ebd3d6de485d9022b055c54975f654142004",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_12e3ebd3d6de485d9022b055c54975f654142004/",
+    "usedAt": 1785353225230,
+    "usedAtIso": "2026-07-29T19:27:05.230Z"
+  },
   "source:7db6e5612bdfb74dfd06339b42926d8a9a1843ef": {
     "url": "https://agorars.com/sua-saude/anvisa-aprova-cinco-canetas-semaglutida-diabetes",
     "title": "Anvisa autoriza registro de cinco medicamentos injetáveis para perda de peso no Brasil",
@@ -2119,12 +2127,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:e4c25d287bddfe7f8039fa25e2c09c289aded6bd": {
-    "url": "https://agorars.com/agora-no-transito/bloqueios-rodovias-estaduais-rs-quarta-feira",
-    "title": "Rio Grande do Sul registra 19 bloqueios totais e três parciais em rodovias estaduais devido a alagamentos e deslizamentos",
-    "guid": "rs1multi:12e3ebd3d6de485d9022b055c54975f654142004",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_12e3ebd3d6de485d9022b055c54975f654142004/",
-    "usedAt": 1785353225230,
-    "usedAtIso": "2026-07-29T19:27:05.230Z"
+  "source:96ae3da7ba3c03196e086c2a4ecad2408a3125ed": {
+    "url": "https://agorars.com/agora-no-tempo/rs-tempo-estavel-volta-tempestades-sabado",
+    "title": "Defesa Civil alerta para tempestades com granizo e ventos fortes no Rio Grande do Sul no sábado",
+    "guid": "rs1multi:b7aadf3836c9d529071daf239dccadba58125451",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b7aadf3836c9d529071daf239dccadba58125451/",
+    "usedAt": 1785360425671,
+    "usedAtIso": "2026-07-29T21:27:05.671Z"
+  },
+  "source:29adb9dbb286efc38a2a187c5277dad565048ca7": {
+    "url": "https://agorars.com/agora-no-tempo/guaiba-cota-alerta-porto-alegre-risco-inundacao",
+    "title": "Níveis do Guaíba e do Delta do Jacuí devem subir e atingir cota de alerta em Porto Alegre até sexta-feira",
+    "guid": "rs1multi:dac43fbaf1cb02795d8ad9a056fd387615615020",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_dac43fbaf1cb02795d8ad9a056fd387615615020/",
+    "usedAt": 1785360425671,
+    "usedAtIso": "2026-07-29T21:27:05.671Z"
   }
 }
