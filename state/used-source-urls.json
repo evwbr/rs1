@@ -1,4 +1,12 @@
 {
+  "source:ea67bfcfbbbc73f8504eac312f943cc098e9ae29": {
+    "url": "https://agorars.com/rs/metropolitana/catsul-reduz-horarios-porto-alegre-guaiba",
+    "title": "Travessia de catamarã entre Porto Alegre e Guaíba tem horários reduzidos devido a detritos no rio",
+    "guid": "rs1multi:05df1f6c1eb8c457021d15d1e1510d715003b39a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_05df1f6c1eb8c457021d15d1e1510d715003b39a/",
+    "usedAt": 1785439626055,
+    "usedAtIso": "2026-07-30T19:27:06.055Z"
+  },
   "source:b6775e59da31f1a52aa93e8c337f3699960bf2e3": {
     "url": "https://agorars.com/agora-no-tempo/chuva-rs-municipios-danos-desabrigados-alertas-inundacao",
     "title": "Chuvas no Rio Grande do Sul deixam 779 pessoas desabrigadas e causam risco de inundações em várias regiões",
@@ -2167,12 +2175,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:ea67bfcfbbbc73f8504eac312f943cc098e9ae29": {
-    "url": "https://agorars.com/rs/metropolitana/catsul-reduz-horarios-porto-alegre-guaiba",
-    "title": "Travessia de catamarã entre Porto Alegre e Guaíba tem horários reduzidos devido a detritos no rio",
-    "guid": "rs1multi:05df1f6c1eb8c457021d15d1e1510d715003b39a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_05df1f6c1eb8c457021d15d1e1510d715003b39a/",
-    "usedAt": 1785439626055,
-    "usedAtIso": "2026-07-30T19:27:06.055Z"
+  "source:cac43722f15d658aef7302e98beff4d3684ec9e0": {
+    "url": "https://agorars.com/politica/eleicoes/quaest-mostra-empate-tecnico-entre-cinco-nomes-ao-senado-no-rs",
+    "title": "Pesquisa aponta empate técnico entre cinco candidatos às duas vagas do Senado pelo Rio Grande do Sul",
+    "guid": "rs1multi:d9dbf568a021eeae78b04eb77b0c4e3aa2ccbdf3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9dbf568a021eeae78b04eb77b0c4e3aa2ccbdf3/",
+    "usedAt": 1785446825392,
+    "usedAtIso": "2026-07-30T21:27:05.392Z"
   }
 }
