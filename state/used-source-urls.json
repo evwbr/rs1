@@ -1,4 +1,12 @@
 {
+  "source:cac43722f15d658aef7302e98beff4d3684ec9e0": {
+    "url": "https://agorars.com/politica/eleicoes/quaest-mostra-empate-tecnico-entre-cinco-nomes-ao-senado-no-rs",
+    "title": "Pesquisa aponta empate técnico entre cinco candidatos às duas vagas do Senado pelo Rio Grande do Sul",
+    "guid": "rs1multi:d9dbf568a021eeae78b04eb77b0c4e3aa2ccbdf3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9dbf568a021eeae78b04eb77b0c4e3aa2ccbdf3/",
+    "usedAt": 1785446825392,
+    "usedAtIso": "2026-07-30T21:27:05.392Z"
+  },
   "source:ea67bfcfbbbc73f8504eac312f943cc098e9ae29": {
     "url": "https://agorars.com/rs/metropolitana/catsul-reduz-horarios-porto-alegre-guaiba",
     "title": "Travessia de catamarã entre Porto Alegre e Guaíba tem horários reduzidos devido a detritos no rio",
@@ -2175,12 +2183,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:cac43722f15d658aef7302e98beff4d3684ec9e0": {
-    "url": "https://agorars.com/politica/eleicoes/quaest-mostra-empate-tecnico-entre-cinco-nomes-ao-senado-no-rs",
-    "title": "Pesquisa aponta empate técnico entre cinco candidatos às duas vagas do Senado pelo Rio Grande do Sul",
-    "guid": "rs1multi:d9dbf568a021eeae78b04eb77b0c4e3aa2ccbdf3",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9dbf568a021eeae78b04eb77b0c4e3aa2ccbdf3/",
-    "usedAt": 1785446825392,
-    "usedAtIso": "2026-07-30T21:27:05.392Z"
+  "source:a1d7a784aad81eb7d6b76625199484f920b1f054": {
+    "url": "https://agorars.com/rs/serra/juri-condena-tres-reus-pela-morte-de-caminhoneiro-em-bom-jesus",
+    "title": "Três réus são condenados pelo homicídio do caminhoneiro Luciano Boeira Melos em Bom Jesus",
+    "guid": "rs1multi:3acd54621b0ca2e099a0d1ab5c0087cb1b9b873d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3acd54621b0ca2e099a0d1ab5c0087cb1b9b873d/",
+    "usedAt": 1785454025084,
+    "usedAtIso": "2026-07-30T23:27:05.084Z"
   }
 }
