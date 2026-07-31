@@ -1,4 +1,20 @@
 {
+  "source:4eaaed1216a93ba3dbd73b8f9aa5eaf5d18524b5": {
+    "url": "https://agorars.com/agora-no-tempo/situacao-rios-rs-cota-inundacao-31-julho",
+    "title": "Dez estações de monitoramento de rios no Rio Grande do Sul estão acima da cota de inundação",
+    "guid": "rs1multi:565f74c7eacbee9ab2846ba0f2f74080bc7aaec0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_565f74c7eacbee9ab2846ba0f2f74080bc7aaec0/",
+    "usedAt": 1785526025125,
+    "usedAtIso": "2026-07-31T19:27:05.125Z"
+  },
+  "source:c14ad967d9972f4d8693d1d4fced6c83daf32c7c": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-tempo-rs-chuva-ate-quarta-5-agosto",
+    "title": "Rio Grande do Sul terá chuva e rajadas de vento entre sábado e segunda-feira, com nova frente na quarta-feira",
+    "guid": "rs1multi:b6c58adbab10e8bb21a89be8d38dceab4a499602",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b6c58adbab10e8bb21a89be8d38dceab4a499602/",
+    "usedAt": 1785526025125,
+    "usedAtIso": "2026-07-31T19:27:05.125Z"
+  },
   "source:e4a655ee684766da4b26a45476abc01f648c768d": {
     "url": "https://agorars.com/cotidiano/ponte-ers-129-encantado-mucum-interditada-reconstrucao-pilar",
     "title": "Ponte sobre o Rio Guaporé é interditada por tempo indeterminado devido a trincas em pilar estrutural",
@@ -2255,20 +2271,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:4eaaed1216a93ba3dbd73b8f9aa5eaf5d18524b5": {
-    "url": "https://agorars.com/agora-no-tempo/situacao-rios-rs-cota-inundacao-31-julho",
-    "title": "Dez estações de monitoramento de rios no Rio Grande do Sul estão acima da cota de inundação",
-    "guid": "rs1multi:565f74c7eacbee9ab2846ba0f2f74080bc7aaec0",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_565f74c7eacbee9ab2846ba0f2f74080bc7aaec0/",
-    "usedAt": 1785526025125,
-    "usedAtIso": "2026-07-31T19:27:05.125Z"
+  "source:40fc21a4859412dd16130dbe7ee12e2bff9f0d87": {
+    "url": "https://agorars.com/plantao-rs/oito-pms-vao-a-juri-pela-morte-de-lider-comunitaria-em-porto-alegre",
+    "title": "Oito policiais militares serão julgados pelo Tribunal do Júri pela morte de líder comunitária em Porto Alegre",
+    "guid": "rs1multi:3932c04020ae8963eaafac747d09b9ea66abdfb2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3932c04020ae8963eaafac747d09b9ea66abdfb2/",
+    "usedAt": 1785533227475,
+    "usedAtIso": "2026-07-31T21:27:07.475Z"
   },
-  "source:c14ad967d9972f4d8693d1d4fced6c83daf32c7c": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-tempo-rs-chuva-ate-quarta-5-agosto",
-    "title": "Rio Grande do Sul terá chuva e rajadas de vento entre sábado e segunda-feira, com nova frente na quarta-feira",
-    "guid": "rs1multi:b6c58adbab10e8bb21a89be8d38dceab4a499602",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b6c58adbab10e8bb21a89be8d38dceab4a499602/",
-    "usedAt": 1785526025125,
-    "usedAtIso": "2026-07-31T19:27:05.125Z"
+  "source:bac3ba3bb9297426f62dd2e0a3d6695914b64a5f": {
+    "url": "https://agorars.com/agora-no-transito/br-116-restricao-faixa-canoas-fim-semana",
+    "title": "Faixa direita da BR-116 em Canoas será bloqueada para obras no viaduto da Avenida Boqueirão",
+    "guid": "rs1multi:745ae2b8295e92edd458c1ec79812666d3dc839c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_745ae2b8295e92edd458c1ec79812666d3dc839c/",
+    "usedAt": 1785533227475,
+    "usedAtIso": "2026-07-31T21:27:07.475Z"
   }
 }
