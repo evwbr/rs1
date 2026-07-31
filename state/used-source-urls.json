@@ -1,4 +1,12 @@
 {
+  "source:f804034617141ecb66722b93b8d65ba93918a99a": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-eleva-alerta-para-o-guaiba-que-pode-chegar-a-25-metros",
+    "title": "Defesa Civil de Porto Alegre emite alerta laranja para subida do nível do Guaíba até segunda-feira",
+    "guid": "rs1multi:8c5d8898380e1b7f5a2d828382e4c19157569a63",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8c5d8898380e1b7f5a2d828382e4c19157569a63/",
+    "usedAt": 1785468425188,
+    "usedAtIso": "2026-07-31T03:27:05.188Z"
+  },
   "source:30519074f7d0efc7ceaa1b138469d7c94bf5407f": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/sexta-tera-tempo-estavel-no-rs-com-chuva-isolada-no-oeste",
     "title": "Rio Grande do Sul tem sexta-feira de tempo estável, mas rios seguem acima da cota de inundação",
@@ -2207,12 +2215,44 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:f804034617141ecb66722b93b8d65ba93918a99a": {
-    "url": "https://agorars.com/agora-no-tempo/porto-alegre-eleva-alerta-para-o-guaiba-que-pode-chegar-a-25-metros",
-    "title": "Defesa Civil de Porto Alegre emite alerta laranja para subida do nível do Guaíba até segunda-feira",
-    "guid": "rs1multi:8c5d8898380e1b7f5a2d828382e4c19157569a63",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8c5d8898380e1b7f5a2d828382e4c19157569a63/",
-    "usedAt": 1785468425188,
-    "usedAtIso": "2026-07-31T03:27:05.188Z"
+  "source:e4a655ee684766da4b26a45476abc01f648c768d": {
+    "url": "https://agorars.com/cotidiano/ponte-ers-129-encantado-mucum-interditada-reconstrucao-pilar",
+    "title": "Ponte sobre o Rio Guaporé é interditada por tempo indeterminado devido a trincas em pilar estrutural",
+    "guid": "rs1multi:29ee1c1b6de8af0552a2ff90835424ccade83947",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_29ee1c1b6de8af0552a2ff90835424ccade83947/",
+    "usedAt": 1785511625905,
+    "usedAtIso": "2026-07-31T15:27:05.905Z"
+  },
+  "source:67a2475d85b844f0d962a24ff3c733e1f00cf26c": {
+    "url": "https://agorars.com/rs/porto-alegre/guaiba-atinge-cota-alerta-porto-alegre-previsao-inundacao",
+    "title": "Nível do Guaíba atinge cota de alerta no Cais Mauá em Porto Alegre com possibilidade de impactos em áreas ribeirinhas",
+    "guid": "rs1multi:de86a8d1d6313d4d32f6b5e3935bcf304308272a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_de86a8d1d6313d4d32f6b5e3935bcf304308272a/",
+    "usedAt": 1785511625905,
+    "usedAtIso": "2026-07-31T15:27:05.905Z"
+  },
+  "source:7f3270667a42dd22935d4c2317f4216435bbf122": {
+    "url": "https://agorars.com/rs/litoral-norte/suspeito-estupro-torres-preso-balneario-camboriu",
+    "title": "Homem é preso em Balneário Camboriú por crimes contra dignidade sexual com apoio do Ministério Público do Rio Grande do Sul",
+    "guid": "rs1multi:aebf908efca18f60c1256bc05c107a7a0b8774ed",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aebf908efca18f60c1256bc05c107a7a0b8774ed/",
+    "usedAt": 1785511625905,
+    "usedAtIso": "2026-07-31T15:27:05.905Z"
+  },
+  "source:d2511fe463ee5253102945c8a6e2ae8d993df920": {
+    "url": "https://agorars.com/economia/lucro-fgts-2025-quanto-recebe-como-consultar",
+    "title": "Caixa Econômica Federal distribui R$ 13 bilhões do lucro do FGTS aos trabalhadores em 2025",
+    "guid": "rs1multi:c6ebfc27b8bdf4ce3a3c77b31e3584ac23cfc8ab",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c6ebfc27b8bdf4ce3a3c77b31e3584ac23cfc8ab/",
+    "usedAt": 1785511625905,
+    "usedAtIso": "2026-07-31T15:27:05.905Z"
+  },
+  "source:8ad8e7e93e7421ded1ac353a8847aa91e148c27b": {
+    "url": "https://agorars.com/economia/restituicao-imposto-renda-2026-terceiro-lote-pagamento",
+    "title": "Receita Federal libera R$ 4,61 bilhões em restituições do Imposto de Renda para mais de 2,7 milhões de contribuintes",
+    "guid": "rs1multi:f0aeaf1bdbde5e2c7d40fffa0d140c253976ddea",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f0aeaf1bdbde5e2c7d40fffa0d140c253976ddea/",
+    "usedAt": 1785511625905,
+    "usedAtIso": "2026-07-31T15:27:05.905Z"
   }
 }
