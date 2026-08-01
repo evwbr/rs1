@@ -1,4 +1,12 @@
 {
+  "source:cf55ac5f5ba900aa4526df6abfccfef9eb1c6327": {
+    "url": "https://agorars.com/brasil-e-mundo/conta-de-luz-tera-bandeira-amarela-em-agosto",
+    "title": "ANEEL mantém bandeira tarifária amarela na conta de luz em agosto de 2026",
+    "guid": "rs1multi:3435605f582285a7269dd0e61cb4ad1760f238d6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3435605f582285a7269dd0e61cb4ad1760f238d6/",
+    "usedAt": 1785540425596,
+    "usedAtIso": "2026-07-31T23:27:05.596Z"
+  },
   "source:40fc21a4859412dd16130dbe7ee12e2bff9f0d87": {
     "url": "https://agorars.com/plantao-rs/oito-pms-vao-a-juri-pela-morte-de-lider-comunitaria-em-porto-alegre",
     "title": "Oito policiais militares serão julgados pelo Tribunal do Júri pela morte de líder comunitária em Porto Alegre",
@@ -2287,12 +2295,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:cf55ac5f5ba900aa4526df6abfccfef9eb1c6327": {
-    "url": "https://agorars.com/brasil-e-mundo/conta-de-luz-tera-bandeira-amarela-em-agosto",
-    "title": "ANEEL mantém bandeira tarifária amarela na conta de luz em agosto de 2026",
-    "guid": "rs1multi:3435605f582285a7269dd0e61cb4ad1760f238d6",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3435605f582285a7269dd0e61cb4ad1760f238d6/",
-    "usedAt": 1785540425596,
-    "usedAtIso": "2026-07-31T23:27:05.596Z"
+  "source:080dea7e1fd3bdddc9466c0c17a3ad4debbf427d": {
+    "url": "https://agorars.com/agora-no-tempo/cinco-alertas-inmet-tempestade-vendaval-rs-sabado",
+    "title": "Rio Grande do Sul recebe cinco alertas meteorológicos com risco de tempestades e vendavais neste sábado",
+    "guid": "rs1multi:ea9d6157908e45744917cd2e528901867a026891",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ea9d6157908e45744917cd2e528901867a026891/",
+    "usedAt": 1785554825643,
+    "usedAtIso": "2026-08-01T03:27:05.643Z"
   }
 }
