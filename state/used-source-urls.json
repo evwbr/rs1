@@ -1,4 +1,12 @@
 {
+  "source:fc1406dbc7d167cbd41c1e843a51e7c9fb3fcfab": {
+    "url": "https://agorars.com/rs/vales/taquari/defesa-civil-alerta-barragem-santa-lucia-ilopolis-putinga",
+    "title": "Defesa Civil monitora barragem em Putinga após sequência de chuvas e alerta para riscos",
+    "guid": "rs1multi:f6b6fb12df0b9298ff40372d74a45240e1c83c9b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f6b6fb12df0b9298ff40372d74a45240e1c83c9b/",
+    "usedAt": 1785691625131,
+    "usedAtIso": "2026-08-02T17:27:05.131Z"
+  },
   "source:38aa350c47440c55101687c7168581df1818bb9f": {
     "url": "https://agorars.com/agora-no-transito/tres-pessoas-morrem-acidentes-ers-305-ers-504-rs",
     "title": "Três pessoas morrem em dois acidentes nas estradas estaduais do Rio Grande do Sul",
@@ -2367,12 +2375,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:fc1406dbc7d167cbd41c1e843a51e7c9fb3fcfab": {
-    "url": "https://agorars.com/rs/vales/taquari/defesa-civil-alerta-barragem-santa-lucia-ilopolis-putinga",
-    "title": "Defesa Civil monitora barragem em Putinga após sequência de chuvas e alerta para riscos",
-    "guid": "rs1multi:f6b6fb12df0b9298ff40372d74a45240e1c83c9b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f6b6fb12df0b9298ff40372d74a45240e1c83c9b/",
-    "usedAt": 1785691625131,
-    "usedAtIso": "2026-08-02T17:27:05.131Z"
+  "source:306b8808b51c650b3f01356327cc374a12c2134b": {
+    "url": "https://agorars.com/rs/litoral-norte/idosa-morre-ataque-cao-arroio-do-sal",
+    "title": "Idosa morre após ataque de cão Pitt Monster em Arroio do Sal",
+    "guid": "rs1multi:9cb3e14a554654804bb872c6fb2e744e6a3f173d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9cb3e14a554654804bb872c6fb2e744e6a3f173d/",
+    "usedAt": 1785698826933,
+    "usedAtIso": "2026-08-02T19:27:06.933Z"
   }
 }
