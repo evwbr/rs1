@@ -1,4 +1,20 @@
 {
+  "source:a53b0c9c1e3405ed3681ea5a12df3eebe4370f4f": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-deixam-771-desalojados-28-municipios-rs",
+    "title": "Temporais no Rio Grande do Sul deixam 771 desalojados e 468 desabrigados em 13 municípios",
+    "guid": "rs1multi:736bb94301b48fdd48b553868593d0d5dc351639",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_736bb94301b48fdd48b553868593d0d5dc351639/",
+    "usedAt": 1785626825675,
+    "usedAtIso": "2026-08-01T23:27:05.675Z"
+  },
+  "source:98aafcb57efcfdbb6550357db5e4213a5599850a": {
+    "url": "https://agorars.com/agora-no-tempo/domingo-tempo-estavel-rs-chuva-tempestades-segunda-feira",
+    "title": "Rio Grande do Sul terá domingo de tempo estável e alerta para ventos fortes em Porto Alegre",
+    "guid": "rs1multi:55662b48480d7a6a140ff399d63c7715c379d611",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_55662b48480d7a6a140ff399d63c7715c379d611/",
+    "usedAt": 1785626825675,
+    "usedAtIso": "2026-08-01T23:27:05.675Z"
+  },
   "source:b58f693f3dfbde3fcad1e086bfa879dd4e0efc27": {
     "url": "https://agorars.com/rs/vales/cai/mp-denuncia-dono-clinica-engenheiro-mortes-elevador-montenegro",
     "title": "Proprietário de clínica e engenheiro são denunciados por morte de casal de idosos em elevador em Montenegro",
@@ -2343,20 +2359,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:a53b0c9c1e3405ed3681ea5a12df3eebe4370f4f": {
-    "url": "https://agorars.com/agora-no-tempo/temporais-deixam-771-desalojados-28-municipios-rs",
-    "title": "Temporais no Rio Grande do Sul deixam 771 desalojados e 468 desabrigados em 13 municípios",
-    "guid": "rs1multi:736bb94301b48fdd48b553868593d0d5dc351639",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_736bb94301b48fdd48b553868593d0d5dc351639/",
-    "usedAt": 1785626825675,
-    "usedAtIso": "2026-08-01T23:27:05.675Z"
-  },
-  "source:98aafcb57efcfdbb6550357db5e4213a5599850a": {
-    "url": "https://agorars.com/agora-no-tempo/domingo-tempo-estavel-rs-chuva-tempestades-segunda-feira",
-    "title": "Rio Grande do Sul terá domingo de tempo estável e alerta para ventos fortes em Porto Alegre",
-    "guid": "rs1multi:55662b48480d7a6a140ff399d63c7715c379d611",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_55662b48480d7a6a140ff399d63c7715c379d611/",
-    "usedAt": 1785626825675,
-    "usedAtIso": "2026-08-01T23:27:05.675Z"
+  "source:38aa350c47440c55101687c7168581df1818bb9f": {
+    "url": "https://agorars.com/agora-no-transito/tres-pessoas-morrem-acidentes-ers-305-ers-504-rs",
+    "title": "Três pessoas morrem em dois acidentes nas estradas estaduais do Rio Grande do Sul",
+    "guid": "rs1multi:bbaacb992112ab1a822c8a3a3347bcff484f7557",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bbaacb992112ab1a822c8a3a3347bcff484f7557/",
+    "usedAt": 1785684428334,
+    "usedAtIso": "2026-08-02T15:27:08.334Z"
   }
 }
