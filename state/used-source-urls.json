@@ -1,4 +1,12 @@
 {
+  "source:306b8808b51c650b3f01356327cc374a12c2134b": {
+    "url": "https://agorars.com/rs/litoral-norte/idosa-morre-ataque-cao-arroio-do-sal",
+    "title": "Idosa morre após ataque de cão Pitt Monster em Arroio do Sal",
+    "guid": "rs1multi:9cb3e14a554654804bb872c6fb2e744e6a3f173d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9cb3e14a554654804bb872c6fb2e744e6a3f173d/",
+    "usedAt": 1785698826933,
+    "usedAtIso": "2026-08-02T19:27:06.933Z"
+  },
   "source:fc1406dbc7d167cbd41c1e843a51e7c9fb3fcfab": {
     "url": "https://agorars.com/rs/vales/taquari/defesa-civil-alerta-barragem-santa-lucia-ilopolis-putinga",
     "title": "Defesa Civil monitora barragem em Putinga após sequência de chuvas e alerta para riscos",
@@ -2375,12 +2383,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:306b8808b51c650b3f01356327cc374a12c2134b": {
-    "url": "https://agorars.com/rs/litoral-norte/idosa-morre-ataque-cao-arroio-do-sal",
-    "title": "Idosa morre após ataque de cão Pitt Monster em Arroio do Sal",
-    "guid": "rs1multi:9cb3e14a554654804bb872c6fb2e744e6a3f173d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9cb3e14a554654804bb872c6fb2e744e6a3f173d/",
-    "usedAt": 1785698826933,
-    "usedAtIso": "2026-08-02T19:27:06.933Z"
+  "source:c77097caa64044f85a693418241f39b11bf6e5cf": {
+    "url": "https://agorars.com/rs/porto-alegre/campanha-multivacinacao-criancas-adolescentes-comeca-segunda-feira",
+    "title": "Campanha de multivacinação para crianças e adolescentes começa em 3 de julho em Porto Alegre",
+    "guid": "rs1multi:cad715d9cebe76064147068720c8e891e2e2cd5c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_cad715d9cebe76064147068720c8e891e2e2cd5c/",
+    "usedAt": 1785706025016,
+    "usedAtIso": "2026-08-02T21:27:05.016Z"
+  },
+  "source:bd479d8caafdd9ef114efd927804f671e3655464": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-pode-superar-90-milimetros-rs-segunda-feira",
+    "title": "Defesa Civil e Inmet alertam para temporais com granizo e chuva intensa no Rio Grande do Sul",
+    "guid": "rs1multi:8a5b4888f1f19f6e4d52fc91779b3031d872d752",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8a5b4888f1f19f6e4d52fc91779b3031d872d752/",
+    "usedAt": 1785706025016,
+    "usedAtIso": "2026-08-02T21:27:05.016Z"
   }
 }
