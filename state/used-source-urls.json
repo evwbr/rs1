@@ -1,4 +1,12 @@
 {
+  "source:827846056b35f24a9a22e4e1f087946d66994147": {
+    "url": "https://agorars.com/rs/porto-alegre/tempo-instavel-em-porto-alegre-vai-ate-sexta-e-termina-volta-do-frio",
+    "title": "Porto Alegre terá períodos de chuva e queda de temperatura com rajadas de vento até sexta-feira",
+    "guid": "rs1multi:5aa2d82566f2fe48a9a6dc822669876e03df6168",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5aa2d82566f2fe48a9a6dc822669876e03df6168/",
+    "usedAt": 1785785226505,
+    "usedAtIso": "2026-08-03T19:27:06.505Z"
+  },
   "source:9183b690272026385e32241eeb2c69ff146cc097": {
     "url": "https://agorars.com/cultura/criticas-de-cinema/desejo-em-manhattan-critica-filme",
     "title": "Filme \"Desejo em Manhattan\" surpreende ao misturar drama conjugal e suspense",
@@ -2431,12 +2439,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:827846056b35f24a9a22e4e1f087946d66994147": {
-    "url": "https://agorars.com/rs/porto-alegre/tempo-instavel-em-porto-alegre-vai-ate-sexta-e-termina-volta-do-frio",
-    "title": "Porto Alegre terá períodos de chuva e queda de temperatura com rajadas de vento até sexta-feira",
-    "guid": "rs1multi:5aa2d82566f2fe48a9a6dc822669876e03df6168",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5aa2d82566f2fe48a9a6dc822669876e03df6168/",
-    "usedAt": 1785785226505,
-    "usedAtIso": "2026-08-03T19:27:06.505Z"
+  "source:885f1b2abd6f021879b14a2eb364f97c012977f6": {
+    "url": "https://agorars.com/agora-no-transito/aulas-suspensas-escolas-cachoeira-do-sul-alagamentos",
+    "title": "Aulas são suspensas em três escolas municipais de Cachoeira do Sul devido à cheia e alagamento das estradas",
+    "guid": "rs1multi:7e3c423311c48b281fca6b72a63c3792eca0c556",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7e3c423311c48b281fca6b72a63c3792eca0c556/",
+    "usedAt": 1785792425268,
+    "usedAtIso": "2026-08-03T21:27:05.268Z"
+  },
+  "source:2a9280682b63e77f0a636645cf2a59b780ed6005": {
+    "url": "https://agorars.com/economia/pib-rs-estavel-primeiro-trimestre-2026",
+    "title": "Economia do Rio Grande do Sul cresce 0,4% no primeiro trimestre de 2026 com avanço da indústria e serviços",
+    "guid": "rs1multi:fbc569280fceae377ded1b5e62f36f246dc53060",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fbc569280fceae377ded1b5e62f36f246dc53060/",
+    "usedAt": 1785792425268,
+    "usedAtIso": "2026-08-03T21:27:05.268Z"
   }
 }
