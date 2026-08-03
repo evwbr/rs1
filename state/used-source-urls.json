@@ -1,4 +1,20 @@
 {
+  "source:885f1b2abd6f021879b14a2eb364f97c012977f6": {
+    "url": "https://agorars.com/agora-no-transito/aulas-suspensas-escolas-cachoeira-do-sul-alagamentos",
+    "title": "Aulas são suspensas em três escolas municipais de Cachoeira do Sul devido à cheia e alagamento das estradas",
+    "guid": "rs1multi:7e3c423311c48b281fca6b72a63c3792eca0c556",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7e3c423311c48b281fca6b72a63c3792eca0c556/",
+    "usedAt": 1785792425268,
+    "usedAtIso": "2026-08-03T21:27:05.268Z"
+  },
+  "source:2a9280682b63e77f0a636645cf2a59b780ed6005": {
+    "url": "https://agorars.com/economia/pib-rs-estavel-primeiro-trimestre-2026",
+    "title": "Economia do Rio Grande do Sul cresce 0,4% no primeiro trimestre de 2026 com avanço da indústria e serviços",
+    "guid": "rs1multi:fbc569280fceae377ded1b5e62f36f246dc53060",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fbc569280fceae377ded1b5e62f36f246dc53060/",
+    "usedAt": 1785792425268,
+    "usedAtIso": "2026-08-03T21:27:05.268Z"
+  },
   "source:827846056b35f24a9a22e4e1f087946d66994147": {
     "url": "https://agorars.com/rs/porto-alegre/tempo-instavel-em-porto-alegre-vai-ate-sexta-e-termina-volta-do-frio",
     "title": "Porto Alegre terá períodos de chuva e queda de temperatura com rajadas de vento até sexta-feira",
@@ -2439,20 +2455,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:885f1b2abd6f021879b14a2eb364f97c012977f6": {
-    "url": "https://agorars.com/agora-no-transito/aulas-suspensas-escolas-cachoeira-do-sul-alagamentos",
-    "title": "Aulas são suspensas em três escolas municipais de Cachoeira do Sul devido à cheia e alagamento das estradas",
-    "guid": "rs1multi:7e3c423311c48b281fca6b72a63c3792eca0c556",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7e3c423311c48b281fca6b72a63c3792eca0c556/",
-    "usedAt": 1785792425268,
-    "usedAtIso": "2026-08-03T21:27:05.268Z"
+  "source:6ee828d6dc7811078e7a7e9aba8955f09fef109b": {
+    "url": "https://agorars.com/agora-no-tempo/tempestades-severas-rajadas-90-kmh-rs-quinta-sexta",
+    "title": "Tempestades severas com ventos fortes e granizo podem atingir várias regiões do Rio Grande do Sul entre quinta e sexta-feira",
+    "guid": "rs1multi:7f0836c0ee2fcc16fb574ce79313ade7c4c995f1",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f0836c0ee2fcc16fb574ce79313ade7c4c995f1/",
+    "usedAt": 1785799626741,
+    "usedAtIso": "2026-08-03T23:27:06.741Z"
   },
-  "source:2a9280682b63e77f0a636645cf2a59b780ed6005": {
-    "url": "https://agorars.com/economia/pib-rs-estavel-primeiro-trimestre-2026",
-    "title": "Economia do Rio Grande do Sul cresce 0,4% no primeiro trimestre de 2026 com avanço da indústria e serviços",
-    "guid": "rs1multi:fbc569280fceae377ded1b5e62f36f246dc53060",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fbc569280fceae377ded1b5e62f36f246dc53060/",
-    "usedAt": 1785792425268,
-    "usedAtIso": "2026-08-03T21:27:05.268Z"
+  "source:037dddfec9ffe426d18d91937b3ad907ba1fa928": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-retira-442-toneladas-de-residuos-da-orla-do-guaiba",
+    "title": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba em operação de limpeza",
+    "guid": "rs1multi:9d2940ec628388d916719b933c4ca4e232441ab3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9d2940ec628388d916719b933c4ca4e232441ab3/",
+    "usedAt": 1785799626741,
+    "usedAtIso": "2026-08-03T23:27:06.741Z"
   }
 }
