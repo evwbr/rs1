@@ -1,4 +1,12 @@
 {
+  "source:9183b690272026385e32241eeb2c69ff146cc097": {
+    "url": "https://agorars.com/cultura/criticas-de-cinema/desejo-em-manhattan-critica-filme",
+    "title": "Filme \"Desejo em Manhattan\" surpreende ao misturar drama conjugal e suspense",
+    "guid": "rs1multi:f4fe0ec878047eef0ac8de7c3cfd02153bdcc84e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f4fe0ec878047eef0ac8de7c3cfd02153bdcc84e/",
+    "usedAt": 1785778025272,
+    "usedAtIso": "2026-08-03T17:27:05.272Z"
+  },
   "source:d3cbe437a89aa9d6592005888ce1151484519a92": {
     "url": "https://agorars.com/agora-no-tempo/rs-alertas-tempestade-chuva-vento-granizo-agosto",
     "title": "Instituto Nacional de Meteorologia emite alertas de tempestades para todo o Rio Grande do Sul até quinta-feira",
@@ -2423,12 +2431,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:9183b690272026385e32241eeb2c69ff146cc097": {
-    "url": "https://agorars.com/cultura/criticas-de-cinema/desejo-em-manhattan-critica-filme",
-    "title": "Filme \"Desejo em Manhattan\" surpreende ao misturar drama conjugal e suspense",
-    "guid": "rs1multi:f4fe0ec878047eef0ac8de7c3cfd02153bdcc84e",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f4fe0ec878047eef0ac8de7c3cfd02153bdcc84e/",
-    "usedAt": 1785778025272,
-    "usedAtIso": "2026-08-03T17:27:05.272Z"
+  "source:827846056b35f24a9a22e4e1f087946d66994147": {
+    "url": "https://agorars.com/rs/porto-alegre/tempo-instavel-em-porto-alegre-vai-ate-sexta-e-termina-volta-do-frio",
+    "title": "Porto Alegre terá períodos de chuva e queda de temperatura com rajadas de vento até sexta-feira",
+    "guid": "rs1multi:5aa2d82566f2fe48a9a6dc822669876e03df6168",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5aa2d82566f2fe48a9a6dc822669876e03df6168/",
+    "usedAt": 1785785226505,
+    "usedAtIso": "2026-08-03T19:27:06.505Z"
   }
 }
