@@ -1,4 +1,28 @@
 {
+  "source:d3cbe437a89aa9d6592005888ce1151484519a92": {
+    "url": "https://agorars.com/agora-no-tempo/rs-alertas-tempestade-chuva-vento-granizo-agosto",
+    "title": "Instituto Nacional de Meteorologia emite alertas de tempestades para todo o Rio Grande do Sul até quinta-feira",
+    "guid": "rs1multi:d9c0bbd15b68bb643909e15cc830c84f271a3a1a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9c0bbd15b68bb643909e15cc830c84f271a3a1a/",
+    "usedAt": 1785770825238,
+    "usedAtIso": "2026-08-03T15:27:05.238Z"
+  },
+  "source:5cf354c8e21e9824e0ee9762774034b518fe30a8": {
+    "url": "https://agorars.com/rs/norte/bm-apreende-bloqueadores-sinal-jammers-onibus-nonoai",
+    "title": "Brigada Militar apreende equipamentos tecnológicos em ônibus na Serra Gaúcha",
+    "guid": "rs1multi:da6cf7cae3d3478dc416f370d784f84b1b85a1e6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_da6cf7cae3d3478dc416f370d784f84b1b85a1e6/",
+    "usedAt": 1785770825238,
+    "usedAtIso": "2026-08-03T15:27:05.238Z"
+  },
+  "source:5594e2745fbd6b6c1247d5af994a9d10fd0eb331": {
+    "url": "https://agorars.com/cultura/icone-cultura-gaucha-rs-bagre-fagundes",
+    "title": "Bagre Fagundes, ícone da cultura gaúcha, morre em Porto Alegre após parada cardiorrespiratória",
+    "guid": "rs1multi:8c052f4dd0d2a5b7d39ca14abe13d27850916a68",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8c052f4dd0d2a5b7d39ca14abe13d27850916a68/",
+    "usedAt": 1785770825238,
+    "usedAtIso": "2026-08-03T15:27:05.238Z"
+  },
   "source:c77097caa64044f85a693418241f39b11bf6e5cf": {
     "url": "https://agorars.com/rs/porto-alegre/campanha-multivacinacao-criancas-adolescentes-comeca-segunda-feira",
     "title": "Campanha de multivacinação para crianças e adolescentes começa em 3 de julho em Porto Alegre",
@@ -2399,28 +2423,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:d3cbe437a89aa9d6592005888ce1151484519a92": {
-    "url": "https://agorars.com/agora-no-tempo/rs-alertas-tempestade-chuva-vento-granizo-agosto",
-    "title": "Instituto Nacional de Meteorologia emite alertas de tempestades para todo o Rio Grande do Sul até quinta-feira",
-    "guid": "rs1multi:d9c0bbd15b68bb643909e15cc830c84f271a3a1a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9c0bbd15b68bb643909e15cc830c84f271a3a1a/",
-    "usedAt": 1785770825238,
-    "usedAtIso": "2026-08-03T15:27:05.238Z"
-  },
-  "source:5cf354c8e21e9824e0ee9762774034b518fe30a8": {
-    "url": "https://agorars.com/rs/norte/bm-apreende-bloqueadores-sinal-jammers-onibus-nonoai",
-    "title": "Brigada Militar apreende equipamentos tecnológicos em ônibus na Serra Gaúcha",
-    "guid": "rs1multi:da6cf7cae3d3478dc416f370d784f84b1b85a1e6",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_da6cf7cae3d3478dc416f370d784f84b1b85a1e6/",
-    "usedAt": 1785770825238,
-    "usedAtIso": "2026-08-03T15:27:05.238Z"
-  },
-  "source:5594e2745fbd6b6c1247d5af994a9d10fd0eb331": {
-    "url": "https://agorars.com/cultura/icone-cultura-gaucha-rs-bagre-fagundes",
-    "title": "Bagre Fagundes, ícone da cultura gaúcha, morre em Porto Alegre após parada cardiorrespiratória",
-    "guid": "rs1multi:8c052f4dd0d2a5b7d39ca14abe13d27850916a68",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8c052f4dd0d2a5b7d39ca14abe13d27850916a68/",
-    "usedAt": 1785770825238,
-    "usedAtIso": "2026-08-03T15:27:05.238Z"
+  "source:9183b690272026385e32241eeb2c69ff146cc097": {
+    "url": "https://agorars.com/cultura/criticas-de-cinema/desejo-em-manhattan-critica-filme",
+    "title": "Filme \"Desejo em Manhattan\" surpreende ao misturar drama conjugal e suspense",
+    "guid": "rs1multi:f4fe0ec878047eef0ac8de7c3cfd02153bdcc84e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f4fe0ec878047eef0ac8de7c3cfd02153bdcc84e/",
+    "usedAt": 1785778025272,
+    "usedAtIso": "2026-08-03T17:27:05.272Z"
   }
 }
