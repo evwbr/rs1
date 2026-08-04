@@ -1,4 +1,20 @@
 {
+  "source:6ee828d6dc7811078e7a7e9aba8955f09fef109b": {
+    "url": "https://agorars.com/agora-no-tempo/tempestades-severas-rajadas-90-kmh-rs-quinta-sexta",
+    "title": "Tempestades severas com ventos fortes e granizo podem atingir várias regiões do Rio Grande do Sul entre quinta e sexta-feira",
+    "guid": "rs1multi:7f0836c0ee2fcc16fb574ce79313ade7c4c995f1",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f0836c0ee2fcc16fb574ce79313ade7c4c995f1/",
+    "usedAt": 1785799626741,
+    "usedAtIso": "2026-08-03T23:27:06.741Z"
+  },
+  "source:037dddfec9ffe426d18d91937b3ad907ba1fa928": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-retira-442-toneladas-de-residuos-da-orla-do-guaiba",
+    "title": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba em operação de limpeza",
+    "guid": "rs1multi:9d2940ec628388d916719b933c4ca4e232441ab3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9d2940ec628388d916719b933c4ca4e232441ab3/",
+    "usedAt": 1785799626741,
+    "usedAtIso": "2026-08-03T23:27:06.741Z"
+  },
   "source:885f1b2abd6f021879b14a2eb364f97c012977f6": {
     "url": "https://agorars.com/agora-no-transito/aulas-suspensas-escolas-cachoeira-do-sul-alagamentos",
     "title": "Aulas são suspensas em três escolas municipais de Cachoeira do Sul devido à cheia e alagamento das estradas",
@@ -2455,20 +2471,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:6ee828d6dc7811078e7a7e9aba8955f09fef109b": {
-    "url": "https://agorars.com/agora-no-tempo/tempestades-severas-rajadas-90-kmh-rs-quinta-sexta",
-    "title": "Tempestades severas com ventos fortes e granizo podem atingir várias regiões do Rio Grande do Sul entre quinta e sexta-feira",
-    "guid": "rs1multi:7f0836c0ee2fcc16fb574ce79313ade7c4c995f1",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f0836c0ee2fcc16fb574ce79313ade7c4c995f1/",
-    "usedAt": 1785799626741,
-    "usedAtIso": "2026-08-03T23:27:06.741Z"
+  "source:c8bc7f9bec092de455ac2b35d7edf42e4447dcd1": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temporais-granizo-terca-feira",
+    "title": "Rio Grande do Sul enfrenta temporais isolados com risco de granizo e queda de temperatura nesta terça-feira",
+    "guid": "rs1multi:61160f228400ecab6eae6dd6b4cf356224b2f0cb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_61160f228400ecab6eae6dd6b4cf356224b2f0cb/",
+    "usedAt": 1785806825365,
+    "usedAtIso": "2026-08-04T01:27:05.365Z"
   },
-  "source:037dddfec9ffe426d18d91937b3ad907ba1fa928": {
-    "url": "https://agorars.com/agora-no-tempo/porto-alegre-retira-442-toneladas-de-residuos-da-orla-do-guaiba",
-    "title": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba em operação de limpeza",
-    "guid": "rs1multi:9d2940ec628388d916719b933c4ca4e232441ab3",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9d2940ec628388d916719b933c4ca4e232441ab3/",
-    "usedAt": 1785799626741,
-    "usedAtIso": "2026-08-03T23:27:06.741Z"
+  "source:8575418ce09da0a5c4ec2c6c0b118dbc0162eaf2": {
+    "url": "https://agorars.com/brasil-e-mundo/tre-rs-abre-urna-eletronica-funcionamento",
+    "title": "Tribunal Superior Eleitoral abre urnas eletrônicas para demonstrar funcionamento e segurança",
+    "guid": "rs1multi:c8066e076f1ff6f341738c76ae19c09a9f895b22",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c8066e076f1ff6f341738c76ae19c09a9f895b22/",
+    "usedAt": 1785806825365,
+    "usedAtIso": "2026-08-04T01:27:05.365Z"
   }
 }
