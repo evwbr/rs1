@@ -1,4 +1,20 @@
 {
+  "source:c8bc7f9bec092de455ac2b35d7edf42e4447dcd1": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temporais-granizo-terca-feira",
+    "title": "Rio Grande do Sul enfrenta temporais isolados com risco de granizo e queda de temperatura nesta terça-feira",
+    "guid": "rs1multi:61160f228400ecab6eae6dd6b4cf356224b2f0cb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_61160f228400ecab6eae6dd6b4cf356224b2f0cb/",
+    "usedAt": 1785806825365,
+    "usedAtIso": "2026-08-04T01:27:05.365Z"
+  },
+  "source:8575418ce09da0a5c4ec2c6c0b118dbc0162eaf2": {
+    "url": "https://agorars.com/brasil-e-mundo/tre-rs-abre-urna-eletronica-funcionamento",
+    "title": "Tribunal Superior Eleitoral abre urnas eletrônicas para demonstrar funcionamento e segurança",
+    "guid": "rs1multi:c8066e076f1ff6f341738c76ae19c09a9f895b22",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c8066e076f1ff6f341738c76ae19c09a9f895b22/",
+    "usedAt": 1785806825365,
+    "usedAtIso": "2026-08-04T01:27:05.365Z"
+  },
   "source:6ee828d6dc7811078e7a7e9aba8955f09fef109b": {
     "url": "https://agorars.com/agora-no-tempo/tempestades-severas-rajadas-90-kmh-rs-quinta-sexta",
     "title": "Tempestades severas com ventos fortes e granizo podem atingir várias regiões do Rio Grande do Sul entre quinta e sexta-feira",
@@ -2471,20 +2487,36 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:c8bc7f9bec092de455ac2b35d7edf42e4447dcd1": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temporais-granizo-terca-feira",
-    "title": "Rio Grande do Sul enfrenta temporais isolados com risco de granizo e queda de temperatura nesta terça-feira",
-    "guid": "rs1multi:61160f228400ecab6eae6dd6b4cf356224b2f0cb",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_61160f228400ecab6eae6dd6b4cf356224b2f0cb/",
-    "usedAt": 1785806825365,
-    "usedAtIso": "2026-08-04T01:27:05.365Z"
+  "source:b06cdb288d635caa997edd78bfd313f37c4503d8": {
+    "url": "https://agorars.com/agora-no-tempo/rs-alerta-temporais-severos-granizo-vento-90-km-h",
+    "title": "Defesa Civil alerta para temporais severos no Rio Grande do Sul entre quinta e sexta-feira",
+    "guid": "rs1multi:9236dafbed06afc7f420aafe0516505ee7f81a6d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9236dafbed06afc7f420aafe0516505ee7f81a6d/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
   },
-  "source:8575418ce09da0a5c4ec2c6c0b118dbc0162eaf2": {
-    "url": "https://agorars.com/brasil-e-mundo/tre-rs-abre-urna-eletronica-funcionamento",
-    "title": "Tribunal Superior Eleitoral abre urnas eletrônicas para demonstrar funcionamento e segurança",
-    "guid": "rs1multi:c8066e076f1ff6f341738c76ae19c09a9f895b22",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c8066e076f1ff6f341738c76ae19c09a9f895b22/",
-    "usedAt": 1785806825365,
-    "usedAtIso": "2026-08-04T01:27:05.365Z"
+  "source:03b9805d73edda21400fa52d09b847d844a8d054": {
+    "url": "https://agorars.com/rs/porto-alegre/hcpa-restringe-emergencia-adulta-superlotacao-porto-alegre",
+    "title": "Hospital de Clínicas de Porto Alegre opera com superlotação e orienta uso da emergência pediátrica",
+    "guid": "rs1multi:5eabb582ac9b7d59a7b908aebc7869e936c6647a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5eabb582ac9b7d59a7b908aebc7869e936c6647a/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
+  },
+  "source:45f11e652ba7075b75eabaed772a2cd85c3fa0ef": {
+    "url": "https://agorars.com/brasil-e-mundo/greve-cptm-congestionamento-sao-paulo-linhas-11-12-13",
+    "title": "Greve dos ferroviários da CPTM causa cancelamento do rodízio e engarrafamentos em São Paulo",
+    "guid": "rs1multi:618c858545a8461476bc719c8a164274dbd25484",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_618c858545a8461476bc719c8a164274dbd25484/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
+  },
+  "source:179e0d71dce2239b73678023448333798786f2ed": {
+    "url": "https://agorars.com/agora-no-transito/rota-encantado-mucum-pare-siga-bloqueio-ponte-ers-129",
+    "title": "Ponte na ERS-129 entre Encantado e Muçum segue interditada por tempo indeterminado devido a danos estruturais",
+    "guid": "rs1multi:1db88ce5a02c1459d09dfc567d41011df30dd338",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1db88ce5a02c1459d09dfc567d41011df30dd338/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
   }
 }
