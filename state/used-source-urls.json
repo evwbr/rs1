@@ -1,4 +1,36 @@
 {
+  "source:b06cdb288d635caa997edd78bfd313f37c4503d8": {
+    "url": "https://agorars.com/agora-no-tempo/rs-alerta-temporais-severos-granizo-vento-90-km-h",
+    "title": "Defesa Civil alerta para temporais severos no Rio Grande do Sul entre quinta e sexta-feira",
+    "guid": "rs1multi:9236dafbed06afc7f420aafe0516505ee7f81a6d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9236dafbed06afc7f420aafe0516505ee7f81a6d/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
+  },
+  "source:03b9805d73edda21400fa52d09b847d844a8d054": {
+    "url": "https://agorars.com/rs/porto-alegre/hcpa-restringe-emergencia-adulta-superlotacao-porto-alegre",
+    "title": "Hospital de Clínicas de Porto Alegre opera com superlotação e orienta uso da emergência pediátrica",
+    "guid": "rs1multi:5eabb582ac9b7d59a7b908aebc7869e936c6647a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5eabb582ac9b7d59a7b908aebc7869e936c6647a/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
+  },
+  "source:45f11e652ba7075b75eabaed772a2cd85c3fa0ef": {
+    "url": "https://agorars.com/brasil-e-mundo/greve-cptm-congestionamento-sao-paulo-linhas-11-12-13",
+    "title": "Greve dos ferroviários da CPTM causa cancelamento do rodízio e engarrafamentos em São Paulo",
+    "guid": "rs1multi:618c858545a8461476bc719c8a164274dbd25484",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_618c858545a8461476bc719c8a164274dbd25484/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
+  },
+  "source:179e0d71dce2239b73678023448333798786f2ed": {
+    "url": "https://agorars.com/agora-no-transito/rota-encantado-mucum-pare-siga-bloqueio-ponte-ers-129",
+    "title": "Ponte na ERS-129 entre Encantado e Muçum segue interditada por tempo indeterminado devido a danos estruturais",
+    "guid": "rs1multi:1db88ce5a02c1459d09dfc567d41011df30dd338",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1db88ce5a02c1459d09dfc567d41011df30dd338/",
+    "usedAt": 1785871625607,
+    "usedAtIso": "2026-08-04T19:27:05.607Z"
+  },
   "source:c8bc7f9bec092de455ac2b35d7edf42e4447dcd1": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temporais-granizo-terca-feira",
     "title": "Rio Grande do Sul enfrenta temporais isolados com risco de granizo e queda de temperatura nesta terça-feira",
@@ -2487,36 +2519,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:b06cdb288d635caa997edd78bfd313f37c4503d8": {
-    "url": "https://agorars.com/agora-no-tempo/rs-alerta-temporais-severos-granizo-vento-90-km-h",
-    "title": "Defesa Civil alerta para temporais severos no Rio Grande do Sul entre quinta e sexta-feira",
-    "guid": "rs1multi:9236dafbed06afc7f420aafe0516505ee7f81a6d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9236dafbed06afc7f420aafe0516505ee7f81a6d/",
-    "usedAt": 1785871625607,
-    "usedAtIso": "2026-08-04T19:27:05.607Z"
-  },
-  "source:03b9805d73edda21400fa52d09b847d844a8d054": {
-    "url": "https://agorars.com/rs/porto-alegre/hcpa-restringe-emergencia-adulta-superlotacao-porto-alegre",
-    "title": "Hospital de Clínicas de Porto Alegre opera com superlotação e orienta uso da emergência pediátrica",
-    "guid": "rs1multi:5eabb582ac9b7d59a7b908aebc7869e936c6647a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5eabb582ac9b7d59a7b908aebc7869e936c6647a/",
-    "usedAt": 1785871625607,
-    "usedAtIso": "2026-08-04T19:27:05.607Z"
-  },
-  "source:45f11e652ba7075b75eabaed772a2cd85c3fa0ef": {
-    "url": "https://agorars.com/brasil-e-mundo/greve-cptm-congestionamento-sao-paulo-linhas-11-12-13",
-    "title": "Greve dos ferroviários da CPTM causa cancelamento do rodízio e engarrafamentos em São Paulo",
-    "guid": "rs1multi:618c858545a8461476bc719c8a164274dbd25484",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_618c858545a8461476bc719c8a164274dbd25484/",
-    "usedAt": 1785871625607,
-    "usedAtIso": "2026-08-04T19:27:05.607Z"
-  },
-  "source:179e0d71dce2239b73678023448333798786f2ed": {
-    "url": "https://agorars.com/agora-no-transito/rota-encantado-mucum-pare-siga-bloqueio-ponte-ers-129",
-    "title": "Ponte na ERS-129 entre Encantado e Muçum segue interditada por tempo indeterminado devido a danos estruturais",
-    "guid": "rs1multi:1db88ce5a02c1459d09dfc567d41011df30dd338",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1db88ce5a02c1459d09dfc567d41011df30dd338/",
-    "usedAt": 1785871625607,
-    "usedAtIso": "2026-08-04T19:27:05.607Z"
+  "source:69bfec363422f93931979f03c1da342be308aac5": {
+    "url": "https://agorars.com/agora-no-tempo/ciclone-intenso-pode-trazer-temporais-e-vento-forte-ao-rs",
+    "title": "Rio Grande do Sul enfrenta risco de tempestades severas e ventos fortes com ciclone extratropical",
+    "guid": "rs1multi:9e7bbf9e8ccaf34159c20d51028faf09cd44f5f3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9e7bbf9e8ccaf34159c20d51028faf09cd44f5f3/",
+    "usedAt": 1785886025521,
+    "usedAtIso": "2026-08-04T23:27:05.521Z"
   }
 }
