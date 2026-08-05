@@ -1,4 +1,12 @@
 {
+  "source:69bfec363422f93931979f03c1da342be308aac5": {
+    "url": "https://agorars.com/agora-no-tempo/ciclone-intenso-pode-trazer-temporais-e-vento-forte-ao-rs",
+    "title": "Rio Grande do Sul enfrenta risco de tempestades severas e ventos fortes com ciclone extratropical",
+    "guid": "rs1multi:9e7bbf9e8ccaf34159c20d51028faf09cd44f5f3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9e7bbf9e8ccaf34159c20d51028faf09cd44f5f3/",
+    "usedAt": 1785886025521,
+    "usedAtIso": "2026-08-04T23:27:05.521Z"
+  },
   "source:b06cdb288d635caa997edd78bfd313f37c4503d8": {
     "url": "https://agorars.com/agora-no-tempo/rs-alerta-temporais-severos-granizo-vento-90-km-h",
     "title": "Defesa Civil alerta para temporais severos no Rio Grande do Sul entre quinta e sexta-feira",
@@ -2519,12 +2527,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:69bfec363422f93931979f03c1da342be308aac5": {
-    "url": "https://agorars.com/agora-no-tempo/ciclone-intenso-pode-trazer-temporais-e-vento-forte-ao-rs",
-    "title": "Rio Grande do Sul enfrenta risco de tempestades severas e ventos fortes com ciclone extratropical",
-    "guid": "rs1multi:9e7bbf9e8ccaf34159c20d51028faf09cd44f5f3",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9e7bbf9e8ccaf34159c20d51028faf09cd44f5f3/",
-    "usedAt": 1785886025521,
-    "usedAtIso": "2026-08-04T23:27:05.521Z"
+  "source:88f21993ec73d5ec89ebeb991544be67c44ab64c": {
+    "url": "https://agorars.com/rs/serra/homem-condenado-tentativa-feminicidio-canela",
+    "title": "Homem é condenado por esfaquear companheira e deixá-la tetraplégica em Canela",
+    "guid": "rs1multi:0ca0270a013e56f87e7ae890fef70e6451f6bf7c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0ca0270a013e56f87e7ae890fef70e6451f6bf7c/",
+    "usedAt": 1785936425568,
+    "usedAtIso": "2026-08-05T13:27:05.568Z"
   }
 }
