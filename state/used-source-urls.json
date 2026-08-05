@@ -1,4 +1,20 @@
 {
+  "source:46b4823104e39eebdbee1ad2cb677e28749174bd": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-tempestades-severas-rs",
+    "title": "Rio Grande do Sul entra em alerta para tempestades com ventos fortes até sexta-feira",
+    "guid": "rs1multi:17092cf68c2b0fd393736de4d2ed82a0cc8c6672",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_17092cf68c2b0fd393736de4d2ed82a0cc8c6672/",
+    "usedAt": 1785950825598,
+    "usedAtIso": "2026-08-05T17:27:05.598Z"
+  },
+  "source:d52851eda6e3038ff1200ffdf6bb4ea4db8b2620": {
+    "url": "https://agorars.com/agora-no-tempo/eventos-climaticos-extremos-mundo-el-nino-2026",
+    "title": "Ondas de calor e eventos climáticos extremos em 2026 agravam insegurança alimentar e causam mortes na Europa e outras regiões",
+    "guid": "rs1multi:8ad309c01eb332531d41a45afcd15b0cab98b778",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8ad309c01eb332531d41a45afcd15b0cab98b778/",
+    "usedAt": 1785950825598,
+    "usedAtIso": "2026-08-05T17:27:05.598Z"
+  },
   "source:dea0ed01ebefcb643b296a8204a5335c69c93df3": {
     "url": "https://agorars.com/agora-no-transito/dois-homens-morrem-acidente-br-158-panambi",
     "title": "Colisão frontal entre carro e caminhão na BR-158 deixa dois mortos e um ferido grave",
@@ -2551,20 +2567,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:46b4823104e39eebdbee1ad2cb677e28749174bd": {
-    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-tempestades-severas-rs",
-    "title": "Rio Grande do Sul entra em alerta para tempestades com ventos fortes até sexta-feira",
-    "guid": "rs1multi:17092cf68c2b0fd393736de4d2ed82a0cc8c6672",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_17092cf68c2b0fd393736de4d2ed82a0cc8c6672/",
-    "usedAt": 1785950825598,
-    "usedAtIso": "2026-08-05T17:27:05.598Z"
-  },
-  "source:d52851eda6e3038ff1200ffdf6bb4ea4db8b2620": {
-    "url": "https://agorars.com/agora-no-tempo/eventos-climaticos-extremos-mundo-el-nino-2026",
-    "title": "Ondas de calor e eventos climáticos extremos em 2026 agravam insegurança alimentar e causam mortes na Europa e outras regiões",
-    "guid": "rs1multi:8ad309c01eb332531d41a45afcd15b0cab98b778",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8ad309c01eb332531d41a45afcd15b0cab98b778/",
-    "usedAt": 1785950825598,
-    "usedAtIso": "2026-08-05T17:27:05.598Z"
+  "source:852e07989e7c1cd72f568da5f3aef358b06a07b7": {
+    "url": "https://agorars.com/rs/fronteira-oeste/rio-uruguai-recua-cota-inundacao-uruguaiana",
+    "title": "Nível dos rios Uruguai e Ibicuí apresenta queda na Fronteira Oeste do Rio Grande do Sul",
+    "guid": "rs1multi:993abee54a1b5b17a4db2eeae07d3803df75ba6d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_993abee54a1b5b17a4db2eeae07d3803df75ba6d/",
+    "usedAt": 1785958026156,
+    "usedAtIso": "2026-08-05T19:27:06.156Z"
   }
 }
