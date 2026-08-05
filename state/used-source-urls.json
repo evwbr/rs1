@@ -1,4 +1,12 @@
 {
+  "source:88f21993ec73d5ec89ebeb991544be67c44ab64c": {
+    "url": "https://agorars.com/rs/serra/homem-condenado-tentativa-feminicidio-canela",
+    "title": "Homem é condenado por esfaquear companheira e deixá-la tetraplégica em Canela",
+    "guid": "rs1multi:0ca0270a013e56f87e7ae890fef70e6451f6bf7c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0ca0270a013e56f87e7ae890fef70e6451f6bf7c/",
+    "usedAt": 1785936425568,
+    "usedAtIso": "2026-08-05T13:27:05.568Z"
+  },
   "source:69bfec363422f93931979f03c1da342be308aac5": {
     "url": "https://agorars.com/agora-no-tempo/ciclone-intenso-pode-trazer-temporais-e-vento-forte-ao-rs",
     "title": "Rio Grande do Sul enfrenta risco de tempestades severas e ventos fortes com ciclone extratropical",
@@ -2527,12 +2535,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:88f21993ec73d5ec89ebeb991544be67c44ab64c": {
-    "url": "https://agorars.com/rs/serra/homem-condenado-tentativa-feminicidio-canela",
-    "title": "Homem é condenado por esfaquear companheira e deixá-la tetraplégica em Canela",
-    "guid": "rs1multi:0ca0270a013e56f87e7ae890fef70e6451f6bf7c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0ca0270a013e56f87e7ae890fef70e6451f6bf7c/",
-    "usedAt": 1785936425568,
-    "usedAtIso": "2026-08-05T13:27:05.568Z"
+  "source:dea0ed01ebefcb643b296a8204a5335c69c93df3": {
+    "url": "https://agorars.com/agora-no-transito/dois-homens-morrem-acidente-br-158-panambi",
+    "title": "Colisão frontal entre carro e caminhão na BR-158 deixa dois mortos e um ferido grave",
+    "guid": "rs1multi:4092895497d566bc314f8f1b2e984825e43b0305",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4092895497d566bc314f8f1b2e984825e43b0305/",
+    "usedAt": 1785943625460,
+    "usedAtIso": "2026-08-05T15:27:05.460Z"
+  },
+  "source:67a80bf3385310dbbc084aaa915da0a32697fc53": {
+    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-vendaval-queda-temperatura-rs",
+    "title": "Rio Grande do Sul enfrenta alerta de vendaval com ventos de até 100 km/h e risco de tempestades entre quinta e sábado",
+    "guid": "rs1multi:7b24dd8ac4d33207200394750b8dcf034e7b4eab",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7b24dd8ac4d33207200394750b8dcf034e7b4eab/",
+    "usedAt": 1785943625460,
+    "usedAtIso": "2026-08-05T15:27:05.460Z"
   }
 }
