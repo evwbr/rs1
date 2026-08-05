@@ -1,4 +1,20 @@
 {
+  "source:dea0ed01ebefcb643b296a8204a5335c69c93df3": {
+    "url": "https://agorars.com/agora-no-transito/dois-homens-morrem-acidente-br-158-panambi",
+    "title": "Colisão frontal entre carro e caminhão na BR-158 deixa dois mortos e um ferido grave",
+    "guid": "rs1multi:4092895497d566bc314f8f1b2e984825e43b0305",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4092895497d566bc314f8f1b2e984825e43b0305/",
+    "usedAt": 1785943625460,
+    "usedAtIso": "2026-08-05T15:27:05.460Z"
+  },
+  "source:67a80bf3385310dbbc084aaa915da0a32697fc53": {
+    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-vendaval-queda-temperatura-rs",
+    "title": "Rio Grande do Sul enfrenta alerta de vendaval com ventos de até 100 km/h e risco de tempestades entre quinta e sábado",
+    "guid": "rs1multi:7b24dd8ac4d33207200394750b8dcf034e7b4eab",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7b24dd8ac4d33207200394750b8dcf034e7b4eab/",
+    "usedAt": 1785943625460,
+    "usedAtIso": "2026-08-05T15:27:05.460Z"
+  },
   "source:88f21993ec73d5ec89ebeb991544be67c44ab64c": {
     "url": "https://agorars.com/rs/serra/homem-condenado-tentativa-feminicidio-canela",
     "title": "Homem é condenado por esfaquear companheira e deixá-la tetraplégica em Canela",
@@ -2535,20 +2551,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:dea0ed01ebefcb643b296a8204a5335c69c93df3": {
-    "url": "https://agorars.com/agora-no-transito/dois-homens-morrem-acidente-br-158-panambi",
-    "title": "Colisão frontal entre carro e caminhão na BR-158 deixa dois mortos e um ferido grave",
-    "guid": "rs1multi:4092895497d566bc314f8f1b2e984825e43b0305",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4092895497d566bc314f8f1b2e984825e43b0305/",
-    "usedAt": 1785943625460,
-    "usedAtIso": "2026-08-05T15:27:05.460Z"
+  "source:46b4823104e39eebdbee1ad2cb677e28749174bd": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-tempestades-severas-rs",
+    "title": "Rio Grande do Sul entra em alerta para tempestades com ventos fortes até sexta-feira",
+    "guid": "rs1multi:17092cf68c2b0fd393736de4d2ed82a0cc8c6672",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_17092cf68c2b0fd393736de4d2ed82a0cc8c6672/",
+    "usedAt": 1785950825598,
+    "usedAtIso": "2026-08-05T17:27:05.598Z"
   },
-  "source:67a80bf3385310dbbc084aaa915da0a32697fc53": {
-    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-vendaval-queda-temperatura-rs",
-    "title": "Rio Grande do Sul enfrenta alerta de vendaval com ventos de até 100 km/h e risco de tempestades entre quinta e sábado",
-    "guid": "rs1multi:7b24dd8ac4d33207200394750b8dcf034e7b4eab",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7b24dd8ac4d33207200394750b8dcf034e7b4eab/",
-    "usedAt": 1785943625460,
-    "usedAtIso": "2026-08-05T15:27:05.460Z"
+  "source:d52851eda6e3038ff1200ffdf6bb4ea4db8b2620": {
+    "url": "https://agorars.com/agora-no-tempo/eventos-climaticos-extremos-mundo-el-nino-2026",
+    "title": "Ondas de calor e eventos climáticos extremos em 2026 agravam insegurança alimentar e causam mortes na Europa e outras regiões",
+    "guid": "rs1multi:8ad309c01eb332531d41a45afcd15b0cab98b778",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8ad309c01eb332531d41a45afcd15b0cab98b778/",
+    "usedAt": 1785950825598,
+    "usedAtIso": "2026-08-05T17:27:05.598Z"
   }
 }
