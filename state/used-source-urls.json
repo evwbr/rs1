@@ -1,4 +1,12 @@
 {
+  "source:852e07989e7c1cd72f568da5f3aef358b06a07b7": {
+    "url": "https://agorars.com/rs/fronteira-oeste/rio-uruguai-recua-cota-inundacao-uruguaiana",
+    "title": "Nível dos rios Uruguai e Ibicuí apresenta queda na Fronteira Oeste do Rio Grande do Sul",
+    "guid": "rs1multi:993abee54a1b5b17a4db2eeae07d3803df75ba6d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_993abee54a1b5b17a4db2eeae07d3803df75ba6d/",
+    "usedAt": 1785958026156,
+    "usedAtIso": "2026-08-05T19:27:06.156Z"
+  },
   "source:46b4823104e39eebdbee1ad2cb677e28749174bd": {
     "url": "https://agorars.com/agora-no-tempo/defesa-civil-alerta-tempestades-severas-rs",
     "title": "Rio Grande do Sul entra em alerta para tempestades com ventos fortes até sexta-feira",
@@ -2567,12 +2575,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:852e07989e7c1cd72f568da5f3aef358b06a07b7": {
-    "url": "https://agorars.com/rs/fronteira-oeste/rio-uruguai-recua-cota-inundacao-uruguaiana",
-    "title": "Nível dos rios Uruguai e Ibicuí apresenta queda na Fronteira Oeste do Rio Grande do Sul",
-    "guid": "rs1multi:993abee54a1b5b17a4db2eeae07d3803df75ba6d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_993abee54a1b5b17a4db2eeae07d3803df75ba6d/",
-    "usedAt": 1785958026156,
-    "usedAtIso": "2026-08-05T19:27:06.156Z"
+  "source:c6227abade605fb1859789940dd489b706db9543": {
+    "url": "https://agorars.com/rs/ensino-medio-da-rede-estadual-do-rs-aumenta-nota-no-ideb-em-2025",
+    "title": "Rio Grande do Sul registra avanço no Ideb e melhora posições nacionais em todas as etapas da educação básica",
+    "guid": "rs1multi:8084089414f07af92c0c63b483eec60813b33726",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8084089414f07af92c0c63b483eec60813b33726/",
+    "usedAt": 1785965225458,
+    "usedAtIso": "2026-08-05T21:27:05.458Z"
+  },
+  "source:b24a0a8a374f514bc4ea0f810e9d33a0385ed69a": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-tera-alerta-laranja-para-vendaval-com-rajadas-de-ate-100-km-h",
+    "title": "Defesa Civil emite alerta laranja para vendaval com rajadas de até 100 km/h em Porto Alegre",
+    "guid": "rs1multi:9ec5db7a16a8ac4fbf889e316908723d23046127",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9ec5db7a16a8ac4fbf889e316908723d23046127/",
+    "usedAt": 1785965225458,
+    "usedAtIso": "2026-08-05T21:27:05.458Z"
   }
 }
