@@ -1,4 +1,12 @@
 {
+  "source:9fa35401016629dabf2c74ca510d03b6591a08e7": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-virada-no-tempo-nesta-quinta-feira-com-risco-de-temporais-e-ventania",
+    "title": "Frente fria e ciclone provocam tempestades com granizo e ventos fortes no Rio Grande do Sul",
+    "guid": "rs1multi:f0e5164f5b8ee342dff9eb6acc111d728e6c1b60",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f0e5164f5b8ee342dff9eb6acc111d728e6c1b60/",
+    "usedAt": 1785979626255,
+    "usedAtIso": "2026-08-06T01:27:06.255Z"
+  },
   "source:46e716cb7d7745edb167f16bde2c7a892b7e4159": {
     "url": "https://agorars.com/economia/selic-14-corte-025-ponto-copom",
     "title": "Copom mantém juros e alerta para riscos elevados à inflação em cenário de desaceleração econômica",
@@ -2607,12 +2615,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:9fa35401016629dabf2c74ca510d03b6591a08e7": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-virada-no-tempo-nesta-quinta-feira-com-risco-de-temporais-e-ventania",
-    "title": "Frente fria e ciclone provocam tempestades com granizo e ventos fortes no Rio Grande do Sul",
-    "guid": "rs1multi:f0e5164f5b8ee342dff9eb6acc111d728e6c1b60",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f0e5164f5b8ee342dff9eb6acc111d728e6c1b60/",
-    "usedAt": 1785979626255,
-    "usedAtIso": "2026-08-06T01:27:06.255Z"
+  "source:7cb3f43bbdea74fbbd5f6f53881e136ff8a2b145": {
+    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-selecao-auxiliar-farmacia-operacao-inverno",
+    "title": "Porto Alegre abre inscrições para processo seletivo de auxiliares de farmácia na Operação Inverno da SMS",
+    "guid": "rs1multi:de0375c681636c4db86a9b9318fa7dcb539044f9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_de0375c681636c4db86a9b9318fa7dcb539044f9/",
+    "usedAt": 1786022825456,
+    "usedAtIso": "2026-08-06T13:27:05.456Z"
   }
 }
