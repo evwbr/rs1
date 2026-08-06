@@ -1,4 +1,20 @@
 {
+  "source:46e716cb7d7745edb167f16bde2c7a892b7e4159": {
+    "url": "https://agorars.com/economia/selic-14-corte-025-ponto-copom",
+    "title": "Copom mantém juros e alerta para riscos elevados à inflação em cenário de desaceleração econômica",
+    "guid": "rs1multi:bb00183434d89294a6417d64ec7031ec5a42b059",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bb00183434d89294a6417d64ec7031ec5a42b059/",
+    "usedAt": 1785972425339,
+    "usedAtIso": "2026-08-05T23:27:05.339Z"
+  },
+  "source:f071370ad4505d9a170b20d7e65cb87c092e3ea9": {
+    "url": "https://agorars.com/brasil-e-mundo/brasil-rebaixa-relacoes-argentina-falas-milei",
+    "title": "Brasil rebaixa nível das relações diplomáticas com Argentina após declarações de presidente argentino",
+    "guid": "rs1multi:b5978ef4905d0042c23b8b68f1ecc13373016ab7",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b5978ef4905d0042c23b8b68f1ecc13373016ab7/",
+    "usedAt": 1785972425339,
+    "usedAtIso": "2026-08-05T23:27:05.339Z"
+  },
   "source:c6227abade605fb1859789940dd489b706db9543": {
     "url": "https://agorars.com/rs/ensino-medio-da-rede-estadual-do-rs-aumenta-nota-no-ideb-em-2025",
     "title": "Rio Grande do Sul registra avanço no Ideb e melhora posições nacionais em todas as etapas da educação básica",
@@ -2591,20 +2607,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:46e716cb7d7745edb167f16bde2c7a892b7e4159": {
-    "url": "https://agorars.com/economia/selic-14-corte-025-ponto-copom",
-    "title": "Copom mantém juros e alerta para riscos elevados à inflação em cenário de desaceleração econômica",
-    "guid": "rs1multi:bb00183434d89294a6417d64ec7031ec5a42b059",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bb00183434d89294a6417d64ec7031ec5a42b059/",
-    "usedAt": 1785972425339,
-    "usedAtIso": "2026-08-05T23:27:05.339Z"
-  },
-  "source:f071370ad4505d9a170b20d7e65cb87c092e3ea9": {
-    "url": "https://agorars.com/brasil-e-mundo/brasil-rebaixa-relacoes-argentina-falas-milei",
-    "title": "Brasil rebaixa nível das relações diplomáticas com Argentina após declarações de presidente argentino",
-    "guid": "rs1multi:b5978ef4905d0042c23b8b68f1ecc13373016ab7",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b5978ef4905d0042c23b8b68f1ecc13373016ab7/",
-    "usedAt": 1785972425339,
-    "usedAtIso": "2026-08-05T23:27:05.339Z"
+  "source:9fa35401016629dabf2c74ca510d03b6591a08e7": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-virada-no-tempo-nesta-quinta-feira-com-risco-de-temporais-e-ventania",
+    "title": "Frente fria e ciclone provocam tempestades com granizo e ventos fortes no Rio Grande do Sul",
+    "guid": "rs1multi:f0e5164f5b8ee342dff9eb6acc111d728e6c1b60",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f0e5164f5b8ee342dff9eb6acc111d728e6c1b60/",
+    "usedAt": 1785979626255,
+    "usedAtIso": "2026-08-06T01:27:06.255Z"
   }
 }
