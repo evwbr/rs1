@@ -1,4 +1,12 @@
 {
+  "source:7cb3f43bbdea74fbbd5f6f53881e136ff8a2b145": {
+    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-selecao-auxiliar-farmacia-operacao-inverno",
+    "title": "Porto Alegre abre inscrições para processo seletivo de auxiliares de farmácia na Operação Inverno da SMS",
+    "guid": "rs1multi:de0375c681636c4db86a9b9318fa7dcb539044f9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_de0375c681636c4db86a9b9318fa7dcb539044f9/",
+    "usedAt": 1786022825456,
+    "usedAtIso": "2026-08-06T13:27:05.456Z"
+  },
   "source:9fa35401016629dabf2c74ca510d03b6591a08e7": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-virada-no-tempo-nesta-quinta-feira-com-risco-de-temporais-e-ventania",
     "title": "Frente fria e ciclone provocam tempestades com granizo e ventos fortes no Rio Grande do Sul",
@@ -2615,12 +2623,28 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7cb3f43bbdea74fbbd5f6f53881e136ff8a2b145": {
-    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-selecao-auxiliar-farmacia-operacao-inverno",
-    "title": "Porto Alegre abre inscrições para processo seletivo de auxiliares de farmácia na Operação Inverno da SMS",
-    "guid": "rs1multi:de0375c681636c4db86a9b9318fa7dcb539044f9",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_de0375c681636c4db86a9b9318fa7dcb539044f9/",
-    "usedAt": 1786022825456,
-    "usedAtIso": "2026-08-06T13:27:05.456Z"
+  "source:c371c79188d0f41fc6c4b9a8ce6377d7aa162fd8": {
+    "url": "https://agorars.com/agora-no-tempo/defesa-civil-emergencia-quatro-cidades-rs-temporais",
+    "title": "Quatro cidades do Rio Grande do Sul têm situação de emergência reconhecida após temporais em julho",
+    "guid": "rs1multi:eb4bfd17bad24e9d8d2aa3e4f027c131710bc3cd",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_eb4bfd17bad24e9d8d2aa3e4f027c131710bc3cd/",
+    "usedAt": 1786030025212,
+    "usedAtIso": "2026-08-06T15:27:05.212Z"
+  },
+  "source:de71f3f2b8b21f51cdc6e8376526797c70928a33": {
+    "url": "https://agorars.com/agora-no-transito/ponte-ers-129-encantado-mucum-reconstrucao-pilar",
+    "title": "Ponte entre Encantado e Muçum segue interditada e obra de reconstrução será iniciada em até 40 dias",
+    "guid": "rs1multi:7c6b73c15a73eb3fcf0d83c821a2d42087d3cc9c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7c6b73c15a73eb3fcf0d83c821a2d42087d3cc9c/",
+    "usedAt": 1786030025212,
+    "usedAtIso": "2026-08-06T15:27:05.212Z"
+  },
+  "source:428f99ee9386f17525d6f90ed41f0448cd474827": {
+    "url": "https://agorars.com/politica/vereador-palmeira-das-missoes-condenado-rachadinha",
+    "title": "Vereador do Norte do Rio Grande do Sul é condenado por concussão e perde mandato",
+    "guid": "rs1multi:c6e5dfc94220a0488876f705c05189ff08cb48dc",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_c6e5dfc94220a0488876f705c05189ff08cb48dc/",
+    "usedAt": 1786030025212,
+    "usedAtIso": "2026-08-06T15:27:05.212Z"
   }
 }
