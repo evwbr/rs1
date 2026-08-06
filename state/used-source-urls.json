@@ -1,4 +1,12 @@
 {
+  "source:e2b1780737267f60a4167d37f03c0d6486e8bc98": {
+    "url": "https://agorars.com/brasil-e-mundo/pf-indicia-16-queda-aviao-voepass-vinhedo",
+    "title": "Polícia Federal indicia 16 funcionários da Voepass por acidente aéreo em Vinhedo",
+    "guid": "rs1multi:7999f8ddf051e5c9373b40035e0a9caa009514f5",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7999f8ddf051e5c9373b40035e0a9caa009514f5/",
+    "usedAt": 1786044425611,
+    "usedAtIso": "2026-08-06T19:27:05.611Z"
+  },
   "source:c371c79188d0f41fc6c4b9a8ce6377d7aa162fd8": {
     "url": "https://agorars.com/agora-no-tempo/defesa-civil-emergencia-quatro-cidades-rs-temporais",
     "title": "Quatro cidades do Rio Grande do Sul têm situação de emergência reconhecida após temporais em julho",
@@ -2647,12 +2655,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:e2b1780737267f60a4167d37f03c0d6486e8bc98": {
-    "url": "https://agorars.com/brasil-e-mundo/pf-indicia-16-queda-aviao-voepass-vinhedo",
-    "title": "Polícia Federal indicia 16 funcionários da Voepass por acidente aéreo em Vinhedo",
-    "guid": "rs1multi:7999f8ddf051e5c9373b40035e0a9caa009514f5",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7999f8ddf051e5c9373b40035e0a9caa009514f5/",
-    "usedAt": 1786044425611,
-    "usedAtIso": "2026-08-06T19:27:05.611Z"
+  "source:ebb6f1cf41009756cebf2b6b7bcd6e15351547a3": {
+    "url": "https://agorars.com/brasil-e-mundo/em-decisao-inedita-stj-decide-pela-perda-do-cargo-de-marco-buzzi-por-acusacoes-de-assedio-sexual",
+    "title": "STJ decide pela perda do cargo do ministro Marco Aurélio Buzzi por infrações disciplinares",
+    "guid": "rs1multi:18402f6475dee360a8e65e0ad14527fb3a7b93f3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_18402f6475dee360a8e65e0ad14527fb3a7b93f3/",
+    "usedAt": 1786058825739,
+    "usedAtIso": "2026-08-06T23:27:05.739Z"
   }
 }
