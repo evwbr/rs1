@@ -1,4 +1,28 @@
 {
+  "source:79f623c2df4e67c09ef5a391b99c1baeb7dd2e4e": {
+    "url": "https://agorars.com/agora-no-tempo/falta-energia-abastecimento-agua-cinco-cidades-regiao-metropolitana",
+    "title": "Temporal na Região Metropolitana de Porto Alegre causa falta de água em cinco municípios",
+    "guid": "rs1multi:58a827e8c704dc9f8d71318b00734d9c014b5e9b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_58a827e8c704dc9f8d71318b00734d9c014b5e9b/",
+    "usedAt": 1786073225623,
+    "usedAtIso": "2026-08-07T03:27:05.623Z"
+  },
+  "source:2b552badc2d6c191077ba0dae0d6a9cf7c6f6f5e": {
+    "url": "https://agorars.com/rs/vales/cai/motociclista-morre-apos-queda-de-arvore-na-ers-124-em-montenegro",
+    "title": "Homem morre atingido por árvore caída enquanto trafegava em rodovia no Vale do Caí",
+    "guid": "rs1multi:79b421a34fff5ca3598d7bcc87803074fa7f0bbe",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_79b421a34fff5ca3598d7bcc87803074fa7f0bbe/",
+    "usedAt": 1786073225623,
+    "usedAtIso": "2026-08-07T03:27:05.623Z"
+  },
+  "source:5afaf8dacc05d52f2746cdb56982c12f9b8cfd56": {
+    "url": "https://agorars.com/agora-no-tempo/vendaval-com-rajadas-de-120-km-h-causa-destelhamentos-e-derruba-arvores-em-porto-alegre",
+    "title": "Temporal em Porto Alegre provoca destelhamentos e queda de árvores com ventos de até 120 km/h",
+    "guid": "rs1multi:516768138fc97ad595a8d611da948e09d943f72c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_516768138fc97ad595a8d611da948e09d943f72c/",
+    "usedAt": 1786073225623,
+    "usedAtIso": "2026-08-07T03:27:05.623Z"
+  },
   "source:c528e9839e2e897872688ac3c3aef7cbf14b8070": {
     "url": "https://agorars.com/cotidiano/temporal-paralisa-operacao-da-trensurb",
     "title": "Queda de árvore interrompe energia ao norte da Estação Sapucaia",
@@ -2671,28 +2695,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:79f623c2df4e67c09ef5a391b99c1baeb7dd2e4e": {
-    "url": "https://agorars.com/agora-no-tempo/falta-energia-abastecimento-agua-cinco-cidades-regiao-metropolitana",
-    "title": "Temporal na Região Metropolitana de Porto Alegre causa falta de água em cinco municípios",
-    "guid": "rs1multi:58a827e8c704dc9f8d71318b00734d9c014b5e9b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_58a827e8c704dc9f8d71318b00734d9c014b5e9b/",
-    "usedAt": 1786073225623,
-    "usedAtIso": "2026-08-07T03:27:05.623Z"
-  },
-  "source:2b552badc2d6c191077ba0dae0d6a9cf7c6f6f5e": {
-    "url": "https://agorars.com/rs/vales/cai/motociclista-morre-apos-queda-de-arvore-na-ers-124-em-montenegro",
-    "title": "Homem morre atingido por árvore caída enquanto trafegava em rodovia no Vale do Caí",
-    "guid": "rs1multi:79b421a34fff5ca3598d7bcc87803074fa7f0bbe",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_79b421a34fff5ca3598d7bcc87803074fa7f0bbe/",
-    "usedAt": 1786073225623,
-    "usedAtIso": "2026-08-07T03:27:05.623Z"
-  },
-  "source:5afaf8dacc05d52f2746cdb56982c12f9b8cfd56": {
-    "url": "https://agorars.com/agora-no-tempo/vendaval-com-rajadas-de-120-km-h-causa-destelhamentos-e-derruba-arvores-em-porto-alegre",
-    "title": "Temporal em Porto Alegre provoca destelhamentos e queda de árvores com ventos de até 120 km/h",
-    "guid": "rs1multi:516768138fc97ad595a8d611da948e09d943f72c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_516768138fc97ad595a8d611da948e09d943f72c/",
-    "usedAt": 1786073225623,
-    "usedAtIso": "2026-08-07T03:27:05.623Z"
+  "source:9aafafb64c1789a313eee182e68aab2443c555b6": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-ciclone-vento-forte-sexta-feira",
+    "title": "Ciclone extratropical provoca vento forte e mar agitado no Rio Grande do Sul nesta sexta-feira",
+    "guid": "rs1multi:3e3cf1a740eac9c3467b0e7aced178171433e13f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3e3cf1a740eac9c3467b0e7aced178171433e13f/",
+    "usedAt": 1786080425666,
+    "usedAtIso": "2026-08-07T05:27:05.666Z"
   }
 }
