@@ -1,4 +1,12 @@
 {
+  "source:ebb6f1cf41009756cebf2b6b7bcd6e15351547a3": {
+    "url": "https://agorars.com/brasil-e-mundo/em-decisao-inedita-stj-decide-pela-perda-do-cargo-de-marco-buzzi-por-acusacoes-de-assedio-sexual",
+    "title": "STJ decide pela perda do cargo do ministro Marco Aurélio Buzzi por infrações disciplinares",
+    "guid": "rs1multi:18402f6475dee360a8e65e0ad14527fb3a7b93f3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_18402f6475dee360a8e65e0ad14527fb3a7b93f3/",
+    "usedAt": 1786058825739,
+    "usedAtIso": "2026-08-06T23:27:05.739Z"
+  },
   "source:e2b1780737267f60a4167d37f03c0d6486e8bc98": {
     "url": "https://agorars.com/brasil-e-mundo/pf-indicia-16-queda-aviao-voepass-vinhedo",
     "title": "Polícia Federal indicia 16 funcionários da Voepass por acidente aéreo em Vinhedo",
@@ -2655,12 +2663,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:ebb6f1cf41009756cebf2b6b7bcd6e15351547a3": {
-    "url": "https://agorars.com/brasil-e-mundo/em-decisao-inedita-stj-decide-pela-perda-do-cargo-de-marco-buzzi-por-acusacoes-de-assedio-sexual",
-    "title": "STJ decide pela perda do cargo do ministro Marco Aurélio Buzzi por infrações disciplinares",
-    "guid": "rs1multi:18402f6475dee360a8e65e0ad14527fb3a7b93f3",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_18402f6475dee360a8e65e0ad14527fb3a7b93f3/",
-    "usedAt": 1786058825739,
-    "usedAtIso": "2026-08-06T23:27:05.739Z"
+  "source:c528e9839e2e897872688ac3c3aef7cbf14b8070": {
+    "url": "https://agorars.com/cotidiano/temporal-paralisa-operacao-da-trensurb",
+    "title": "Queda de árvore interrompe energia ao norte da Estação Sapucaia",
+    "guid": "rs1multi:3a35476465065672464a3ed1dd0f6aea1ea55bdf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3a35476465065672464a3ed1dd0f6aea1ea55bdf/",
+    "usedAt": 1786066026621,
+    "usedAtIso": "2026-08-07T01:27:06.621Z"
   }
 }
