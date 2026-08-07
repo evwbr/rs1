@@ -1,4 +1,12 @@
 {
+  "source:a54c6e88f4e72fc6bc995ff71208c7993e362328": {
+    "url": "https://agorars.com/agora-no-tempo/temporal-afeta-hospitais-rs-rio-pardo-litoral-norte",
+    "title": "Temporal no Rio Grande do Sul interdita setores hospitalares e afeta serviços de saúde em várias cidades",
+    "guid": "rs1multi:4b8b2a8ba7384c33335cd584f1c5671508135671",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4b8b2a8ba7384c33335cd584f1c5671508135671/",
+    "usedAt": 1786130825799,
+    "usedAtIso": "2026-08-07T19:27:05.799Z"
+  },
   "source:7d8fc316f5ee5bd9cb71dcc2cec39deff2cad208": {
     "url": "https://agorars.com/agora-no-tempo/temporal-danos-94-municipios-feridos-rs",
     "title": "Temporal com vendaval atinge 94 municípios do Rio Grande do Sul e deixa uma vítima fatal",
@@ -2727,12 +2735,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:a54c6e88f4e72fc6bc995ff71208c7993e362328": {
-    "url": "https://agorars.com/agora-no-tempo/temporal-afeta-hospitais-rs-rio-pardo-litoral-norte",
-    "title": "Temporal no Rio Grande do Sul interdita setores hospitalares e afeta serviços de saúde em várias cidades",
-    "guid": "rs1multi:4b8b2a8ba7384c33335cd584f1c5671508135671",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4b8b2a8ba7384c33335cd584f1c5671508135671/",
-    "usedAt": 1786130825799,
-    "usedAtIso": "2026-08-07T19:27:05.799Z"
+  "source:235d2ffa6e81f495c6095dbbd9b91b659976af93": {
+    "url": "https://agorars.com/agora-no-transito/homem-morre-apos-caminhonete-bater-na-traseira-de-caminhao-na-br-116-em-esteio",
+    "title": "Homem morre em colisão na BR-116 em Esteio envolvendo caminhonete e caminhão",
+    "guid": "rs1multi:5b14f2b8ac70eb5e023ba9de473b992a967eecb4",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5b14f2b8ac70eb5e023ba9de473b992a967eecb4/",
+    "usedAt": 1786138025665,
+    "usedAtIso": "2026-08-07T21:27:05.665Z"
+  },
+  "source:1b0904693e225dd00b51d08cb8cc03b48e7e255d": {
+    "url": "https://agorars.com/cotidiano/rs-pode-ter-minima-de-1c-e-geada-em-varias-regioes-no-fim-de-semana",
+    "title": "Frio intenso traz risco de geada e temporais no Rio Grande do Sul neste fim de semana",
+    "guid": "rs1multi:4d83da1d176e7040cffd5b1e8db236bd2f00fbe2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4d83da1d176e7040cffd5b1e8db236bd2f00fbe2/",
+    "usedAt": 1786138025665,
+    "usedAtIso": "2026-08-07T21:27:05.665Z"
   }
 }
