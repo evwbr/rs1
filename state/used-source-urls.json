@@ -1,4 +1,12 @@
 {
+  "source:9aafafb64c1789a313eee182e68aab2443c555b6": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-ciclone-vento-forte-sexta-feira",
+    "title": "Ciclone extratropical provoca vento forte e mar agitado no Rio Grande do Sul nesta sexta-feira",
+    "guid": "rs1multi:3e3cf1a740eac9c3467b0e7aced178171433e13f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3e3cf1a740eac9c3467b0e7aced178171433e13f/",
+    "usedAt": 1786080425666,
+    "usedAtIso": "2026-08-07T05:27:05.666Z"
+  },
   "source:79f623c2df4e67c09ef5a391b99c1baeb7dd2e4e": {
     "url": "https://agorars.com/agora-no-tempo/falta-energia-abastecimento-agua-cinco-cidades-regiao-metropolitana",
     "title": "Temporal na Região Metropolitana de Porto Alegre causa falta de água em cinco municípios",
@@ -2695,12 +2703,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:9aafafb64c1789a313eee182e68aab2443c555b6": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-ciclone-vento-forte-sexta-feira",
-    "title": "Ciclone extratropical provoca vento forte e mar agitado no Rio Grande do Sul nesta sexta-feira",
-    "guid": "rs1multi:3e3cf1a740eac9c3467b0e7aced178171433e13f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3e3cf1a740eac9c3467b0e7aced178171433e13f/",
-    "usedAt": 1786080425666,
-    "usedAtIso": "2026-08-07T05:27:05.666Z"
+  "source:7a2999988d309a6c65b78aeda0c0a7d256f46417": {
+    "url": "https://agorars.com/agora-no-tempo/vendaval-porto-alegre-ocorrencias-vias-bloqueadas",
+    "title": "Vendaval causa 44 ocorrências em Porto Alegre e deixa bairros sem água e trânsito bloqueado",
+    "guid": "rs1multi:3fae6a1a16b75607abad4c1f9b55405350491b4d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3fae6a1a16b75607abad4c1f9b55405350491b4d/",
+    "usedAt": 1786109226213,
+    "usedAtIso": "2026-08-07T13:27:06.213Z"
   }
 }
