@@ -1,4 +1,12 @@
 {
+  "source:7a2999988d309a6c65b78aeda0c0a7d256f46417": {
+    "url": "https://agorars.com/agora-no-tempo/vendaval-porto-alegre-ocorrencias-vias-bloqueadas",
+    "title": "Vendaval causa 44 ocorrências em Porto Alegre e deixa bairros sem água e trânsito bloqueado",
+    "guid": "rs1multi:3fae6a1a16b75607abad4c1f9b55405350491b4d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3fae6a1a16b75607abad4c1f9b55405350491b4d/",
+    "usedAt": 1786109226213,
+    "usedAtIso": "2026-08-07T13:27:06.213Z"
+  },
   "source:9aafafb64c1789a313eee182e68aab2443c555b6": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-ciclone-vento-forte-sexta-feira",
     "title": "Ciclone extratropical provoca vento forte e mar agitado no Rio Grande do Sul nesta sexta-feira",
@@ -2703,12 +2711,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7a2999988d309a6c65b78aeda0c0a7d256f46417": {
-    "url": "https://agorars.com/agora-no-tempo/vendaval-porto-alegre-ocorrencias-vias-bloqueadas",
-    "title": "Vendaval causa 44 ocorrências em Porto Alegre e deixa bairros sem água e trânsito bloqueado",
-    "guid": "rs1multi:3fae6a1a16b75607abad4c1f9b55405350491b4d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3fae6a1a16b75607abad4c1f9b55405350491b4d/",
-    "usedAt": 1786109226213,
-    "usedAtIso": "2026-08-07T13:27:06.213Z"
+  "source:7d8fc316f5ee5bd9cb71dcc2cec39deff2cad208": {
+    "url": "https://agorars.com/agora-no-tempo/temporal-danos-94-municipios-feridos-rs",
+    "title": "Temporal com vendaval atinge 94 municípios do Rio Grande do Sul e deixa uma vítima fatal",
+    "guid": "rs1multi:4b01124d4b3fe55fd5fa28b88fbee9d6ec24805e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4b01124d4b3fe55fd5fa28b88fbee9d6ec24805e/",
+    "usedAt": 1786116425549,
+    "usedAtIso": "2026-08-07T15:27:05.549Z"
+  },
+  "source:4556cbff3d65d13eaa3abc132194e25bc1928c7b": {
+    "url": "https://agorars.com/agora-no-transito/trensurb-retoma-operacao-temporal-estacao-sapucaia",
+    "title": "Trensurb retoma operação após queda de árvore interromper circulação na estação Sapucaia",
+    "guid": "rs1multi:478dfbe90f9ae57eb516a9eb876ed8bfde6e5489",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_478dfbe90f9ae57eb516a9eb876ed8bfde6e5489/",
+    "usedAt": 1786116425549,
+    "usedAtIso": "2026-08-07T15:27:05.549Z"
   }
 }
