@@ -1,4 +1,20 @@
 {
+  "source:7d8fc316f5ee5bd9cb71dcc2cec39deff2cad208": {
+    "url": "https://agorars.com/agora-no-tempo/temporal-danos-94-municipios-feridos-rs",
+    "title": "Temporal com vendaval atinge 94 municípios do Rio Grande do Sul e deixa uma vítima fatal",
+    "guid": "rs1multi:4b01124d4b3fe55fd5fa28b88fbee9d6ec24805e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4b01124d4b3fe55fd5fa28b88fbee9d6ec24805e/",
+    "usedAt": 1786116425549,
+    "usedAtIso": "2026-08-07T15:27:05.549Z"
+  },
+  "source:4556cbff3d65d13eaa3abc132194e25bc1928c7b": {
+    "url": "https://agorars.com/agora-no-transito/trensurb-retoma-operacao-temporal-estacao-sapucaia",
+    "title": "Trensurb retoma operação após queda de árvore interromper circulação na estação Sapucaia",
+    "guid": "rs1multi:478dfbe90f9ae57eb516a9eb876ed8bfde6e5489",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_478dfbe90f9ae57eb516a9eb876ed8bfde6e5489/",
+    "usedAt": 1786116425549,
+    "usedAtIso": "2026-08-07T15:27:05.549Z"
+  },
   "source:7a2999988d309a6c65b78aeda0c0a7d256f46417": {
     "url": "https://agorars.com/agora-no-tempo/vendaval-porto-alegre-ocorrencias-vias-bloqueadas",
     "title": "Vendaval causa 44 ocorrências em Porto Alegre e deixa bairros sem água e trânsito bloqueado",
@@ -2711,20 +2727,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7d8fc316f5ee5bd9cb71dcc2cec39deff2cad208": {
-    "url": "https://agorars.com/agora-no-tempo/temporal-danos-94-municipios-feridos-rs",
-    "title": "Temporal com vendaval atinge 94 municípios do Rio Grande do Sul e deixa uma vítima fatal",
-    "guid": "rs1multi:4b01124d4b3fe55fd5fa28b88fbee9d6ec24805e",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4b01124d4b3fe55fd5fa28b88fbee9d6ec24805e/",
-    "usedAt": 1786116425549,
-    "usedAtIso": "2026-08-07T15:27:05.549Z"
-  },
-  "source:4556cbff3d65d13eaa3abc132194e25bc1928c7b": {
-    "url": "https://agorars.com/agora-no-transito/trensurb-retoma-operacao-temporal-estacao-sapucaia",
-    "title": "Trensurb retoma operação após queda de árvore interromper circulação na estação Sapucaia",
-    "guid": "rs1multi:478dfbe90f9ae57eb516a9eb876ed8bfde6e5489",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_478dfbe90f9ae57eb516a9eb876ed8bfde6e5489/",
-    "usedAt": 1786116425549,
-    "usedAtIso": "2026-08-07T15:27:05.549Z"
+  "source:a54c6e88f4e72fc6bc995ff71208c7993e362328": {
+    "url": "https://agorars.com/agora-no-tempo/temporal-afeta-hospitais-rs-rio-pardo-litoral-norte",
+    "title": "Temporal no Rio Grande do Sul interdita setores hospitalares e afeta serviços de saúde em várias cidades",
+    "guid": "rs1multi:4b8b2a8ba7384c33335cd584f1c5671508135671",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4b8b2a8ba7384c33335cd584f1c5671508135671/",
+    "usedAt": 1786130825799,
+    "usedAtIso": "2026-08-07T19:27:05.799Z"
   }
 }
