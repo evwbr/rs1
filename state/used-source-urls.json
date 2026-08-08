@@ -1,4 +1,12 @@
 {
+  "source:6f6c65415706c89855cd111d23d4b20003a524a4": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-rs-2306-desalojados-114-municipios-morte",
+    "title": "Temporais no Rio Grande do Sul deixam mais de 2 mil desalojados, feridos e uma morte",
+    "guid": "rs1multi:b655da343f66ad0c9c655cc3f7a76c7761ae2e2b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b655da343f66ad0c9c655cc3f7a76c7761ae2e2b/",
+    "usedAt": 1786145226039,
+    "usedAtIso": "2026-08-07T23:27:06.039Z"
+  },
   "source:235d2ffa6e81f495c6095dbbd9b91b659976af93": {
     "url": "https://agorars.com/agora-no-transito/homem-morre-apos-caminhonete-bater-na-traseira-de-caminhao-na-br-116-em-esteio",
     "title": "Homem morre em colisão na BR-116 em Esteio envolvendo caminhonete e caminhão",
@@ -2751,12 +2759,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:6f6c65415706c89855cd111d23d4b20003a524a4": {
-    "url": "https://agorars.com/agora-no-tempo/temporais-rs-2306-desalojados-114-municipios-morte",
-    "title": "Temporais no Rio Grande do Sul deixam mais de 2 mil desalojados, feridos e uma morte",
-    "guid": "rs1multi:b655da343f66ad0c9c655cc3f7a76c7761ae2e2b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b655da343f66ad0c9c655cc3f7a76c7761ae2e2b/",
-    "usedAt": 1786145226039,
-    "usedAtIso": "2026-08-07T23:27:06.039Z"
+  "source:3a6ccd45e8d11d350fd367d997208c643b5a580a": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-atingem-129-municipios-e-afetam-mais-de-94-mil-pessoas-no-rs",
+    "title": "Temporal no Rio Grande do Sul deixa mais de 2 mil desalojados e uma morte",
+    "guid": "rs1multi:bf571afb2138df79b3d161e3b4d8f0684780163f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bf571afb2138df79b3d161e3b4d8f0684780163f/",
+    "usedAt": 1786217225051,
+    "usedAtIso": "2026-08-08T19:27:05.051Z"
   }
 }
