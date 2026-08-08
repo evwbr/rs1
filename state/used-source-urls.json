@@ -1,4 +1,12 @@
 {
+  "source:5232482c29719f87febfe274c5e17ba60e416f69": {
+    "url": "https://agorars.com/rs/porto-alegre/parque-harmonia-comeca-a-receber-piquetes-para-o-acampamento-farroupilha-2026",
+    "title": "Montagem do Acampamento Farroupilha 2026 começa no Parque Harmonia em Porto Alegre",
+    "guid": "rs1multi:48d126624425808f491969c517996a1633742f62",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_48d126624425808f491969c517996a1633742f62/",
+    "usedAt": 1786224425218,
+    "usedAtIso": "2026-08-08T21:27:05.218Z"
+  },
   "source:3a6ccd45e8d11d350fd367d997208c643b5a580a": {
     "url": "https://agorars.com/agora-no-tempo/temporais-atingem-129-municipios-e-afetam-mais-de-94-mil-pessoas-no-rs",
     "title": "Temporal no Rio Grande do Sul deixa mais de 2 mil desalojados e uma morte",
@@ -2767,12 +2775,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:5232482c29719f87febfe274c5e17ba60e416f69": {
-    "url": "https://agorars.com/rs/porto-alegre/parque-harmonia-comeca-a-receber-piquetes-para-o-acampamento-farroupilha-2026",
-    "title": "Montagem do Acampamento Farroupilha 2026 começa no Parque Harmonia em Porto Alegre",
-    "guid": "rs1multi:48d126624425808f491969c517996a1633742f62",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_48d126624425808f491969c517996a1633742f62/",
-    "usedAt": 1786224425218,
-    "usedAtIso": "2026-08-08T21:27:05.218Z"
+  "source:e4141244c1cdc69d71c2eaecd95aa8d9566e0a55": {
+    "url": "https://agorars.com/brasil-e-mundo/avo-mae-e-filha-morrem-em-queda-de-helicoptero-durante-passeio-no-rio",
+    "title": "Quatro pessoas morrem em queda de helicóptero na Vista Chinesa, no Rio de Janeiro",
+    "guid": "rs1multi:50f4faefa35b138c34889a2243a4b4f1a8568d99",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_50f4faefa35b138c34889a2243a4b4f1a8568d99/",
+    "usedAt": 1786231625421,
+    "usedAtIso": "2026-08-08T23:27:05.421Z"
   }
 }
