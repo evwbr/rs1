@@ -1,4 +1,12 @@
 {
+  "source:910188dbad666429b9b79dbcec2de3e435b59d86": {
+    "url": "https://agorars.com/agora-no-transito/acidente-br-386-seberi-morto-quatro-feridos",
+    "title": "Motorista morre e quatro ficam feridos em colisão envolvendo três carros na BR-386 em Seberi",
+    "guid": "rs1multi:13c1767022f10d5b5c5b66de25b26630988ecf4f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_13c1767022f10d5b5c5b66de25b26630988ecf4f/",
+    "usedAt": 1786310825400,
+    "usedAtIso": "2026-08-09T21:27:05.400Z"
+  },
   "source:2df10a2f4a39c2b6cd5bd5cad5efc0d6fc67ef4b": {
     "url": "https://agorars.com/rs/porto-alegre/falta-de-agua-pode-atingir-seis-bairros-de-porto-alegre-entre-segunda-e-terca-feira",
     "title": "Manutenção na rede de água pode causar falta de abastecimento em bairros de Porto Alegre na segunda e terça-feira",
@@ -2815,12 +2823,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:910188dbad666429b9b79dbcec2de3e435b59d86": {
-    "url": "https://agorars.com/agora-no-transito/acidente-br-386-seberi-morto-quatro-feridos",
-    "title": "Motorista morre e quatro ficam feridos em colisão envolvendo três carros na BR-386 em Seberi",
-    "guid": "rs1multi:13c1767022f10d5b5c5b66de25b26630988ecf4f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_13c1767022f10d5b5c5b66de25b26630988ecf4f/",
-    "usedAt": 1786310825400,
-    "usedAtIso": "2026-08-09T21:27:05.400Z"
+  "source:7cad654f85ee88d96fa0ea3d4a531044e3490f76": {
+    "url": "https://agorars.com/agora-no-tempo/rs-2686-desalojados-117-municipios-danos-defesa-civil",
+    "title": "Temporal no Rio Grande do Sul deixa mais de 2,6 mil desalojados e causa danos em 117 municípios",
+    "guid": "rs1multi:bc1a23c9fa46ffbdc019229f1e86a47ddcf7b97f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bc1a23c9fa46ffbdc019229f1e86a47ddcf7b97f/",
+    "usedAt": 1786318025133,
+    "usedAtIso": "2026-08-09T23:27:05.133Z"
   }
 }
