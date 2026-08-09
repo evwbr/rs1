@@ -1,4 +1,28 @@
 {
+  "source:2934ee0b44a064b76dc4a69206226d4e765d0fc7": {
+    "url": "https://agorars.com/rs/litoral-norte/incendio-atinge-fabrica-de-resinas-em-capivari-do-sul-no-litoral-norte",
+    "title": "Incêndio atinge fábrica de resinas em Capivari do Sul e mobiliza bombeiros no Litoral Norte do Rio Grande do Sul",
+    "guid": "rs1multi:42c466494a73a292e07eeece216d4b3534a5d51e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_42c466494a73a292e07eeece216d4b3534a5d51e/",
+    "usedAt": 1786296432368,
+    "usedAtIso": "2026-08-09T17:27:12.368Z"
+  },
+  "source:a4769d55f2547fd73254a5a1521bbe3a7b862a26": {
+    "url": "https://agorars.com/agora-no-transito/homem-morre-atropelado-na-br-101-em-osorio-2",
+    "title": "Homem se coloca na frente de caminhão e causa interdição parcial da BR-101 em Osório",
+    "guid": "rs1multi:50a0c81ba8a89ab3d200bd397351a3d346dd4651",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_50a0c81ba8a89ab3d200bd397351a3d346dd4651/",
+    "usedAt": 1786296432368,
+    "usedAtIso": "2026-08-09T17:27:12.368Z"
+  },
+  "source:e9fdd76837da0138c41ea857fc3f47d689963c4f": {
+    "url": "https://agorars.com/agora-no-tempo/equipes-trabalham-para-reconstruir-torres-derrubadas-pelo-vento-no-extremo-sul",
+    "title": "Ciclone danifica torres de linha de",
+    "guid": "rs1multi:0eb70dbae1c485ef34ad03c1afac48e8e31901b1",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0eb70dbae1c485ef34ad03c1afac48e8e31901b1/",
+    "usedAt": 1786296432368,
+    "usedAtIso": "2026-08-09T17:27:12.368Z"
+  },
   "source:e4141244c1cdc69d71c2eaecd95aa8d9566e0a55": {
     "url": "https://agorars.com/brasil-e-mundo/avo-mae-e-filha-morrem-em-queda-de-helicoptero-durante-passeio-no-rio",
     "title": "Quatro pessoas morrem em queda de helicóptero na Vista Chinesa, no Rio de Janeiro",
@@ -2783,28 +2807,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:2934ee0b44a064b76dc4a69206226d4e765d0fc7": {
-    "url": "https://agorars.com/rs/litoral-norte/incendio-atinge-fabrica-de-resinas-em-capivari-do-sul-no-litoral-norte",
-    "title": "Incêndio atinge fábrica de resinas em Capivari do Sul e mobiliza bombeiros no Litoral Norte do Rio Grande do Sul",
-    "guid": "rs1multi:42c466494a73a292e07eeece216d4b3534a5d51e",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_42c466494a73a292e07eeece216d4b3534a5d51e/",
-    "usedAt": 1786296432368,
-    "usedAtIso": "2026-08-09T17:27:12.368Z"
-  },
-  "source:a4769d55f2547fd73254a5a1521bbe3a7b862a26": {
-    "url": "https://agorars.com/agora-no-transito/homem-morre-atropelado-na-br-101-em-osorio-2",
-    "title": "Homem se coloca na frente de caminhão e causa interdição parcial da BR-101 em Osório",
-    "guid": "rs1multi:50a0c81ba8a89ab3d200bd397351a3d346dd4651",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_50a0c81ba8a89ab3d200bd397351a3d346dd4651/",
-    "usedAt": 1786296432368,
-    "usedAtIso": "2026-08-09T17:27:12.368Z"
-  },
-  "source:e9fdd76837da0138c41ea857fc3f47d689963c4f": {
-    "url": "https://agorars.com/agora-no-tempo/equipes-trabalham-para-reconstruir-torres-derrubadas-pelo-vento-no-extremo-sul",
-    "title": "Ciclone danifica torres de linha de",
-    "guid": "rs1multi:0eb70dbae1c485ef34ad03c1afac48e8e31901b1",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0eb70dbae1c485ef34ad03c1afac48e8e31901b1/",
-    "usedAt": 1786296432368,
-    "usedAtIso": "2026-08-09T17:27:12.368Z"
+  "source:2df10a2f4a39c2b6cd5bd5cad5efc0d6fc67ef4b": {
+    "url": "https://agorars.com/rs/porto-alegre/falta-de-agua-pode-atingir-seis-bairros-de-porto-alegre-entre-segunda-e-terca-feira",
+    "title": "Manutenção na rede de água pode causar falta de abastecimento em bairros de Porto Alegre na segunda e terça-feira",
+    "guid": "rs1multi:70b20b126da51ad1a536ec26cb9e0a28dc4a2444",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_70b20b126da51ad1a536ec26cb9e0a28dc4a2444/",
+    "usedAt": 1786303625506,
+    "usedAtIso": "2026-08-09T19:27:05.506Z"
   }
 }
