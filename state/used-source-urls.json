@@ -1,4 +1,20 @@
 {
+  "source:ba4d0b320df122b5e526fd682e2af3fc8d5724d3": {
+    "url": "https://agorars.com/rs/ceee-restabelece-energia-clientes-temporais-rs",
+    "title": "CEEE Equatorial normaliza energia para 349 mil clientes no Rio Grande do Sul após temporal, mas 26 mil ainda estão sem luz",
+    "guid": "rs1multi:190a5e2fa82d05ea478082447a722c19e4d0cbb0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_190a5e2fa82d05ea478082447a722c19e4d0cbb0/",
+    "usedAt": 1786375626194,
+    "usedAtIso": "2026-08-10T15:27:06.194Z"
+  },
+  "source:4971a6a1680a7d54f6906c29570aa5741b84b1d6": {
+    "url": "https://agorars.com/agora-no-tempo/rs-temperatura-negativa-retorno-chuva-temporais",
+    "title": "Rio Grande do Sul registra temperatura negativa e previsão indica instabilidade com temporais nos próximos dias",
+    "guid": "rs1multi:39e55afd1aeaf54799fd4139a36eff58ea680b66",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_39e55afd1aeaf54799fd4139a36eff58ea680b66/",
+    "usedAt": 1786375626194,
+    "usedAtIso": "2026-08-10T15:27:06.194Z"
+  },
   "source:a81144384ec30fb5f1a6ac1a008034bb12a7f707": {
     "url": "https://agorars.com/agora-no-transito/dois-homens-morrem-em-colisao-entre-dois-veiculos-na-br-116-em-sao-marcos",
     "title": "Colisão entre Volkswagen Golf e Fiat Strada na BR-116 em São Marcos deixa dois mortos",
@@ -2855,20 +2871,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:ba4d0b320df122b5e526fd682e2af3fc8d5724d3": {
-    "url": "https://agorars.com/rs/ceee-restabelece-energia-clientes-temporais-rs",
-    "title": "CEEE Equatorial normaliza energia para 349 mil clientes no Rio Grande do Sul após temporal, mas 26 mil ainda estão sem luz",
-    "guid": "rs1multi:190a5e2fa82d05ea478082447a722c19e4d0cbb0",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_190a5e2fa82d05ea478082447a722c19e4d0cbb0/",
-    "usedAt": 1786375626194,
-    "usedAtIso": "2026-08-10T15:27:06.194Z"
+  "source:6aa4047ea7a96ddc9c92ae2b4be386a1f3453784": {
+    "url": "https://agorars.com/agora-no-transito/ponte-santo-angelo-entre-ijuis-interditada-veiculos-pesados",
+    "title": "Ponte sobre o Rio Ijuí é interditada para veículos pesados devido a obras",
+    "guid": "rs1multi:19f6182bab0a870d1b9d63952950516340da9566",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_19f6182bab0a870d1b9d63952950516340da9566/",
+    "usedAt": 1786382825119,
+    "usedAtIso": "2026-08-10T17:27:05.119Z"
   },
-  "source:4971a6a1680a7d54f6906c29570aa5741b84b1d6": {
-    "url": "https://agorars.com/agora-no-tempo/rs-temperatura-negativa-retorno-chuva-temporais",
-    "title": "Rio Grande do Sul registra temperatura negativa e previsão indica instabilidade com temporais nos próximos dias",
-    "guid": "rs1multi:39e55afd1aeaf54799fd4139a36eff58ea680b66",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_39e55afd1aeaf54799fd4139a36eff58ea680b66/",
-    "usedAt": 1786375626194,
-    "usedAtIso": "2026-08-10T15:27:06.194Z"
+  "source:4bc44bb62ad287bf11bf2d4fbdd598d0f2b7d073": {
+    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-morcegos-raiva-2026-orientacoes",
+    "title": "Porto Alegre registra 11 morcegos com raiva em 2025, número semelhante ao ano anterior",
+    "guid": "rs1multi:3b12a1d1cfc91c7c091e2c7c8e04a7dd3847136d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3b12a1d1cfc91c7c091e2c7c8e04a7dd3847136d/",
+    "usedAt": 1786382825119,
+    "usedAtIso": "2026-08-10T17:27:05.119Z"
   }
 }
