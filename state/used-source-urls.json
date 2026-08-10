@@ -1,4 +1,20 @@
 {
+  "source:6aa4047ea7a96ddc9c92ae2b4be386a1f3453784": {
+    "url": "https://agorars.com/agora-no-transito/ponte-santo-angelo-entre-ijuis-interditada-veiculos-pesados",
+    "title": "Ponte sobre o Rio Ijuí é interditada para veículos pesados devido a obras",
+    "guid": "rs1multi:19f6182bab0a870d1b9d63952950516340da9566",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_19f6182bab0a870d1b9d63952950516340da9566/",
+    "usedAt": 1786382825119,
+    "usedAtIso": "2026-08-10T17:27:05.119Z"
+  },
+  "source:4bc44bb62ad287bf11bf2d4fbdd598d0f2b7d073": {
+    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-morcegos-raiva-2026-orientacoes",
+    "title": "Porto Alegre registra 11 morcegos com raiva em 2025, número semelhante ao ano anterior",
+    "guid": "rs1multi:3b12a1d1cfc91c7c091e2c7c8e04a7dd3847136d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3b12a1d1cfc91c7c091e2c7c8e04a7dd3847136d/",
+    "usedAt": 1786382825119,
+    "usedAtIso": "2026-08-10T17:27:05.119Z"
+  },
   "source:ba4d0b320df122b5e526fd682e2af3fc8d5724d3": {
     "url": "https://agorars.com/rs/ceee-restabelece-energia-clientes-temporais-rs",
     "title": "CEEE Equatorial normaliza energia para 349 mil clientes no Rio Grande do Sul após temporal, mas 26 mil ainda estão sem luz",
@@ -2871,20 +2887,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:6aa4047ea7a96ddc9c92ae2b4be386a1f3453784": {
-    "url": "https://agorars.com/agora-no-transito/ponte-santo-angelo-entre-ijuis-interditada-veiculos-pesados",
-    "title": "Ponte sobre o Rio Ijuí é interditada para veículos pesados devido a obras",
-    "guid": "rs1multi:19f6182bab0a870d1b9d63952950516340da9566",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_19f6182bab0a870d1b9d63952950516340da9566/",
-    "usedAt": 1786382825119,
-    "usedAtIso": "2026-08-10T17:27:05.119Z"
-  },
-  "source:4bc44bb62ad287bf11bf2d4fbdd598d0f2b7d073": {
-    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-morcegos-raiva-2026-orientacoes",
-    "title": "Porto Alegre registra 11 morcegos com raiva em 2025, número semelhante ao ano anterior",
-    "guid": "rs1multi:3b12a1d1cfc91c7c091e2c7c8e04a7dd3847136d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3b12a1d1cfc91c7c091e2c7c8e04a7dd3847136d/",
-    "usedAt": 1786382825119,
-    "usedAtIso": "2026-08-10T17:27:05.119Z"
+  "source:d6b6a15a4cac4fdc84fd47cb2ae78ceee2c3abe1": {
+    "url": "https://agorars.com/brasil-e-mundo/terremoto-colombia-magnitude-74-mais-70-mortos",
+    "title": "Terremoto de magnitude 7,4 na Colômbia deixa mais de 70 mortos e provoca desabamentos",
+    "guid": "rs1multi:abcdc5dab63c60110554ab85f783a019806e8fe5",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_abcdc5dab63c60110554ab85f783a019806e8fe5/",
+    "usedAt": 1786390025793,
+    "usedAtIso": "2026-08-10T19:27:05.793Z"
   }
 }
