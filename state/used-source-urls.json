@@ -1,4 +1,12 @@
 {
+  "source:d6b6a15a4cac4fdc84fd47cb2ae78ceee2c3abe1": {
+    "url": "https://agorars.com/brasil-e-mundo/terremoto-colombia-magnitude-74-mais-70-mortos",
+    "title": "Terremoto de magnitude 7,4 na Colômbia deixa mais de 70 mortos e provoca desabamentos",
+    "guid": "rs1multi:abcdc5dab63c60110554ab85f783a019806e8fe5",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_abcdc5dab63c60110554ab85f783a019806e8fe5/",
+    "usedAt": 1786390025793,
+    "usedAtIso": "2026-08-10T19:27:05.793Z"
+  },
   "source:6aa4047ea7a96ddc9c92ae2b4be386a1f3453784": {
     "url": "https://agorars.com/agora-no-transito/ponte-santo-angelo-entre-ijuis-interditada-veiculos-pesados",
     "title": "Ponte sobre o Rio Ijuí é interditada para veículos pesados devido a obras",
@@ -2887,12 +2895,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:d6b6a15a4cac4fdc84fd47cb2ae78ceee2c3abe1": {
-    "url": "https://agorars.com/brasil-e-mundo/terremoto-colombia-magnitude-74-mais-70-mortos",
-    "title": "Terremoto de magnitude 7,4 na Colômbia deixa mais de 70 mortos e provoca desabamentos",
-    "guid": "rs1multi:abcdc5dab63c60110554ab85f783a019806e8fe5",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_abcdc5dab63c60110554ab85f783a019806e8fe5/",
-    "usedAt": 1786390025793,
-    "usedAtIso": "2026-08-10T19:27:05.793Z"
+  "source:7bc3198c06325e87e2af836486d88708076acbed": {
+    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-tem-previsao-chuva-ate-sexta-feira",
+    "title": "Porto Alegre terá chuva e possibilidade de temporais entre terça e sexta-feira",
+    "guid": "rs1multi:d68de1930f0cf5cde748bfc65bdc7acef53f7465",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d68de1930f0cf5cde748bfc65bdc7acef53f7465/",
+    "usedAt": 1786397225875,
+    "usedAtIso": "2026-08-10T21:27:05.875Z"
   }
 }
