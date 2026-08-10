@@ -1,4 +1,12 @@
 {
+  "source:7cad654f85ee88d96fa0ea3d4a531044e3490f76": {
+    "url": "https://agorars.com/agora-no-tempo/rs-2686-desalojados-117-municipios-danos-defesa-civil",
+    "title": "Temporal no Rio Grande do Sul deixa mais de 2,6 mil desalojados e causa danos em 117 municípios",
+    "guid": "rs1multi:bc1a23c9fa46ffbdc019229f1e86a47ddcf7b97f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bc1a23c9fa46ffbdc019229f1e86a47ddcf7b97f/",
+    "usedAt": 1786318025133,
+    "usedAtIso": "2026-08-09T23:27:05.133Z"
+  },
   "source:910188dbad666429b9b79dbcec2de3e435b59d86": {
     "url": "https://agorars.com/agora-no-transito/acidente-br-386-seberi-morto-quatro-feridos",
     "title": "Motorista morre e quatro ficam feridos em colisão envolvendo três carros na BR-386 em Seberi",
@@ -2823,12 +2831,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7cad654f85ee88d96fa0ea3d4a531044e3490f76": {
-    "url": "https://agorars.com/agora-no-tempo/rs-2686-desalojados-117-municipios-danos-defesa-civil",
-    "title": "Temporal no Rio Grande do Sul deixa mais de 2,6 mil desalojados e causa danos em 117 municípios",
-    "guid": "rs1multi:bc1a23c9fa46ffbdc019229f1e86a47ddcf7b97f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_bc1a23c9fa46ffbdc019229f1e86a47ddcf7b97f/",
-    "usedAt": 1786318025133,
-    "usedAtIso": "2026-08-09T23:27:05.133Z"
+  "source:1b236b222bec4c91caf6a09710cc60e101fe870b": {
+    "url": "https://agorars.com/rs/falta-de-luz-rs-protestos-ceee-37466-consumidores",
+    "title": "Moradores de Viamão e Capão da Canoa protestam por falta de energia após temporal no Rio Grande do Sul",
+    "guid": "rs1multi:3798f4cd13e3890326ead4d29f499dcd1b1360d9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3798f4cd13e3890326ead4d29f499dcd1b1360d9/",
+    "usedAt": 1786325226487,
+    "usedAtIso": "2026-08-10T01:27:06.487Z"
+  },
+  "source:edcedab445586fbc915e66b640c8cbc4e7bac0c6": {
+    "url": "https://agorars.com/agora-no-tempo/energia-no-extremo-sul-deve-ser-restabelecida-ate-segunda-apos-danos-em-26-torres",
+    "title": "Fornecimento de energia em Santa Vitória do Palmar e Chuí deve ser restabelecido até o fim desta segunda-feira",
+    "guid": "rs1multi:f7c153491187802d5011f617a8ebd9362db8da88",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f7c153491187802d5011f617a8ebd9362db8da88/",
+    "usedAt": 1786325226487,
+    "usedAtIso": "2026-08-10T01:27:06.487Z"
   }
 }
