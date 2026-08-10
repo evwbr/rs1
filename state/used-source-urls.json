@@ -1,4 +1,12 @@
 {
+  "source:7bc3198c06325e87e2af836486d88708076acbed": {
+    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-tem-previsao-chuva-ate-sexta-feira",
+    "title": "Porto Alegre terá chuva e possibilidade de temporais entre terça e sexta-feira",
+    "guid": "rs1multi:d68de1930f0cf5cde748bfc65bdc7acef53f7465",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d68de1930f0cf5cde748bfc65bdc7acef53f7465/",
+    "usedAt": 1786397225875,
+    "usedAtIso": "2026-08-10T21:27:05.875Z"
+  },
   "source:d6b6a15a4cac4fdc84fd47cb2ae78ceee2c3abe1": {
     "url": "https://agorars.com/brasil-e-mundo/terremoto-colombia-magnitude-74-mais-70-mortos",
     "title": "Terremoto de magnitude 7,4 na Colômbia deixa mais de 70 mortos e provoca desabamentos",
@@ -2895,12 +2903,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7bc3198c06325e87e2af836486d88708076acbed": {
-    "url": "https://agorars.com/rs/porto-alegre/porto-alegre-tem-previsao-chuva-ate-sexta-feira",
-    "title": "Porto Alegre terá chuva e possibilidade de temporais entre terça e sexta-feira",
-    "guid": "rs1multi:d68de1930f0cf5cde748bfc65bdc7acef53f7465",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d68de1930f0cf5cde748bfc65bdc7acef53f7465/",
-    "usedAt": 1786397225875,
-    "usedAtIso": "2026-08-10T21:27:05.875Z"
+  "source:9accf80b08f51d4895e5a8c9cc8ab3730a7da4e6": {
+    "url": "https://agorars.com/rs/sul-do-rs/mulheres-denunciadas-roubos-associacao-criminosa-rio-grande",
+    "title": "Justiça recebe duas denúncias contra grupo acusado de crimes patrimoniais em cidade do Rio Grande do Sul",
+    "guid": "rs1multi:0be4eccb82ed7ddfe029921c229dd2a67770eebf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0be4eccb82ed7ddfe029921c229dd2a67770eebf/",
+    "usedAt": 1786404425221,
+    "usedAtIso": "2026-08-10T23:27:05.221Z"
+  },
+  "source:15b11af429ad20b0c908a26c4bb4a31fbcd4b219": {
+    "url": "https://agorars.com/agora-no-transito/mulher-morre-colisao-ers-415-bom-principio",
+    "title": "Colisão frontal entre carro e micro-ônibus na ERS-415 em Bom Princípio deixa uma mulher morta",
+    "guid": "rs1multi:905b1dfb77b8c5a6cb0c389d9f2f2efa3de8831a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_905b1dfb77b8c5a6cb0c389d9f2f2efa3de8831a/",
+    "usedAt": 1786404425221,
+    "usedAtIso": "2026-08-10T23:27:05.221Z"
   }
 }
