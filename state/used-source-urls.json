@@ -1,4 +1,20 @@
 {
+  "source:1b236b222bec4c91caf6a09710cc60e101fe870b": {
+    "url": "https://agorars.com/rs/falta-de-luz-rs-protestos-ceee-37466-consumidores",
+    "title": "Moradores de Viamão e Capão da Canoa protestam por falta de energia após temporal no Rio Grande do Sul",
+    "guid": "rs1multi:3798f4cd13e3890326ead4d29f499dcd1b1360d9",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3798f4cd13e3890326ead4d29f499dcd1b1360d9/",
+    "usedAt": 1786325226487,
+    "usedAtIso": "2026-08-10T01:27:06.487Z"
+  },
+  "source:edcedab445586fbc915e66b640c8cbc4e7bac0c6": {
+    "url": "https://agorars.com/agora-no-tempo/energia-no-extremo-sul-deve-ser-restabelecida-ate-segunda-apos-danos-em-26-torres",
+    "title": "Fornecimento de energia em Santa Vitória do Palmar e Chuí deve ser restabelecido até o fim desta segunda-feira",
+    "guid": "rs1multi:f7c153491187802d5011f617a8ebd9362db8da88",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f7c153491187802d5011f617a8ebd9362db8da88/",
+    "usedAt": 1786325226487,
+    "usedAtIso": "2026-08-10T01:27:06.487Z"
+  },
   "source:7cad654f85ee88d96fa0ea3d4a531044e3490f76": {
     "url": "https://agorars.com/agora-no-tempo/rs-2686-desalojados-117-municipios-danos-defesa-civil",
     "title": "Temporal no Rio Grande do Sul deixa mais de 2,6 mil desalojados e causa danos em 117 municípios",
@@ -2831,20 +2847,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:1b236b222bec4c91caf6a09710cc60e101fe870b": {
-    "url": "https://agorars.com/rs/falta-de-luz-rs-protestos-ceee-37466-consumidores",
-    "title": "Moradores de Viamão e Capão da Canoa protestam por falta de energia após temporal no Rio Grande do Sul",
-    "guid": "rs1multi:3798f4cd13e3890326ead4d29f499dcd1b1360d9",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3798f4cd13e3890326ead4d29f499dcd1b1360d9/",
-    "usedAt": 1786325226487,
-    "usedAtIso": "2026-08-10T01:27:06.487Z"
-  },
-  "source:edcedab445586fbc915e66b640c8cbc4e7bac0c6": {
-    "url": "https://agorars.com/agora-no-tempo/energia-no-extremo-sul-deve-ser-restabelecida-ate-segunda-apos-danos-em-26-torres",
-    "title": "Fornecimento de energia em Santa Vitória do Palmar e Chuí deve ser restabelecido até o fim desta segunda-feira",
-    "guid": "rs1multi:f7c153491187802d5011f617a8ebd9362db8da88",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f7c153491187802d5011f617a8ebd9362db8da88/",
-    "usedAt": 1786325226487,
-    "usedAtIso": "2026-08-10T01:27:06.487Z"
+  "source:a81144384ec30fb5f1a6ac1a008034bb12a7f707": {
+    "url": "https://agorars.com/agora-no-transito/dois-homens-morrem-em-colisao-entre-dois-veiculos-na-br-116-em-sao-marcos",
+    "title": "Colisão entre Volkswagen Golf e Fiat Strada na BR-116 em São Marcos deixa dois mortos",
+    "guid": "rs1multi:13c87494a9a0e1cea17691e933a81e5cd3921ac2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_13c87494a9a0e1cea17691e933a81e5cd3921ac2/",
+    "usedAt": 1786332427133,
+    "usedAtIso": "2026-08-10T03:27:07.133Z"
   }
 }
