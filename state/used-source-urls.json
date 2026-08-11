@@ -1,4 +1,28 @@
 {
+  "source:4b706834ee6b04d08dd1654465393981d816cf7c": {
+    "url": "https://agorars.com/cultura/daya-moraes-revela-capa-e-faixas-do-album-dama-do-jogo",
+    "title": "Daya Moraes anuncia novo álbum autoral \"Dama do Jogo\" com dez faixas",
+    "guid": "rs1multi:04b74ed94ac019f5383d95ed59e7743c0431adb3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_04b74ed94ac019f5383d95ed59e7743c0431adb3/",
+    "usedAt": 1786411625099,
+    "usedAtIso": "2026-08-11T01:27:05.099Z"
+  },
+  "source:ebfaed7ac785347b88ba9ba9908a44a965f8a271": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-tempo-rs-chuva-geada-terca-feira-11-agosto",
+    "title": "Rio Grande do Sul terá chuva e temperaturas baixas com risco de geada nesta terça-feira",
+    "guid": "rs1multi:886bd6eaa768290de8a57b66f9952a0ab3b1328f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_886bd6eaa768290de8a57b66f9952a0ab3b1328f/",
+    "usedAt": 1786411625099,
+    "usedAtIso": "2026-08-11T01:27:05.099Z"
+  },
+  "source:2583645957538d356ebcc06584c284cf7204728a": {
+    "url": "https://agorars.com/agora-no-transito/pedestre-morre-atropelado-onibus-ers-040-viamao",
+    "title": "Homem é atropelado por ônibus urbano na ERS-040 em Viamão",
+    "guid": "rs1multi:1e41dcc3832ae1741f55b57f81e9f1a28dd3cdbb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1e41dcc3832ae1741f55b57f81e9f1a28dd3cdbb/",
+    "usedAt": 1786411625099,
+    "usedAtIso": "2026-08-11T01:27:05.099Z"
+  },
   "source:9accf80b08f51d4895e5a8c9cc8ab3730a7da4e6": {
     "url": "https://agorars.com/rs/sul-do-rs/mulheres-denunciadas-roubos-associacao-criminosa-rio-grande",
     "title": "Justiça recebe duas denúncias contra grupo acusado de crimes patrimoniais em cidade do Rio Grande do Sul",
@@ -2919,28 +2943,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:4b706834ee6b04d08dd1654465393981d816cf7c": {
-    "url": "https://agorars.com/cultura/daya-moraes-revela-capa-e-faixas-do-album-dama-do-jogo",
-    "title": "Daya Moraes anuncia novo álbum autoral \"Dama do Jogo\" com dez faixas",
-    "guid": "rs1multi:04b74ed94ac019f5383d95ed59e7743c0431adb3",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_04b74ed94ac019f5383d95ed59e7743c0431adb3/",
-    "usedAt": 1786411625099,
-    "usedAtIso": "2026-08-11T01:27:05.099Z"
+  "source:c282b8176cdc021275452c369fe02af36698e6dd": {
+    "url": "https://agorars.com/agora-no-transito/prf-apreende-maconha-caminhao-br-386-lajeado",
+    "title": "Polícia Rodoviária Federal apreende 2,57 toneladas de maconha em caminhão carregado com melancias no Rio Grande do Sul",
+    "guid": "rs1multi:88395f36e5f6bdc0fbce05290e4e64413623b1b3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_88395f36e5f6bdc0fbce05290e4e64413623b1b3/",
+    "usedAt": 1786454827293,
+    "usedAtIso": "2026-08-11T13:27:07.293Z"
   },
-  "source:ebfaed7ac785347b88ba9ba9908a44a965f8a271": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-tempo-rs-chuva-geada-terca-feira-11-agosto",
-    "title": "Rio Grande do Sul terá chuva e temperaturas baixas com risco de geada nesta terça-feira",
-    "guid": "rs1multi:886bd6eaa768290de8a57b66f9952a0ab3b1328f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_886bd6eaa768290de8a57b66f9952a0ab3b1328f/",
-    "usedAt": 1786411625099,
-    "usedAtIso": "2026-08-11T01:27:05.099Z"
-  },
-  "source:2583645957538d356ebcc06584c284cf7204728a": {
-    "url": "https://agorars.com/agora-no-transito/pedestre-morre-atropelado-onibus-ers-040-viamao",
-    "title": "Homem é atropelado por ônibus urbano na ERS-040 em Viamão",
-    "guid": "rs1multi:1e41dcc3832ae1741f55b57f81e9f1a28dd3cdbb",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1e41dcc3832ae1741f55b57f81e9f1a28dd3cdbb/",
-    "usedAt": 1786411625099,
-    "usedAtIso": "2026-08-11T01:27:05.099Z"
+  "source:dee104cdeec85073354d386cc423c248da662001": {
+    "url": "https://agorars.com/agora-no-tempo/rs-frio-negativo-chuva-temporais-granizo",
+    "title": "Rio Grande do Sul registra temperaturas baixas e previsão de chuvas intensas até quinta-feira",
+    "guid": "rs1multi:8e70b71849dd9a67b0e66553d7d8ed2e8d9a0fed",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8e70b71849dd9a67b0e66553d7d8ed2e8d9a0fed/",
+    "usedAt": 1786454827293,
+    "usedAtIso": "2026-08-11T13:27:07.293Z"
   }
 }
