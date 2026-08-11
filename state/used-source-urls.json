@@ -1,4 +1,28 @@
 {
+  "source:7e46cdb3aa39e25f42836c686686715c10752db4": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-amarelo-tempestade-rs-terca-feira",
+    "title": "Instituto Nacional de Meteorologia emite alerta amarelo de tempestade para 12 regiões do Rio Grande do Sul",
+    "guid": "rs1multi:b3c3e493cde04883c509370d6014f5ec52aa234f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b3c3e493cde04883c509370d6014f5ec52aa234f/",
+    "usedAt": 1786469225948,
+    "usedAtIso": "2026-08-11T17:27:05.948Z"
+  },
+  "source:4371eabc40b5a68eda42c94411f9c17d48668b1a": {
+    "url": "https://agorars.com/rs/porto-alegre/prefeitura-remove-pichacoes-viaduto-otavio-rocha",
+    "title": "Pichação no Viaduto Otávio Rocha é removida pela prefeitura em Porto Alegre",
+    "guid": "rs1multi:061abf9b7d62d7363bd8af4d7c8c25910d09e623",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_061abf9b7d62d7363bd8af4d7c8c25910d09e623/",
+    "usedAt": 1786469225948,
+    "usedAtIso": "2026-08-11T17:27:05.948Z"
+  },
+  "source:5b270025e4430576d7c18568ab5f0e5754f89234": {
+    "url": "https://agorars.com/rs/metropolitana/homem-corpo-incendiado-dormia-alvorada",
+    "title": "Homem em situação de rua é incendiado enquanto dormia em Alvorada",
+    "guid": "rs1multi:683909416ee01b801d6beadee37db5ea15b373b4",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_683909416ee01b801d6beadee37db5ea15b373b4/",
+    "usedAt": 1786469225948,
+    "usedAtIso": "2026-08-11T17:27:05.948Z"
+  },
   "source:c282b8176cdc021275452c369fe02af36698e6dd": {
     "url": "https://agorars.com/agora-no-transito/prf-apreende-maconha-caminhao-br-386-lajeado",
     "title": "Polícia Rodoviária Federal apreende 2,57 toneladas de maconha em caminhão carregado com melancias no Rio Grande do Sul",
@@ -2959,28 +2983,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7e46cdb3aa39e25f42836c686686715c10752db4": {
-    "url": "https://agorars.com/agora-no-tempo/alerta-amarelo-tempestade-rs-terca-feira",
-    "title": "Instituto Nacional de Meteorologia emite alerta amarelo de tempestade para 12 regiões do Rio Grande do Sul",
-    "guid": "rs1multi:b3c3e493cde04883c509370d6014f5ec52aa234f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b3c3e493cde04883c509370d6014f5ec52aa234f/",
-    "usedAt": 1786469225948,
-    "usedAtIso": "2026-08-11T17:27:05.948Z"
-  },
-  "source:4371eabc40b5a68eda42c94411f9c17d48668b1a": {
-    "url": "https://agorars.com/rs/porto-alegre/prefeitura-remove-pichacoes-viaduto-otavio-rocha",
-    "title": "Pichação no Viaduto Otávio Rocha é removida pela prefeitura em Porto Alegre",
-    "guid": "rs1multi:061abf9b7d62d7363bd8af4d7c8c25910d09e623",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_061abf9b7d62d7363bd8af4d7c8c25910d09e623/",
-    "usedAt": 1786469225948,
-    "usedAtIso": "2026-08-11T17:27:05.948Z"
-  },
-  "source:5b270025e4430576d7c18568ab5f0e5754f89234": {
-    "url": "https://agorars.com/rs/metropolitana/homem-corpo-incendiado-dormia-alvorada",
-    "title": "Homem em situação de rua é incendiado enquanto dormia em Alvorada",
-    "guid": "rs1multi:683909416ee01b801d6beadee37db5ea15b373b4",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_683909416ee01b801d6beadee37db5ea15b373b4/",
-    "usedAt": 1786469225948,
-    "usedAtIso": "2026-08-11T17:27:05.948Z"
+  "source:bfc5d4f0875976a7677204726f5ce650a322ddcb": {
+    "url": "https://agorars.com/agora-no-tempo/rs-pode-ter-chuva-intensa-temporais-e-granizo-nesta-quarta-e-quinta",
+    "title": "Rio Grande do Sul enfrenta alerta de temporais com chuva intensa e risco de granizo entre quarta e quinta-feira",
+    "guid": "rs1multi:42a6be06bfe98803caeed097075167b898bb1fa0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_42a6be06bfe98803caeed097075167b898bb1fa0/",
+    "usedAt": 1786483625398,
+    "usedAtIso": "2026-08-11T21:27:05.398Z"
   }
 }
