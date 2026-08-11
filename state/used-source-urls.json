@@ -1,4 +1,20 @@
 {
+  "source:9accf80b08f51d4895e5a8c9cc8ab3730a7da4e6": {
+    "url": "https://agorars.com/rs/sul-do-rs/mulheres-denunciadas-roubos-associacao-criminosa-rio-grande",
+    "title": "Justiça recebe duas denúncias contra grupo acusado de crimes patrimoniais em cidade do Rio Grande do Sul",
+    "guid": "rs1multi:0be4eccb82ed7ddfe029921c229dd2a67770eebf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0be4eccb82ed7ddfe029921c229dd2a67770eebf/",
+    "usedAt": 1786404425221,
+    "usedAtIso": "2026-08-10T23:27:05.221Z"
+  },
+  "source:15b11af429ad20b0c908a26c4bb4a31fbcd4b219": {
+    "url": "https://agorars.com/agora-no-transito/mulher-morre-colisao-ers-415-bom-principio",
+    "title": "Colisão frontal entre carro e micro-ônibus na ERS-415 em Bom Princípio deixa uma mulher morta",
+    "guid": "rs1multi:905b1dfb77b8c5a6cb0c389d9f2f2efa3de8831a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_905b1dfb77b8c5a6cb0c389d9f2f2efa3de8831a/",
+    "usedAt": 1786404425221,
+    "usedAtIso": "2026-08-10T23:27:05.221Z"
+  },
   "source:7bc3198c06325e87e2af836486d88708076acbed": {
     "url": "https://agorars.com/rs/porto-alegre/porto-alegre-tem-previsao-chuva-ate-sexta-feira",
     "title": "Porto Alegre terá chuva e possibilidade de temporais entre terça e sexta-feira",
@@ -2903,20 +2919,28 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:9accf80b08f51d4895e5a8c9cc8ab3730a7da4e6": {
-    "url": "https://agorars.com/rs/sul-do-rs/mulheres-denunciadas-roubos-associacao-criminosa-rio-grande",
-    "title": "Justiça recebe duas denúncias contra grupo acusado de crimes patrimoniais em cidade do Rio Grande do Sul",
-    "guid": "rs1multi:0be4eccb82ed7ddfe029921c229dd2a67770eebf",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0be4eccb82ed7ddfe029921c229dd2a67770eebf/",
-    "usedAt": 1786404425221,
-    "usedAtIso": "2026-08-10T23:27:05.221Z"
+  "source:4b706834ee6b04d08dd1654465393981d816cf7c": {
+    "url": "https://agorars.com/cultura/daya-moraes-revela-capa-e-faixas-do-album-dama-do-jogo",
+    "title": "Daya Moraes anuncia novo álbum autoral \"Dama do Jogo\" com dez faixas",
+    "guid": "rs1multi:04b74ed94ac019f5383d95ed59e7743c0431adb3",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_04b74ed94ac019f5383d95ed59e7743c0431adb3/",
+    "usedAt": 1786411625099,
+    "usedAtIso": "2026-08-11T01:27:05.099Z"
   },
-  "source:15b11af429ad20b0c908a26c4bb4a31fbcd4b219": {
-    "url": "https://agorars.com/agora-no-transito/mulher-morre-colisao-ers-415-bom-principio",
-    "title": "Colisão frontal entre carro e micro-ônibus na ERS-415 em Bom Princípio deixa uma mulher morta",
-    "guid": "rs1multi:905b1dfb77b8c5a6cb0c389d9f2f2efa3de8831a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_905b1dfb77b8c5a6cb0c389d9f2f2efa3de8831a/",
-    "usedAt": 1786404425221,
-    "usedAtIso": "2026-08-10T23:27:05.221Z"
+  "source:ebfaed7ac785347b88ba9ba9908a44a965f8a271": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-tempo-rs-chuva-geada-terca-feira-11-agosto",
+    "title": "Rio Grande do Sul terá chuva e temperaturas baixas com risco de geada nesta terça-feira",
+    "guid": "rs1multi:886bd6eaa768290de8a57b66f9952a0ab3b1328f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_886bd6eaa768290de8a57b66f9952a0ab3b1328f/",
+    "usedAt": 1786411625099,
+    "usedAtIso": "2026-08-11T01:27:05.099Z"
+  },
+  "source:2583645957538d356ebcc06584c284cf7204728a": {
+    "url": "https://agorars.com/agora-no-transito/pedestre-morre-atropelado-onibus-ers-040-viamao",
+    "title": "Homem é atropelado por ônibus urbano na ERS-040 em Viamão",
+    "guid": "rs1multi:1e41dcc3832ae1741f55b57f81e9f1a28dd3cdbb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1e41dcc3832ae1741f55b57f81e9f1a28dd3cdbb/",
+    "usedAt": 1786411625099,
+    "usedAtIso": "2026-08-11T01:27:05.099Z"
   }
 }
