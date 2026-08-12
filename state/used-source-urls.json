@@ -1,4 +1,12 @@
 {
+  "source:7f68e25397c47cb702a94f985b8d47c1c3bbcb59": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-quarta-chuva-forte-temporais-granizo",
+    "title": "Rio Grande do Sul enfrenta chuva forte com temporais isolados e risco de granizo nesta quarta-feira",
+    "guid": "rs1multi:e03655af9e3c366c125ef755e8330c372202521f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e03655af9e3c366c125ef755e8330c372202521f/",
+    "usedAt": 1786505225572,
+    "usedAtIso": "2026-08-12T03:27:05.572Z"
+  },
   "source:11d4939c985105da6d678d0a78746bb6000cee09": {
     "url": "https://agorars.com/rs/agergs-mantem-multa-rge-falhas-temporal-2024",
     "title": "Conselho da AGERGS aponta falhas da RGE em plano de contingência após temporal",
@@ -3015,12 +3023,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7f68e25397c47cb702a94f985b8d47c1c3bbcb59": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-quarta-chuva-forte-temporais-granizo",
-    "title": "Rio Grande do Sul enfrenta chuva forte com temporais isolados e risco de granizo nesta quarta-feira",
-    "guid": "rs1multi:e03655af9e3c366c125ef755e8330c372202521f",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e03655af9e3c366c125ef755e8330c372202521f/",
-    "usedAt": 1786505225572,
-    "usedAtIso": "2026-08-12T03:27:05.572Z"
+  "source:08f815b97dd7b66db89d882f45c3f7fd2b03102f": {
+    "url": "https://agorars.com/brasil-e-mundo/pf-faz-operacao-contra-venda-de-diplomas-falsos-para-medicina",
+    "title": "Polícia Federal deflagra operação contra esquema de falsificação de diplomas médicos no Rio Grande do Sul",
+    "guid": "rs1multi:013783b4783b1c3fe5203e70e6c1f31d7f318535",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_013783b4783b1c3fe5203e70e6c1f31d7f318535/",
+    "usedAt": 1786541226377,
+    "usedAtIso": "2026-08-12T13:27:06.377Z"
   }
 }
