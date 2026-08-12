@@ -1,4 +1,20 @@
 {
+  "source:11d4939c985105da6d678d0a78746bb6000cee09": {
+    "url": "https://agorars.com/rs/agergs-mantem-multa-rge-falhas-temporal-2024",
+    "title": "Conselho da AGERGS aponta falhas da RGE em plano de contingência após temporal",
+    "guid": "rs1multi:a6f459853b6e2332d509044897c1b5cc18978f7a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a6f459853b6e2332d509044897c1b5cc18978f7a/",
+    "usedAt": 1786498027105,
+    "usedAtIso": "2026-08-12T01:27:07.105Z"
+  },
+  "source:781493592dff38a5e8849db41489e32c97c60256": {
+    "url": "https://agorars.com/agora-no-tempo/energia-e-restabelecida-em-santa-vitoria-do-palmar-e-chui",
+    "title": "Fornecimento de energia é restabelecido em Santa Vitória do Palmar e Chuí após danos causados por ciclone",
+    "guid": "rs1multi:a78c211a3ad65804c86856b0a4de7814c3ecd2eb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a78c211a3ad65804c86856b0a4de7814c3ecd2eb/",
+    "usedAt": 1786498027105,
+    "usedAtIso": "2026-08-12T01:27:07.105Z"
+  },
   "source:d55e782bf1bb9d0c3e34c1310efe21ad2b009b33": {
     "url": "https://agorars.com/agora-no-transito/moto-242-multas-debitos-porto-alegre",
     "title": "Motocicleta com 242 multas e mais de R$ 134 mil em débitos é apreendida em Porto Alegre",
@@ -2999,20 +3015,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:11d4939c985105da6d678d0a78746bb6000cee09": {
-    "url": "https://agorars.com/rs/agergs-mantem-multa-rge-falhas-temporal-2024",
-    "title": "Conselho da AGERGS aponta falhas da RGE em plano de contingência após temporal",
-    "guid": "rs1multi:a6f459853b6e2332d509044897c1b5cc18978f7a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a6f459853b6e2332d509044897c1b5cc18978f7a/",
-    "usedAt": 1786498027105,
-    "usedAtIso": "2026-08-12T01:27:07.105Z"
-  },
-  "source:781493592dff38a5e8849db41489e32c97c60256": {
-    "url": "https://agorars.com/agora-no-tempo/energia-e-restabelecida-em-santa-vitoria-do-palmar-e-chui",
-    "title": "Fornecimento de energia é restabelecido em Santa Vitória do Palmar e Chuí após danos causados por ciclone",
-    "guid": "rs1multi:a78c211a3ad65804c86856b0a4de7814c3ecd2eb",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a78c211a3ad65804c86856b0a4de7814c3ecd2eb/",
-    "usedAt": 1786498027105,
-    "usedAtIso": "2026-08-12T01:27:07.105Z"
+  "source:7f68e25397c47cb702a94f985b8d47c1c3bbcb59": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-quarta-chuva-forte-temporais-granizo",
+    "title": "Rio Grande do Sul enfrenta chuva forte com temporais isolados e risco de granizo nesta quarta-feira",
+    "guid": "rs1multi:e03655af9e3c366c125ef755e8330c372202521f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e03655af9e3c366c125ef755e8330c372202521f/",
+    "usedAt": 1786505225572,
+    "usedAtIso": "2026-08-12T03:27:05.572Z"
   }
 }
