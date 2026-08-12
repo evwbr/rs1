@@ -1,4 +1,20 @@
 {
+  "source:2a7f51c0cc1649c0a8659546f674d7efbd6c329f": {
+    "url": "https://agorars.com/agora-no-transito/sargento-morre-colisao-br-285-vitoria-das-missoes",
+    "title": "Sargento do Colégio Militar de Santo Ângelo morre em colisão frontal na BR-285 em Vitória das Missões",
+    "guid": "rs1multi:9a9b18a994f683f477323700732158a0f26494be",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9a9b18a994f683f477323700732158a0f26494be/",
+    "usedAt": 1786555625234,
+    "usedAtIso": "2026-08-12T17:27:05.234Z"
+  },
+  "source:824e1ec213e3ce3cc5698eb1991993a0cb88aaac": {
+    "url": "https://agorars.com/sua-saude/ipe-saude-reajuste-honorarios-medicos-setembro",
+    "title": "Revisão de honorários médicos no Rio Grande do Sul avança com reajustes e novas discussões",
+    "guid": "rs1multi:7a0a221aa2c1d8e8633f35c3b77d8f89f9d2ed9b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7a0a221aa2c1d8e8633f35c3b77d8f89f9d2ed9b/",
+    "usedAt": 1786555625234,
+    "usedAtIso": "2026-08-12T17:27:05.234Z"
+  },
   "source:08f815b97dd7b66db89d882f45c3f7fd2b03102f": {
     "url": "https://agorars.com/brasil-e-mundo/pf-faz-operacao-contra-venda-de-diplomas-falsos-para-medicina",
     "title": "Polícia Federal deflagra operação contra esquema de falsificação de diplomas médicos no Rio Grande do Sul",
@@ -3031,20 +3047,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:2a7f51c0cc1649c0a8659546f674d7efbd6c329f": {
-    "url": "https://agorars.com/agora-no-transito/sargento-morre-colisao-br-285-vitoria-das-missoes",
-    "title": "Sargento do Colégio Militar de Santo Ângelo morre em colisão frontal na BR-285 em Vitória das Missões",
-    "guid": "rs1multi:9a9b18a994f683f477323700732158a0f26494be",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9a9b18a994f683f477323700732158a0f26494be/",
-    "usedAt": 1786555625234,
-    "usedAtIso": "2026-08-12T17:27:05.234Z"
+  "source:563e6acdac7f07051462b9612daa8b8e97b9c7a6": {
+    "url": "https://agorars.com/rs/porto-alegre/agua-alteracao-cor-bairros-porto-alegre-dmae",
+    "title": "Alteração na cor da água afeta moradores da Zona Sul e área central de Porto Alegre após conserto de adutora",
+    "guid": "rs1multi:f6676037064c9f0df05bdaab3e3491d7bc81c669",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f6676037064c9f0df05bdaab3e3491d7bc81c669/",
+    "usedAt": 1786562827343,
+    "usedAtIso": "2026-08-12T19:27:07.343Z"
   },
-  "source:824e1ec213e3ce3cc5698eb1991993a0cb88aaac": {
-    "url": "https://agorars.com/sua-saude/ipe-saude-reajuste-honorarios-medicos-setembro",
-    "title": "Revisão de honorários médicos no Rio Grande do Sul avança com reajustes e novas discussões",
-    "guid": "rs1multi:7a0a221aa2c1d8e8633f35c3b77d8f89f9d2ed9b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7a0a221aa2c1d8e8633f35c3b77d8f89f9d2ed9b/",
-    "usedAt": 1786555625234,
-    "usedAtIso": "2026-08-12T17:27:05.234Z"
+  "source:e8dfcf51766a743fc48c8ceade1702074b7332d4": {
+    "url": "https://agorars.com/empregos/concurso-transpetro-vagas-salarios-inscricoes",
+    "title": "Transpetro abre concurso com 281 vagas imediatas e 3.890 para cadastro de reserva",
+    "guid": "rs1multi:75b337ed9567001cc3fa9b2de43467abf54961db",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_75b337ed9567001cc3fa9b2de43467abf54961db/",
+    "usedAt": 1786562827343,
+    "usedAtIso": "2026-08-12T19:27:07.343Z"
   }
 }
