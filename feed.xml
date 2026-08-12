@@ -9,25 +9,23 @@
 <atom:link href="https://evwbr.github.io/rs1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs1/</link>
 <description>Notícias do Rio Grande do Sul (últimas 72h) - Evo Web News</description>
-<lastBuildDate>Wed, 12 Aug 2026 03:28:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 13:27:59 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Rio Grande do Sul enfrenta chuva forte com temporais isolados e risco de granizo nesta quarta-feira]]></title>
-<link>https://evwbr.github.io/rs1/p/rs1multi_e03655af9e3c366c125ef755e8330c372202521f/</link>
+<title><![CDATA[Polícia Federal deflagra operação contra esquema de falsificação de diplomas médicos no Rio Grande do Sul]]></title>
+<link>https://evwbr.github.io/rs1/p/rs1multi_013783b4783b1c3fe5203e70e6c1f31d7f318535/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 12 Aug 2026 02:47:47 GMT</pubDate>
+<pubDate>Wed, 12 Aug 2026 13:08:14 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rs1multi:e03655af9e3c366c125ef755e8330c372202521f]]></guid>
-<description><![CDATA[O Rio Grande do Sul terá chuva moderada a forte nesta quarta-feira, com temporais isolados e possibilidade de granizo em várias regiões do Estado.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F438988%2F97553ce0b20fbed3" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F438988%2F97553ce0b20fbed3" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F438988%2F97553ce0b20fbed3"/>
+<guid isPermaLink="false"><![CDATA[rs1multi:013783b4783b1c3fe5203e70e6c1f31d7f318535]]></guid>
+<description><![CDATA[Atualização do Rio Grande do Sul.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F373076%2Ff8f2001c1a927637" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F373076%2Ff8f2001c1a927637" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fagorars.com%2Fagrs-publisher-media%2F373076%2Ff8f2001c1a927637"/>
 <content:encoded><![CDATA[
-<p>O Rio Grande do Sul terá chuva moderada a forte nesta quarta-feira, com temporais isolados e possibilidade de granizo em várias regiões do Estado.</p>
-<p>A previsão indica acumulados de chuva entre 10 e 60 mm ao longo do dia, com volumes pontuais que podem chegar a 100 mm. As áreas mais afetadas pelos temporais isolados e granizo incluem as Missões, Noroeste, Norte, Centro e Vales.</p>
-<p>Chuva moderada a forte deve ocorrer também no Oeste, Campanha, Centro, Vales, Costa Doce, Região Metropolitana de Porto Alegre, Serra, Nordeste e Litoral Norte. As temperaturas mínimas variam entre 7°C e 15°C, enquanto as máximas ficam entre 10°C e 27°C.</p>
-<p>Com a previsão de chuva, os rios do Estado apresentam tendência de elevação dos níveis, podendo variar entre normalidade e atenção para inundações. Na metade norte do Rio Grande do Sul, há possibilidade de pontos atingirem o limiar de alerta para inundações a partir de quinta-feira.</p>
-<p>A Defesa Civil orienta a população a acompanhar as atualizações meteorológicas e a adotar medidas de precaução diante do risco de temporais e granizo, especialmente nas regiões mais vulneráveis.</p>
+<p>A investigação começou em 2023, quando um diploma falso foi apresentado ao Conselho Regional de Medicina do Rio Grande do Sul (CREMERS). A partir desse fato, a Polícia Federal identificou um esquema que envolvia a falsificação e venda de diplomas, históricos escolares e outros documentos acadêmicos.</p>
+<p>Foram deferidos judicialmente dois mandados de prisão preventiva e um de prisão temporária contra os suspeitos. A apuração revelou ainda a circulação de valores entre os investigados e pessoas relacionadas, além da aquisição de documentos falsos para viabilizar registros profissionais fraudulentos.</p>
+<p>O esquema possuía ramificações em outros estados, e pelo menos 45 pessoas já inscritas como médicos teriam pago ao grupo para obter documentos falsificados que facilitassem o registro profissional. O principal investigado já havia sido alvo de uma investigação em 2016, quando foi identificada uma organização criminosa envolvida em fraudes.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
