@@ -1,4 +1,12 @@
 {
+  "source:1bfc8ebebea8c8c7650349f260a421947d6f77c2": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-rs-quinta-feira-temporais-alerta-inmet",
+    "title": "Rio Grande do Sul terá temporais com granizo e ventos fortes nesta quinta-feira",
+    "guid": "rs1multi:0cc11541d4d0428f704e0f4d4468a7d05618591a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0cc11541d4d0428f704e0f4d4468a7d05618591a/",
+    "usedAt": 1786570028983,
+    "usedAtIso": "2026-08-12T21:27:08.983Z"
+  },
   "source:563e6acdac7f07051462b9612daa8b8e97b9c7a6": {
     "url": "https://agorars.com/rs/porto-alegre/agua-alteracao-cor-bairros-porto-alegre-dmae",
     "title": "Alteração na cor da água afeta moradores da Zona Sul e área central de Porto Alegre após conserto de adutora",
@@ -3063,12 +3071,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:1bfc8ebebea8c8c7650349f260a421947d6f77c2": {
-    "url": "https://agorars.com/agora-no-tempo/chuva-rs-quinta-feira-temporais-alerta-inmet",
-    "title": "Rio Grande do Sul terá temporais com granizo e ventos fortes nesta quinta-feira",
-    "guid": "rs1multi:0cc11541d4d0428f704e0f4d4468a7d05618591a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0cc11541d4d0428f704e0f4d4468a7d05618591a/",
-    "usedAt": 1786570028983,
-    "usedAtIso": "2026-08-12T21:27:08.983Z"
+  "source:c56a47b60246afc416540fede3fa2a97910624fa": {
+    "url": "https://agorars.com/agricultura/stf-valida-moratoria-soja-processos-cade",
+    "title": "STF valida moratória da soja e determina arquivamento de processos no Cade",
+    "guid": "rs1multi:76895243e82181ece00a409b6f8bdb3eec9c591c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_76895243e82181ece00a409b6f8bdb3eec9c591c/",
+    "usedAt": 1786577225743,
+    "usedAtIso": "2026-08-12T23:27:05.743Z"
   }
 }
