@@ -1,4 +1,20 @@
 {
+  "source:2c5c3bc6f588936466beb717b8e439edb325df0c": {
+    "url": "https://agorars.com/agora-no-transito/travessias-nas-barragens-do-salto-e-blang-sao-bloqueadas-na-serra",
+    "title": "Travessias nas barragens do Salto e Blang são bloqueadas em São Francisco de Paula por risco de alagamentos",
+    "guid": "rs1multi:2bfe720a0b8652355cf3570811d6782f354b5571",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2bfe720a0b8652355cf3570811d6782f354b5571/",
+    "usedAt": 1786649225459,
+    "usedAtIso": "2026-08-13T19:27:05.459Z"
+  },
+  "source:39cd0b0a2983396e9c1c70052e137102cca534f5": {
+    "url": "https://agorars.com/plantao-rs/justica-revoga-prisao-paula-lopes-canoas",
+    "title": "Justiça proíbe ex-secretária Paula Lopes de manter animais e exercer atividades relacionadas após revogação da prisão",
+    "guid": "rs1multi:2c82f34efc9ae56fb3cff23f17874447aac709b4",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2c82f34efc9ae56fb3cff23f17874447aac709b4/",
+    "usedAt": 1786649225459,
+    "usedAtIso": "2026-08-13T19:27:05.459Z"
+  },
   "source:b8e7edeb9a7bc1549fc6013e3529b8b35f82d358": {
     "url": "https://agorars.com/agora-no-transito/jovem-desaparecido-morre-acidente-ers-223-victor-graeff",
     "title": "Motorista é encontrado morto após desaparecimento na ERS-223, no Norte do Rio Grande do Sul",
@@ -3111,20 +3127,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:2c5c3bc6f588936466beb717b8e439edb325df0c": {
-    "url": "https://agorars.com/agora-no-transito/travessias-nas-barragens-do-salto-e-blang-sao-bloqueadas-na-serra",
-    "title": "Travessias nas barragens do Salto e Blang são bloqueadas em São Francisco de Paula por risco de alagamentos",
-    "guid": "rs1multi:2bfe720a0b8652355cf3570811d6782f354b5571",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2bfe720a0b8652355cf3570811d6782f354b5571/",
-    "usedAt": 1786649225459,
-    "usedAtIso": "2026-08-13T19:27:05.459Z"
+  "source:a86b11ad64ab6ad9d07a4dd3dc1de33de90cc69f": {
+    "url": "https://agorars.com/rs/metropolitana/procon-autua-rge-apos-filas-e-alta-de-reclamacoes-em-canoas",
+    "title": "Procon Canoas autua RGE após encontrar consumidores aguardando atendimento por horas",
+    "guid": "rs1multi:6900fde1a9406e4141161a3838e4837712fa4251",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6900fde1a9406e4141161a3838e4837712fa4251/",
+    "usedAt": 1786656425781,
+    "usedAtIso": "2026-08-13T21:27:05.781Z"
   },
-  "source:39cd0b0a2983396e9c1c70052e137102cca534f5": {
-    "url": "https://agorars.com/plantao-rs/justica-revoga-prisao-paula-lopes-canoas",
-    "title": "Justiça proíbe ex-secretária Paula Lopes de manter animais e exercer atividades relacionadas após revogação da prisão",
-    "guid": "rs1multi:2c82f34efc9ae56fb3cff23f17874447aac709b4",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2c82f34efc9ae56fb3cff23f17874447aac709b4/",
-    "usedAt": 1786649225459,
-    "usedAtIso": "2026-08-13T19:27:05.459Z"
+  "source:e4bba50d2e3ee9bfdff066645bef09784dde873c": {
+    "url": "https://agorars.com/politica/eleicoes/nunes-marques-cancela-filiacao-de-flavio-bolsonaro-ao-missao-e-mantem-senador-no-pl",
+    "title": "Ministro Nunes Marques determina liberação imediata do sistema para registro da candidatura de Flávio Bolsonaro",
+    "guid": "rs1multi:d62c925ab1be2f86df98664d5cc4024edc22526d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d62c925ab1be2f86df98664d5cc4024edc22526d/",
+    "usedAt": 1786656425781,
+    "usedAtIso": "2026-08-13T21:27:05.781Z"
   }
 }
