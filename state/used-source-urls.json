@@ -1,4 +1,12 @@
 {
+  "source:c56a47b60246afc416540fede3fa2a97910624fa": {
+    "url": "https://agorars.com/agricultura/stf-valida-moratoria-soja-processos-cade",
+    "title": "STF valida moratória da soja e determina arquivamento de processos no Cade",
+    "guid": "rs1multi:76895243e82181ece00a409b6f8bdb3eec9c591c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_76895243e82181ece00a409b6f8bdb3eec9c591c/",
+    "usedAt": 1786577225743,
+    "usedAtIso": "2026-08-12T23:27:05.743Z"
+  },
   "source:1bfc8ebebea8c8c7650349f260a421947d6f77c2": {
     "url": "https://agorars.com/agora-no-tempo/chuva-rs-quinta-feira-temporais-alerta-inmet",
     "title": "Rio Grande do Sul terá temporais com granizo e ventos fortes nesta quinta-feira",
@@ -3071,12 +3079,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:c56a47b60246afc416540fede3fa2a97910624fa": {
-    "url": "https://agorars.com/agricultura/stf-valida-moratoria-soja-processos-cade",
-    "title": "STF valida moratória da soja e determina arquivamento de processos no Cade",
-    "guid": "rs1multi:76895243e82181ece00a409b6f8bdb3eec9c591c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_76895243e82181ece00a409b6f8bdb3eec9c591c/",
-    "usedAt": 1786577225743,
-    "usedAtIso": "2026-08-12T23:27:05.743Z"
+  "source:996ed9059d9b9e6a7f2fd899aede48ad02811a97": {
+    "url": "https://agorars.com/rs/metropolitana/homem-preso-estupro-filha-canoas",
+    "title": "Homem é preso em Canoas por estupro de adolescente com risco de novos crimes",
+    "guid": "rs1multi:b61e057851305eb3814ad9cbeb0ccac031c92535",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b61e057851305eb3814ad9cbeb0ccac031c92535/",
+    "usedAt": 1786627626783,
+    "usedAtIso": "2026-08-13T13:27:06.783Z"
+  },
+  "source:4a888c1950950ef7767b1777a2a76823c69ace89": {
+    "url": "https://agorars.com/agora-no-transito/prf-apreende-750-celulares-br-290-porto-alegre",
+    "title": "PRF apreende 750 celulares contrabandeados em veículo na BR-290 em Porto Alegre",
+    "guid": "rs1multi:893cfc184e329390f99af169d1abe031fdb0c410",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_893cfc184e329390f99af169d1abe031fdb0c410/",
+    "usedAt": 1786627626783,
+    "usedAtIso": "2026-08-13T13:27:06.783Z"
   }
 }
