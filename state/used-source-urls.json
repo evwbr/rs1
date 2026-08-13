@@ -1,4 +1,20 @@
 {
+  "source:b8e7edeb9a7bc1549fc6013e3529b8b35f82d358": {
+    "url": "https://agorars.com/agora-no-transito/jovem-desaparecido-morre-acidente-ers-223-victor-graeff",
+    "title": "Motorista é encontrado morto após desaparecimento na ERS-223, no Norte do Rio Grande do Sul",
+    "guid": "rs1multi:b109cba4260973b6ac62ddbd722cc7026e53f1f4",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b109cba4260973b6ac62ddbd722cc7026e53f1f4/",
+    "usedAt": 1786634825677,
+    "usedAtIso": "2026-08-13T15:27:05.677Z"
+  },
+  "source:7ce0c04e151d4b2e1ea9815200fecc5e197a32fc": {
+    "url": "https://agorars.com/agora-no-tempo/chuvas-danos-municipios-rs-interdicoes-defesa-civil",
+    "title": "Chuvas e ventos fortes causam danos e interdições em três municípios do Rio Grande do Sul",
+    "guid": "rs1multi:fe6f71e2c544488b321d25a8cce2b25d630a067c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fe6f71e2c544488b321d25a8cce2b25d630a067c/",
+    "usedAt": 1786634825677,
+    "usedAtIso": "2026-08-13T15:27:05.677Z"
+  },
   "source:996ed9059d9b9e6a7f2fd899aede48ad02811a97": {
     "url": "https://agorars.com/rs/metropolitana/homem-preso-estupro-filha-canoas",
     "title": "Homem é preso em Canoas por estupro de adolescente com risco de novos crimes",
@@ -3095,20 +3111,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:b8e7edeb9a7bc1549fc6013e3529b8b35f82d358": {
-    "url": "https://agorars.com/agora-no-transito/jovem-desaparecido-morre-acidente-ers-223-victor-graeff",
-    "title": "Motorista é encontrado morto após desaparecimento na ERS-223, no Norte do Rio Grande do Sul",
-    "guid": "rs1multi:b109cba4260973b6ac62ddbd722cc7026e53f1f4",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b109cba4260973b6ac62ddbd722cc7026e53f1f4/",
-    "usedAt": 1786634825677,
-    "usedAtIso": "2026-08-13T15:27:05.677Z"
+  "source:2c5c3bc6f588936466beb717b8e439edb325df0c": {
+    "url": "https://agorars.com/agora-no-transito/travessias-nas-barragens-do-salto-e-blang-sao-bloqueadas-na-serra",
+    "title": "Travessias nas barragens do Salto e Blang são bloqueadas em São Francisco de Paula por risco de alagamentos",
+    "guid": "rs1multi:2bfe720a0b8652355cf3570811d6782f354b5571",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2bfe720a0b8652355cf3570811d6782f354b5571/",
+    "usedAt": 1786649225459,
+    "usedAtIso": "2026-08-13T19:27:05.459Z"
   },
-  "source:7ce0c04e151d4b2e1ea9815200fecc5e197a32fc": {
-    "url": "https://agorars.com/agora-no-tempo/chuvas-danos-municipios-rs-interdicoes-defesa-civil",
-    "title": "Chuvas e ventos fortes causam danos e interdições em três municípios do Rio Grande do Sul",
-    "guid": "rs1multi:fe6f71e2c544488b321d25a8cce2b25d630a067c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_fe6f71e2c544488b321d25a8cce2b25d630a067c/",
-    "usedAt": 1786634825677,
-    "usedAtIso": "2026-08-13T15:27:05.677Z"
+  "source:39cd0b0a2983396e9c1c70052e137102cca534f5": {
+    "url": "https://agorars.com/plantao-rs/justica-revoga-prisao-paula-lopes-canoas",
+    "title": "Justiça proíbe ex-secretária Paula Lopes de manter animais e exercer atividades relacionadas após revogação da prisão",
+    "guid": "rs1multi:2c82f34efc9ae56fb3cff23f17874447aac709b4",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2c82f34efc9ae56fb3cff23f17874447aac709b4/",
+    "usedAt": 1786649225459,
+    "usedAtIso": "2026-08-13T19:27:05.459Z"
   }
 }
