@@ -1,4 +1,20 @@
 {
+  "source:a86b11ad64ab6ad9d07a4dd3dc1de33de90cc69f": {
+    "url": "https://agorars.com/rs/metropolitana/procon-autua-rge-apos-filas-e-alta-de-reclamacoes-em-canoas",
+    "title": "Procon Canoas autua RGE após encontrar consumidores aguardando atendimento por horas",
+    "guid": "rs1multi:6900fde1a9406e4141161a3838e4837712fa4251",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6900fde1a9406e4141161a3838e4837712fa4251/",
+    "usedAt": 1786656425781,
+    "usedAtIso": "2026-08-13T21:27:05.781Z"
+  },
+  "source:e4bba50d2e3ee9bfdff066645bef09784dde873c": {
+    "url": "https://agorars.com/politica/eleicoes/nunes-marques-cancela-filiacao-de-flavio-bolsonaro-ao-missao-e-mantem-senador-no-pl",
+    "title": "Ministro Nunes Marques determina liberação imediata do sistema para registro da candidatura de Flávio Bolsonaro",
+    "guid": "rs1multi:d62c925ab1be2f86df98664d5cc4024edc22526d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d62c925ab1be2f86df98664d5cc4024edc22526d/",
+    "usedAt": 1786656425781,
+    "usedAtIso": "2026-08-13T21:27:05.781Z"
+  },
   "source:2c5c3bc6f588936466beb717b8e439edb325df0c": {
     "url": "https://agorars.com/agora-no-transito/travessias-nas-barragens-do-salto-e-blang-sao-bloqueadas-na-serra",
     "title": "Travessias nas barragens do Salto e Blang são bloqueadas em São Francisco de Paula por risco de alagamentos",
@@ -3127,20 +3143,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:a86b11ad64ab6ad9d07a4dd3dc1de33de90cc69f": {
-    "url": "https://agorars.com/rs/metropolitana/procon-autua-rge-apos-filas-e-alta-de-reclamacoes-em-canoas",
-    "title": "Procon Canoas autua RGE após encontrar consumidores aguardando atendimento por horas",
-    "guid": "rs1multi:6900fde1a9406e4141161a3838e4837712fa4251",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6900fde1a9406e4141161a3838e4837712fa4251/",
-    "usedAt": 1786656425781,
-    "usedAtIso": "2026-08-13T21:27:05.781Z"
-  },
-  "source:e4bba50d2e3ee9bfdff066645bef09784dde873c": {
-    "url": "https://agorars.com/politica/eleicoes/nunes-marques-cancela-filiacao-de-flavio-bolsonaro-ao-missao-e-mantem-senador-no-pl",
-    "title": "Ministro Nunes Marques determina liberação imediata do sistema para registro da candidatura de Flávio Bolsonaro",
-    "guid": "rs1multi:d62c925ab1be2f86df98664d5cc4024edc22526d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d62c925ab1be2f86df98664d5cc4024edc22526d/",
-    "usedAt": 1786656425781,
-    "usedAtIso": "2026-08-13T21:27:05.781Z"
+  "source:581e01fd2ca3510c19318ce8b041b8fda4d450a2": {
+    "url": "https://agorars.com/rs/vales/cai/rio-cai-tem-risco-alto-de-inundacao-entre-sao-sebastiao-do-cai-e-montenegro",
+    "title": "Rio Caí ultrapassa cota de alerta em São Sebastião do Caí e Montenegro com níveis em elevação",
+    "guid": "rs1multi:2ebf747d11e456f64e611c74c3ca630cd7b75794",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2ebf747d11e456f64e611c74c3ca630cd7b75794/",
+    "usedAt": 1786663627431,
+    "usedAtIso": "2026-08-13T23:27:07.431Z"
   }
 }
