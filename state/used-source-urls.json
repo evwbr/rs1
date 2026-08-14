@@ -1,4 +1,12 @@
 {
+  "source:581e01fd2ca3510c19318ce8b041b8fda4d450a2": {
+    "url": "https://agorars.com/rs/vales/cai/rio-cai-tem-risco-alto-de-inundacao-entre-sao-sebastiao-do-cai-e-montenegro",
+    "title": "Rio Caí ultrapassa cota de alerta em São Sebastião do Caí e Montenegro com níveis em elevação",
+    "guid": "rs1multi:2ebf747d11e456f64e611c74c3ca630cd7b75794",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2ebf747d11e456f64e611c74c3ca630cd7b75794/",
+    "usedAt": 1786663627431,
+    "usedAtIso": "2026-08-13T23:27:07.431Z"
+  },
   "source:a86b11ad64ab6ad9d07a4dd3dc1de33de90cc69f": {
     "url": "https://agorars.com/rs/metropolitana/procon-autua-rge-apos-filas-e-alta-de-reclamacoes-em-canoas",
     "title": "Procon Canoas autua RGE após encontrar consumidores aguardando atendimento por horas",
@@ -3143,12 +3151,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:581e01fd2ca3510c19318ce8b041b8fda4d450a2": {
-    "url": "https://agorars.com/rs/vales/cai/rio-cai-tem-risco-alto-de-inundacao-entre-sao-sebastiao-do-cai-e-montenegro",
-    "title": "Rio Caí ultrapassa cota de alerta em São Sebastião do Caí e Montenegro com níveis em elevação",
-    "guid": "rs1multi:2ebf747d11e456f64e611c74c3ca630cd7b75794",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2ebf747d11e456f64e611c74c3ca630cd7b75794/",
-    "usedAt": 1786663627431,
-    "usedAtIso": "2026-08-13T23:27:07.431Z"
+  "source:d7a12f49b950f876f84373cc5621225965239efa": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/tempo-rs-sexta-temporais-granizo-chuva-80-mm",
+    "title": "Defesa Civil alerta para temporais com granizo e ventos fortes no Norte e Noroeste do Rio Grande do Sul",
+    "guid": "rs1multi:a4f7ee9b8bdeeafb42f26885c64c3f8f9714a181",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a4f7ee9b8bdeeafb42f26885c64c3f8f9714a181/",
+    "usedAt": 1786670826133,
+    "usedAtIso": "2026-08-14T01:27:06.133Z"
+  },
+  "source:5160377763f4790b75b422b0f3d3f2eaf241e254": {
+    "url": "https://agorars.com/politica/eleicoes/tre-rs-derruba-cassacao-jussara-cacapava-vice-cachoeirinha",
+    "title": "TRE-RS afasta cassação da prefeita e do vice de Cachoeirinha em recurso eleitoral",
+    "guid": "rs1multi:5b299aeb90744c92eb2a72a6752d00eeab32386c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5b299aeb90744c92eb2a72a6752d00eeab32386c/",
+    "usedAt": 1786670826133,
+    "usedAtIso": "2026-08-14T01:27:06.133Z"
   }
 }
