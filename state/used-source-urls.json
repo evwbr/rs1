@@ -1,4 +1,12 @@
 {
+  "source:8cfe5f75f33c0ca0fe6bd66fb1ab33da54bc6a79": {
+    "url": "https://agorars.com/plantao-rs/operacao-apura-rachadinha-e-infiltracao-de-organizacao-criminosa-na-camara-de-pelotas",
+    "title": "MP-RS cumpre 33 mandados em investigação sobre rachadinha e lavagem de dinheiro na Câmara de Pelotas",
+    "guid": "rs1multi:86a61def34c203fa3d5f1691d6f3e65b1da45889",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_86a61def34c203fa3d5f1691d6f3e65b1da45889/",
+    "usedAt": 1786714025636,
+    "usedAtIso": "2026-08-14T13:27:05.636Z"
+  },
   "source:d7a12f49b950f876f84373cc5621225965239efa": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/tempo-rs-sexta-temporais-granizo-chuva-80-mm",
     "title": "Defesa Civil alerta para temporais com granizo e ventos fortes no Norte e Noroeste do Rio Grande do Sul",
@@ -3167,12 +3175,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:8cfe5f75f33c0ca0fe6bd66fb1ab33da54bc6a79": {
-    "url": "https://agorars.com/plantao-rs/operacao-apura-rachadinha-e-infiltracao-de-organizacao-criminosa-na-camara-de-pelotas",
-    "title": "MP-RS cumpre 33 mandados em investigação sobre rachadinha e lavagem de dinheiro na Câmara de Pelotas",
-    "guid": "rs1multi:86a61def34c203fa3d5f1691d6f3e65b1da45889",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_86a61def34c203fa3d5f1691d6f3e65b1da45889/",
-    "usedAt": 1786714025636,
-    "usedAtIso": "2026-08-14T13:27:05.636Z"
+  "source:d4688f285e2330cce38c12e9455b2d8fc5db39ee": {
+    "url": "https://agorars.com/agora-no-tempo/rio-jacui-atinge-cota-de-inundacao-em-dona-francisca-cai-e-taquari-tem-pontos-em-alerta",
+    "title": "Rio Jacuí em Dona Francisca ultrapassa cota de inundação e Defesa Civil emite alerta muito alto",
+    "guid": "rs1multi:9458c748a74ef30e19fae0ae6b31997fb093b107",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9458c748a74ef30e19fae0ae6b31997fb093b107/",
+    "usedAt": 1786721225808,
+    "usedAtIso": "2026-08-14T15:27:05.808Z"
   }
 }
