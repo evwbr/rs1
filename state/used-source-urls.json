@@ -1,4 +1,12 @@
 {
+  "source:900b519f9dca0dce448182626abd7e180c4dd460": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-rs-sabado-temporais-granizo-vento",
+    "title": "Rio Grande do Sul terá temporais isolados com granizo e ventos fortes no sábado",
+    "guid": "rs1multi:4d442625ead190a09f5789dd1d4223f13cd1b759",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4d442625ead190a09f5789dd1d4223f13cd1b759/",
+    "usedAt": 1786742825517,
+    "usedAtIso": "2026-08-14T21:27:05.517Z"
+  },
   "source:27c46fe8291d8e23886a05bd888820153bd388ab": {
     "url": "https://agorars.com/politica/pec-fim-escala-6x1-senado-ccj",
     "title": "Senado avança na análise da PEC que acaba com escala 6x1 após diálogo entre Alcolumbre e Lula",
@@ -3223,12 +3231,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:900b519f9dca0dce448182626abd7e180c4dd460": {
-    "url": "https://agorars.com/agora-no-tempo/chuva-rs-sabado-temporais-granizo-vento",
-    "title": "Rio Grande do Sul terá temporais isolados com granizo e ventos fortes no sábado",
-    "guid": "rs1multi:4d442625ead190a09f5789dd1d4223f13cd1b759",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4d442625ead190a09f5789dd1d4223f13cd1b759/",
-    "usedAt": 1786742825517,
-    "usedAtIso": "2026-08-14T21:27:05.517Z"
+  "source:0563291b99f2814f974df7ceeb7f379aea01e947": {
+    "url": "https://agorars.com/rs/porto-alegre/banco-central-liquidacao-simpala-financeira-consorcios",
+    "title": "Banco Central decreta liquidação extrajudicial da Simpala, com sede em Porto Alegre",
+    "guid": "rs1multi:038d713d3ee6d6d99203dd804d854486dce46b5c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_038d713d3ee6d6d99203dd804d854486dce46b5c/",
+    "usedAt": 1786750025614,
+    "usedAtIso": "2026-08-14T23:27:05.614Z"
   }
 }
