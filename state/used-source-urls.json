@@ -1,4 +1,12 @@
 {
+  "source:d4688f285e2330cce38c12e9455b2d8fc5db39ee": {
+    "url": "https://agorars.com/agora-no-tempo/rio-jacui-atinge-cota-de-inundacao-em-dona-francisca-cai-e-taquari-tem-pontos-em-alerta",
+    "title": "Rio Jacuí em Dona Francisca ultrapassa cota de inundação e Defesa Civil emite alerta muito alto",
+    "guid": "rs1multi:9458c748a74ef30e19fae0ae6b31997fb093b107",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9458c748a74ef30e19fae0ae6b31997fb093b107/",
+    "usedAt": 1786721225808,
+    "usedAtIso": "2026-08-14T15:27:05.808Z"
+  },
   "source:8cfe5f75f33c0ca0fe6bd66fb1ab33da54bc6a79": {
     "url": "https://agorars.com/plantao-rs/operacao-apura-rachadinha-e-infiltracao-de-organizacao-criminosa-na-camara-de-pelotas",
     "title": "MP-RS cumpre 33 mandados em investigação sobre rachadinha e lavagem de dinheiro na Câmara de Pelotas",
@@ -3175,12 +3183,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:d4688f285e2330cce38c12e9455b2d8fc5db39ee": {
-    "url": "https://agorars.com/agora-no-tempo/rio-jacui-atinge-cota-de-inundacao-em-dona-francisca-cai-e-taquari-tem-pontos-em-alerta",
-    "title": "Rio Jacuí em Dona Francisca ultrapassa cota de inundação e Defesa Civil emite alerta muito alto",
-    "guid": "rs1multi:9458c748a74ef30e19fae0ae6b31997fb093b107",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_9458c748a74ef30e19fae0ae6b31997fb093b107/",
-    "usedAt": 1786721225808,
-    "usedAtIso": "2026-08-14T15:27:05.808Z"
+  "source:1237b3104b0fbe754d49c54f7f154414b1162e96": {
+    "url": "https://agorars.com/agricultura/renegociacao-dividas-rurais-regras-2026",
+    "title": "Produtores rurais do Rio Grande do Sul podem acessar nova linha de crédito para dívidas até novembro",
+    "guid": "rs1multi:ebbac297513a073284240f836c55c8b995c97283",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ebbac297513a073284240f836c55c8b995c97283/",
+    "usedAt": 1786728426589,
+    "usedAtIso": "2026-08-14T17:27:06.589Z"
+  },
+  "source:e65b1c392f6539378310cbae275caaeb7a0bee3d": {
+    "url": "https://agorars.com/agora-no-tempo/avisos-tempestade-rs-sexta-domingo",
+    "title": "Rio Grande do Sul enfrenta alerta de tempestades com risco de granizo e ventos fortes até domingo",
+    "guid": "rs1multi:b420b6260dade822cfb1dc4a55a1ef3a33f29e5d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b420b6260dade822cfb1dc4a55a1ef3a33f29e5d/",
+    "usedAt": 1786728426589,
+    "usedAtIso": "2026-08-14T17:27:06.589Z"
   }
 }
