@@ -1,4 +1,20 @@
 {
+  "source:1237b3104b0fbe754d49c54f7f154414b1162e96": {
+    "url": "https://agorars.com/agricultura/renegociacao-dividas-rurais-regras-2026",
+    "title": "Produtores rurais do Rio Grande do Sul podem acessar nova linha de crédito para dívidas até novembro",
+    "guid": "rs1multi:ebbac297513a073284240f836c55c8b995c97283",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ebbac297513a073284240f836c55c8b995c97283/",
+    "usedAt": 1786728426589,
+    "usedAtIso": "2026-08-14T17:27:06.589Z"
+  },
+  "source:e65b1c392f6539378310cbae275caaeb7a0bee3d": {
+    "url": "https://agorars.com/agora-no-tempo/avisos-tempestade-rs-sexta-domingo",
+    "title": "Rio Grande do Sul enfrenta alerta de tempestades com risco de granizo e ventos fortes até domingo",
+    "guid": "rs1multi:b420b6260dade822cfb1dc4a55a1ef3a33f29e5d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b420b6260dade822cfb1dc4a55a1ef3a33f29e5d/",
+    "usedAt": 1786728426589,
+    "usedAtIso": "2026-08-14T17:27:06.589Z"
+  },
   "source:d4688f285e2330cce38c12e9455b2d8fc5db39ee": {
     "url": "https://agorars.com/agora-no-tempo/rio-jacui-atinge-cota-de-inundacao-em-dona-francisca-cai-e-taquari-tem-pontos-em-alerta",
     "title": "Rio Jacuí em Dona Francisca ultrapassa cota de inundação e Defesa Civil emite alerta muito alto",
@@ -3183,20 +3199,28 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:1237b3104b0fbe754d49c54f7f154414b1162e96": {
-    "url": "https://agorars.com/agricultura/renegociacao-dividas-rurais-regras-2026",
-    "title": "Produtores rurais do Rio Grande do Sul podem acessar nova linha de crédito para dívidas até novembro",
-    "guid": "rs1multi:ebbac297513a073284240f836c55c8b995c97283",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ebbac297513a073284240f836c55c8b995c97283/",
-    "usedAt": 1786728426589,
-    "usedAtIso": "2026-08-14T17:27:06.589Z"
+  "source:27c46fe8291d8e23886a05bd888820153bd388ab": {
+    "url": "https://agorars.com/politica/pec-fim-escala-6x1-senado-ccj",
+    "title": "Senado avança na análise da PEC que acaba com escala 6x1 após diálogo entre Alcolumbre e Lula",
+    "guid": "rs1multi:78b269043891e51dac7498a4f6ca9b6421822339",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_78b269043891e51dac7498a4f6ca9b6421822339/",
+    "usedAt": 1786735625675,
+    "usedAtIso": "2026-08-14T19:27:05.675Z"
   },
-  "source:e65b1c392f6539378310cbae275caaeb7a0bee3d": {
-    "url": "https://agorars.com/agora-no-tempo/avisos-tempestade-rs-sexta-domingo",
-    "title": "Rio Grande do Sul enfrenta alerta de tempestades com risco de granizo e ventos fortes até domingo",
-    "guid": "rs1multi:b420b6260dade822cfb1dc4a55a1ef3a33f29e5d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b420b6260dade822cfb1dc4a55a1ef3a33f29e5d/",
-    "usedAt": 1786728426589,
-    "usedAtIso": "2026-08-14T17:27:06.589Z"
+  "source:15e1e5defc6d31e6f4fcc70ec8a7232f3154f43d": {
+    "url": "https://agorars.com/rs/central/concurso-prefeitura-cachoeira-do-sul-inscricoes-2026",
+    "title": "Prefeitura de Cachoeira do Sul abre inscrições para concurso público com vagas em diversas áreas",
+    "guid": "rs1multi:02e46c42efd04a2c26e5d38856196cf0d1365401",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_02e46c42efd04a2c26e5d38856196cf0d1365401/",
+    "usedAt": 1786735625675,
+    "usedAtIso": "2026-08-14T19:27:05.675Z"
+  },
+  "source:cb9e1cb70f7b8136e7de2ba2c4f902479b177360": {
+    "url": "https://agorars.com/rs/porto-alegre/hps-doacao-sangue-sabado-porto-alegre-2",
+    "title": "Banco de Sangue do Hospital de Pronto Socorro de Porto Alegre reforça estoque com doações agendadas",
+    "guid": "rs1multi:07421db9afc15e61a87e75d57c2f046ff840ad9b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_07421db9afc15e61a87e75d57c2f046ff840ad9b/",
+    "usedAt": 1786735625675,
+    "usedAtIso": "2026-08-14T19:27:05.675Z"
   }
 }
