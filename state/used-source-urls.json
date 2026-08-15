@@ -1,4 +1,20 @@
 {
+  "source:d1ae2c739d213be9449964a9751dd1bdff33722a": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-aviso-chuva-granizo-rajadas-60-kmh",
+    "title": "Defesa Civil de Porto Alegre alerta para chuva forte e possibilidade de granizo neste fim de semana",
+    "guid": "rs1multi:aef0f2dc2660281031e72a50e438e1f5089b2170",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aef0f2dc2660281031e72a50e438e1f5089b2170/",
+    "usedAt": 1786822025364,
+    "usedAtIso": "2026-08-15T19:27:05.364Z"
+  },
+  "source:77eb4bb0ece4431e01b419656dc1c312e6aa19f4": {
+    "url": "https://agorars.com/economia/petrobras-hidrocarbonetos-poco-morpho-amapa-margem-equatorial",
+    "title": "Petrobras anuncia descoberta de novo poço de petróleo na costa do Amapá",
+    "guid": "rs1multi:32e7da2c07e7ff189d97ca982e3f73c6df86c029",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_32e7da2c07e7ff189d97ca982e3f73c6df86c029/",
+    "usedAt": 1786822025364,
+    "usedAtIso": "2026-08-15T19:27:05.364Z"
+  },
   "source:49fe12ea74fc83c822823af0bc3f65d7fe72286e": {
     "url": "https://agorars.com/rs/vales/taquari/travessia-barco-mucum-encantado-rio-guapore-ers-129",
     "title": "Trajeto entre Muçum e Encantado será feito por embarcação",
@@ -3263,20 +3279,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:d1ae2c739d213be9449964a9751dd1bdff33722a": {
-    "url": "https://agorars.com/agora-no-tempo/porto-alegre-aviso-chuva-granizo-rajadas-60-kmh",
-    "title": "Defesa Civil de Porto Alegre alerta para chuva forte e possibilidade de granizo neste fim de semana",
-    "guid": "rs1multi:aef0f2dc2660281031e72a50e438e1f5089b2170",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aef0f2dc2660281031e72a50e438e1f5089b2170/",
-    "usedAt": 1786822025364,
-    "usedAtIso": "2026-08-15T19:27:05.364Z"
-  },
-  "source:77eb4bb0ece4431e01b419656dc1c312e6aa19f4": {
-    "url": "https://agorars.com/economia/petrobras-hidrocarbonetos-poco-morpho-amapa-margem-equatorial",
-    "title": "Petrobras anuncia descoberta de novo poço de petróleo na costa do Amapá",
-    "guid": "rs1multi:32e7da2c07e7ff189d97ca982e3f73c6df86c029",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_32e7da2c07e7ff189d97ca982e3f73c6df86c029/",
-    "usedAt": 1786822025364,
-    "usedAtIso": "2026-08-15T19:27:05.364Z"
+  "source:45a8afa56221274c1c669d6d7b125d26b9bf04ab": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-rs-domingo-granizo-vento-80-kmh",
+    "title": "Rio Grande do Sul terá tempestades com granizo e ventos fortes a partir de domingo",
+    "guid": "rs1multi:f3d1262cfcf10f97f092a0c95d123ddceedaf2fa",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f3d1262cfcf10f97f092a0c95d123ddceedaf2fa/",
+    "usedAt": 1786829225312,
+    "usedAtIso": "2026-08-15T21:27:05.312Z"
   }
 }
