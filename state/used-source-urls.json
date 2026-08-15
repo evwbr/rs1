@@ -1,4 +1,12 @@
 {
+  "source:94fa172d0c96abb0399f7a35cbd24c83fb2336f4": {
+    "url": "https://agorars.com/cultura/fiquei-com-o-meu-coracao-partido-depois-de-assistir-esse-filme",
+    "title": "Fiquei com o meu coração partido depois de assistir esse filme",
+    "guid": "rs1multi:2da8561a01c8ce34bd18e4bb6f3fe538ebcff1c1",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2da8561a01c8ce34bd18e4bb6f3fe538ebcff1c1/",
+    "usedAt": 1786757225295,
+    "usedAtIso": "2026-08-15T01:27:05.295Z"
+  },
   "source:0563291b99f2814f974df7ceeb7f379aea01e947": {
     "url": "https://agorars.com/rs/porto-alegre/banco-central-liquidacao-simpala-financeira-consorcios",
     "title": "Banco Central decreta liquidação extrajudicial da Simpala, com sede em Porto Alegre",
@@ -3239,12 +3247,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:94fa172d0c96abb0399f7a35cbd24c83fb2336f4": {
-    "url": "https://agorars.com/cultura/fiquei-com-o-meu-coracao-partido-depois-de-assistir-esse-filme",
-    "title": "Fiquei com o meu coração partido depois de assistir esse filme",
-    "guid": "rs1multi:2da8561a01c8ce34bd18e4bb6f3fe538ebcff1c1",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2da8561a01c8ce34bd18e4bb6f3fe538ebcff1c1/",
-    "usedAt": 1786757225295,
-    "usedAtIso": "2026-08-15T01:27:05.295Z"
+  "source:49fe12ea74fc83c822823af0bc3f65d7fe72286e": {
+    "url": "https://agorars.com/rs/vales/taquari/travessia-barco-mucum-encantado-rio-guapore-ers-129",
+    "title": "Trajeto entre Muçum e Encantado será feito por embarcação",
+    "guid": "rs1multi:e3f6e245ec5ce2c756e7b4a0504727d3a791ae9b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e3f6e245ec5ce2c756e7b4a0504727d3a791ae9b/",
+    "usedAt": 1786807625842,
+    "usedAtIso": "2026-08-15T15:27:05.842Z"
+  },
+  "source:88878553ba591eedad9ee091f69eb0842516c0c8": {
+    "url": "https://agorars.com/rs/porto-alegre/dmae-falta-agua-moinhos-de-vento-sarandi-quarta-feira",
+    "title": "Porto Alegre: Manutenções afetam abastecimento de água na Zona Norte e na área central",
+    "guid": "rs1multi:7f83d90ce65443e1944dcfb4cc8c05bb0436d69e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f83d90ce65443e1944dcfb4cc8c05bb0436d69e/",
+    "usedAt": 1786807625842,
+    "usedAtIso": "2026-08-15T15:27:05.842Z"
   }
 }
