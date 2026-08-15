@@ -1,4 +1,12 @@
 {
+  "source:0563291b99f2814f974df7ceeb7f379aea01e947": {
+    "url": "https://agorars.com/rs/porto-alegre/banco-central-liquidacao-simpala-financeira-consorcios",
+    "title": "Banco Central decreta liquidação extrajudicial da Simpala, com sede em Porto Alegre",
+    "guid": "rs1multi:038d713d3ee6d6d99203dd804d854486dce46b5c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_038d713d3ee6d6d99203dd804d854486dce46b5c/",
+    "usedAt": 1786750025614,
+    "usedAtIso": "2026-08-14T23:27:05.614Z"
+  },
   "source:900b519f9dca0dce448182626abd7e180c4dd460": {
     "url": "https://agorars.com/agora-no-tempo/chuva-rs-sabado-temporais-granizo-vento",
     "title": "Rio Grande do Sul terá temporais isolados com granizo e ventos fortes no sábado",
@@ -3231,12 +3239,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:0563291b99f2814f974df7ceeb7f379aea01e947": {
-    "url": "https://agorars.com/rs/porto-alegre/banco-central-liquidacao-simpala-financeira-consorcios",
-    "title": "Banco Central decreta liquidação extrajudicial da Simpala, com sede em Porto Alegre",
-    "guid": "rs1multi:038d713d3ee6d6d99203dd804d854486dce46b5c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_038d713d3ee6d6d99203dd804d854486dce46b5c/",
-    "usedAt": 1786750025614,
-    "usedAtIso": "2026-08-14T23:27:05.614Z"
+  "source:94fa172d0c96abb0399f7a35cbd24c83fb2336f4": {
+    "url": "https://agorars.com/cultura/fiquei-com-o-meu-coracao-partido-depois-de-assistir-esse-filme",
+    "title": "Fiquei com o meu coração partido depois de assistir esse filme",
+    "guid": "rs1multi:2da8561a01c8ce34bd18e4bb6f3fe538ebcff1c1",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2da8561a01c8ce34bd18e4bb6f3fe538ebcff1c1/",
+    "usedAt": 1786757225295,
+    "usedAtIso": "2026-08-15T01:27:05.295Z"
   }
 }
