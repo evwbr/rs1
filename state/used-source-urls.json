@@ -1,4 +1,20 @@
 {
+  "source:49fe12ea74fc83c822823af0bc3f65d7fe72286e": {
+    "url": "https://agorars.com/rs/vales/taquari/travessia-barco-mucum-encantado-rio-guapore-ers-129",
+    "title": "Trajeto entre Muçum e Encantado será feito por embarcação",
+    "guid": "rs1multi:e3f6e245ec5ce2c756e7b4a0504727d3a791ae9b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e3f6e245ec5ce2c756e7b4a0504727d3a791ae9b/",
+    "usedAt": 1786807625842,
+    "usedAtIso": "2026-08-15T15:27:05.842Z"
+  },
+  "source:88878553ba591eedad9ee091f69eb0842516c0c8": {
+    "url": "https://agorars.com/rs/porto-alegre/dmae-falta-agua-moinhos-de-vento-sarandi-quarta-feira",
+    "title": "Porto Alegre: Manutenções afetam abastecimento de água na Zona Norte e na área central",
+    "guid": "rs1multi:7f83d90ce65443e1944dcfb4cc8c05bb0436d69e",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f83d90ce65443e1944dcfb4cc8c05bb0436d69e/",
+    "usedAt": 1786807625842,
+    "usedAtIso": "2026-08-15T15:27:05.842Z"
+  },
   "source:94fa172d0c96abb0399f7a35cbd24c83fb2336f4": {
     "url": "https://agorars.com/cultura/fiquei-com-o-meu-coracao-partido-depois-de-assistir-esse-filme",
     "title": "Fiquei com o meu coração partido depois de assistir esse filme",
@@ -3247,20 +3263,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:49fe12ea74fc83c822823af0bc3f65d7fe72286e": {
-    "url": "https://agorars.com/rs/vales/taquari/travessia-barco-mucum-encantado-rio-guapore-ers-129",
-    "title": "Trajeto entre Muçum e Encantado será feito por embarcação",
-    "guid": "rs1multi:e3f6e245ec5ce2c756e7b4a0504727d3a791ae9b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e3f6e245ec5ce2c756e7b4a0504727d3a791ae9b/",
-    "usedAt": 1786807625842,
-    "usedAtIso": "2026-08-15T15:27:05.842Z"
+  "source:d1ae2c739d213be9449964a9751dd1bdff33722a": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-aviso-chuva-granizo-rajadas-60-kmh",
+    "title": "Defesa Civil de Porto Alegre alerta para chuva forte e possibilidade de granizo neste fim de semana",
+    "guid": "rs1multi:aef0f2dc2660281031e72a50e438e1f5089b2170",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aef0f2dc2660281031e72a50e438e1f5089b2170/",
+    "usedAt": 1786822025364,
+    "usedAtIso": "2026-08-15T19:27:05.364Z"
   },
-  "source:88878553ba591eedad9ee091f69eb0842516c0c8": {
-    "url": "https://agorars.com/rs/porto-alegre/dmae-falta-agua-moinhos-de-vento-sarandi-quarta-feira",
-    "title": "Porto Alegre: Manutenções afetam abastecimento de água na Zona Norte e na área central",
-    "guid": "rs1multi:7f83d90ce65443e1944dcfb4cc8c05bb0436d69e",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7f83d90ce65443e1944dcfb4cc8c05bb0436d69e/",
-    "usedAt": 1786807625842,
-    "usedAtIso": "2026-08-15T15:27:05.842Z"
+  "source:77eb4bb0ece4431e01b419656dc1c312e6aa19f4": {
+    "url": "https://agorars.com/economia/petrobras-hidrocarbonetos-poco-morpho-amapa-margem-equatorial",
+    "title": "Petrobras anuncia descoberta de novo poço de petróleo na costa do Amapá",
+    "guid": "rs1multi:32e7da2c07e7ff189d97ca982e3f73c6df86c029",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_32e7da2c07e7ff189d97ca982e3f73c6df86c029/",
+    "usedAt": 1786822025364,
+    "usedAtIso": "2026-08-15T19:27:05.364Z"
   }
 }
