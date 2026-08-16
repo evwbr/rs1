@@ -1,4 +1,20 @@
 {
+  "source:6a93ee5b28f9a0a2a38ea976b55cc9a17745648f": {
+    "url": "https://agorars.com/politica/eleicoes/campanha-eleitoral-eleicoes-2026-comeca-domingo-regras",
+    "title": "Calendário e regras para propaganda eleitoral nas eleições de outubro no Rio Grande do Sul",
+    "guid": "rs1multi:1be997417b5cdae1161e3d2caba692e0c7801e33",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1be997417b5cdae1161e3d2caba692e0c7801e33/",
+    "usedAt": 1786908425699,
+    "usedAtIso": "2026-08-16T19:27:05.699Z"
+  },
+  "source:2eec28047aea90cf91f9bd222639d8cd327fd9ea": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-rs-19-desalojados-danos-16-municipios",
+    "title": "Tempestades no Rio Grande do Sul causam danos em 16 municípios e deixam 19 pessoas desalojadas",
+    "guid": "rs1multi:332e47cf7beec2c080ee461b4e821223f205801b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_332e47cf7beec2c080ee461b4e821223f205801b/",
+    "usedAt": 1786908425699,
+    "usedAtIso": "2026-08-16T19:27:05.699Z"
+  },
   "source:45a8afa56221274c1c669d6d7b125d26b9bf04ab": {
     "url": "https://agorars.com/agora-no-tempo/chuva-rs-domingo-granizo-vento-80-kmh",
     "title": "Rio Grande do Sul terá tempestades com granizo e ventos fortes a partir de domingo",
@@ -3287,20 +3303,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:6a93ee5b28f9a0a2a38ea976b55cc9a17745648f": {
-    "url": "https://agorars.com/politica/eleicoes/campanha-eleitoral-eleicoes-2026-comeca-domingo-regras",
-    "title": "Calendário e regras para propaganda eleitoral nas eleições de outubro no Rio Grande do Sul",
-    "guid": "rs1multi:1be997417b5cdae1161e3d2caba692e0c7801e33",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1be997417b5cdae1161e3d2caba692e0c7801e33/",
-    "usedAt": 1786908425699,
-    "usedAtIso": "2026-08-16T19:27:05.699Z"
+  "source:ca8b2ccbdd51d3789321f49ab5148e3c6be135c8": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-rs-segunda-feira-temporais-150-mm-granizo",
+    "title": "Alerta de tempestades com chuva intensa e granizo é emitido para o Rio Grande do Sul nesta segunda-feira",
+    "guid": "rs1multi:a219738fded265735887123b0a3d118765d9b008",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a219738fded265735887123b0a3d118765d9b008/",
+    "usedAt": 1786915626185,
+    "usedAtIso": "2026-08-16T21:27:06.185Z"
   },
-  "source:2eec28047aea90cf91f9bd222639d8cd327fd9ea": {
-    "url": "https://agorars.com/agora-no-tempo/temporais-rs-19-desalojados-danos-16-municipios",
-    "title": "Tempestades no Rio Grande do Sul causam danos em 16 municípios e deixam 19 pessoas desalojadas",
-    "guid": "rs1multi:332e47cf7beec2c080ee461b4e821223f205801b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_332e47cf7beec2c080ee461b4e821223f205801b/",
-    "usedAt": 1786908425699,
-    "usedAtIso": "2026-08-16T19:27:05.699Z"
+  "source:e3d06c1afd32fc3b3adeadeb9edb0f65d2580cbd": {
+    "url": "https://agorars.com/rs/porto-alegre/sine-porto-alegre-1166-vagas-emprego-segunda-feira",
+    "title": "Sine Municipal de Porto Alegre oferece 251 vagas para pessoas com deficiência",
+    "guid": "rs1multi:af1762611d4f0f8f592461b0360b12288af25127",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_af1762611d4f0f8f592461b0360b12288af25127/",
+    "usedAt": 1786915626185,
+    "usedAtIso": "2026-08-16T21:27:06.185Z"
   }
 }
