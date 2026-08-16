@@ -1,4 +1,12 @@
 {
+  "source:45a8afa56221274c1c669d6d7b125d26b9bf04ab": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-rs-domingo-granizo-vento-80-kmh",
+    "title": "Rio Grande do Sul terá tempestades com granizo e ventos fortes a partir de domingo",
+    "guid": "rs1multi:f3d1262cfcf10f97f092a0c95d123ddceedaf2fa",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f3d1262cfcf10f97f092a0c95d123ddceedaf2fa/",
+    "usedAt": 1786829225312,
+    "usedAtIso": "2026-08-15T21:27:05.312Z"
+  },
   "source:d1ae2c739d213be9449964a9751dd1bdff33722a": {
     "url": "https://agorars.com/agora-no-tempo/porto-alegre-aviso-chuva-granizo-rajadas-60-kmh",
     "title": "Defesa Civil de Porto Alegre alerta para chuva forte e possibilidade de granizo neste fim de semana",
@@ -3279,12 +3287,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:45a8afa56221274c1c669d6d7b125d26b9bf04ab": {
-    "url": "https://agorars.com/agora-no-tempo/chuva-rs-domingo-granizo-vento-80-kmh",
-    "title": "Rio Grande do Sul terá tempestades com granizo e ventos fortes a partir de domingo",
-    "guid": "rs1multi:f3d1262cfcf10f97f092a0c95d123ddceedaf2fa",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f3d1262cfcf10f97f092a0c95d123ddceedaf2fa/",
-    "usedAt": 1786829225312,
-    "usedAtIso": "2026-08-15T21:27:05.312Z"
+  "source:6a93ee5b28f9a0a2a38ea976b55cc9a17745648f": {
+    "url": "https://agorars.com/politica/eleicoes/campanha-eleitoral-eleicoes-2026-comeca-domingo-regras",
+    "title": "Calendário e regras para propaganda eleitoral nas eleições de outubro no Rio Grande do Sul",
+    "guid": "rs1multi:1be997417b5cdae1161e3d2caba692e0c7801e33",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1be997417b5cdae1161e3d2caba692e0c7801e33/",
+    "usedAt": 1786908425699,
+    "usedAtIso": "2026-08-16T19:27:05.699Z"
+  },
+  "source:2eec28047aea90cf91f9bd222639d8cd327fd9ea": {
+    "url": "https://agorars.com/agora-no-tempo/temporais-rs-19-desalojados-danos-16-municipios",
+    "title": "Tempestades no Rio Grande do Sul causam danos em 16 municípios e deixam 19 pessoas desalojadas",
+    "guid": "rs1multi:332e47cf7beec2c080ee461b4e821223f205801b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_332e47cf7beec2c080ee461b4e821223f205801b/",
+    "usedAt": 1786908425699,
+    "usedAtIso": "2026-08-16T19:27:05.699Z"
   }
 }
