@@ -1,4 +1,20 @@
 {
+  "source:ca8b2ccbdd51d3789321f49ab5148e3c6be135c8": {
+    "url": "https://agorars.com/agora-no-tempo/chuva-rs-segunda-feira-temporais-150-mm-granizo",
+    "title": "Alerta de tempestades com chuva intensa e granizo é emitido para o Rio Grande do Sul nesta segunda-feira",
+    "guid": "rs1multi:a219738fded265735887123b0a3d118765d9b008",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a219738fded265735887123b0a3d118765d9b008/",
+    "usedAt": 1786915626185,
+    "usedAtIso": "2026-08-16T21:27:06.185Z"
+  },
+  "source:e3d06c1afd32fc3b3adeadeb9edb0f65d2580cbd": {
+    "url": "https://agorars.com/rs/porto-alegre/sine-porto-alegre-1166-vagas-emprego-segunda-feira",
+    "title": "Sine Municipal de Porto Alegre oferece 251 vagas para pessoas com deficiência",
+    "guid": "rs1multi:af1762611d4f0f8f592461b0360b12288af25127",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_af1762611d4f0f8f592461b0360b12288af25127/",
+    "usedAt": 1786915626185,
+    "usedAtIso": "2026-08-16T21:27:06.185Z"
+  },
   "source:6a93ee5b28f9a0a2a38ea976b55cc9a17745648f": {
     "url": "https://agorars.com/politica/eleicoes/campanha-eleitoral-eleicoes-2026-comeca-domingo-regras",
     "title": "Calendário e regras para propaganda eleitoral nas eleições de outubro no Rio Grande do Sul",
@@ -3303,20 +3319,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:ca8b2ccbdd51d3789321f49ab5148e3c6be135c8": {
-    "url": "https://agorars.com/agora-no-tempo/chuva-rs-segunda-feira-temporais-150-mm-granizo",
-    "title": "Alerta de tempestades com chuva intensa e granizo é emitido para o Rio Grande do Sul nesta segunda-feira",
-    "guid": "rs1multi:a219738fded265735887123b0a3d118765d9b008",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a219738fded265735887123b0a3d118765d9b008/",
-    "usedAt": 1786915626185,
-    "usedAtIso": "2026-08-16T21:27:06.185Z"
-  },
-  "source:e3d06c1afd32fc3b3adeadeb9edb0f65d2580cbd": {
-    "url": "https://agorars.com/rs/porto-alegre/sine-porto-alegre-1166-vagas-emprego-segunda-feira",
-    "title": "Sine Municipal de Porto Alegre oferece 251 vagas para pessoas com deficiência",
-    "guid": "rs1multi:af1762611d4f0f8f592461b0360b12288af25127",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_af1762611d4f0f8f592461b0360b12288af25127/",
-    "usedAt": 1786915626185,
-    "usedAtIso": "2026-08-16T21:27:06.185Z"
+  "source:842390a8e62abab1f1be5cdd6115f23cfb8b491e": {
+    "url": "https://agorars.com/agora-no-transito/motociclista-morre-acidente-br-116-sao-leopoldo",
+    "title": "Motociclista morre em acidente na BR-116 em São Leopoldo",
+    "guid": "rs1multi:e43a9277e8ca058e2231cb40c68dad4a84ba58b6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e43a9277e8ca058e2231cb40c68dad4a84ba58b6/",
+    "usedAt": 1786930025446,
+    "usedAtIso": "2026-08-17T01:27:05.446Z"
   }
 }
