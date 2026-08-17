@@ -1,4 +1,20 @@
 {
+  "source:993803fd831c935f28fb5ec7f0ace96ac20951a2": {
+    "url": "https://agorars.com/rs/vales/sinos/duas-novas-bacias-serao-construidas-em-novo-hamburgo-para-reduzir-cheias",
+    "title": "Novo Hamburgo planeja construção de duas bacias para reduzir risco de cheias nos bairros Operário e Guarani",
+    "guid": "rs1multi:8cc062d1c0bf04cb3818c22823c7b5e88adda4de",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8cc062d1c0bf04cb3818c22823c7b5e88adda4de/",
+    "usedAt": 1787002026834,
+    "usedAtIso": "2026-08-17T21:27:06.834Z"
+  },
+  "source:eae93b5ed0bfcfb33551d13fa8f7b5151915f52d": {
+    "url": "https://agorars.com/cotidiano/atividade-economica-recua-06-em-junho-aponta-banco-central",
+    "title": "Atividade econômica do Brasil registra queda em junho, mas mantém crescimento no trimestre",
+    "guid": "rs1multi:a1df62fda03bfa5d80dd4ee8a6766255ad86b2de",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a1df62fda03bfa5d80dd4ee8a6766255ad86b2de/",
+    "usedAt": 1787002026834,
+    "usedAtIso": "2026-08-17T21:27:06.834Z"
+  },
   "source:0f80e6723216c16c33e1d4783d81fdd7cba0ca95": {
     "url": "https://agorars.com/agora-no-tempo/previsao-tempo-porto-alegre-chuva-sexta",
     "title": "Porto Alegre terá mudança no tempo com chuva e ventos fortes até sexta-feira",
@@ -3375,20 +3391,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:993803fd831c935f28fb5ec7f0ace96ac20951a2": {
-    "url": "https://agorars.com/rs/vales/sinos/duas-novas-bacias-serao-construidas-em-novo-hamburgo-para-reduzir-cheias",
-    "title": "Novo Hamburgo planeja construção de duas bacias para reduzir risco de cheias nos bairros Operário e Guarani",
-    "guid": "rs1multi:8cc062d1c0bf04cb3818c22823c7b5e88adda4de",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8cc062d1c0bf04cb3818c22823c7b5e88adda4de/",
-    "usedAt": 1787002026834,
-    "usedAtIso": "2026-08-17T21:27:06.834Z"
-  },
-  "source:eae93b5ed0bfcfb33551d13fa8f7b5151915f52d": {
-    "url": "https://agorars.com/cotidiano/atividade-economica-recua-06-em-junho-aponta-banco-central",
-    "title": "Atividade econômica do Brasil registra queda em junho, mas mantém crescimento no trimestre",
-    "guid": "rs1multi:a1df62fda03bfa5d80dd4ee8a6766255ad86b2de",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a1df62fda03bfa5d80dd4ee8a6766255ad86b2de/",
-    "usedAt": 1787002026834,
-    "usedAtIso": "2026-08-17T21:27:06.834Z"
+  "source:33c418bb46534c106bef46ae816af7839619035e": {
+    "url": "https://agorars.com/rs/serra/homem-e-condenado-a-13-anos-por-adulterar-leite-com-ureia-no-rs",
+    "title": "Homem é condenado por adulteração de leite com substâncias químicas no Rio Grande do Sul",
+    "guid": "rs1multi:570d556ca188632ce36d94f773e20e67c4c4498c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_570d556ca188632ce36d94f773e20e67c4c4498c/",
+    "usedAt": 1787009225875,
+    "usedAtIso": "2026-08-17T23:27:05.875Z"
   }
 }
