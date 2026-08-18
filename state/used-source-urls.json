@@ -1,4 +1,12 @@
 {
+  "source:97697b6276abd5912f905351d90fb126814c3d6f": {
+    "url": "https://agorars.com/rs/sul-do-rs/jaguarao-desabrigados-alerta-inundacao-rio-chuva-rs",
+    "title": "Defesa Civil emite alerta vermelho para risco de inundação em Jaguarão após fortes chuvas",
+    "guid": "rs1multi:8fb45721db8bedcf30f094b19690739345f8d097",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8fb45721db8bedcf30f094b19690739345f8d097/",
+    "usedAt": 1787059625619,
+    "usedAtIso": "2026-08-18T13:27:05.619Z"
+  },
   "source:af9761b512a64daadd03eb13c79c05dfb039a148": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-calor-no-norte-e-risco-de-chuva-volumosa-no-sul-nesta-terca",
     "title": "Sul do Rio Grande do Sul enfrenta risco de temporais e cheias enquanto Norte registra calor intenso",
@@ -3407,12 +3415,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:97697b6276abd5912f905351d90fb126814c3d6f": {
-    "url": "https://agorars.com/rs/sul-do-rs/jaguarao-desabrigados-alerta-inundacao-rio-chuva-rs",
-    "title": "Defesa Civil emite alerta vermelho para risco de inundação em Jaguarão após fortes chuvas",
-    "guid": "rs1multi:8fb45721db8bedcf30f094b19690739345f8d097",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8fb45721db8bedcf30f094b19690739345f8d097/",
-    "usedAt": 1787059625619,
-    "usedAtIso": "2026-08-18T13:27:05.619Z"
+  "source:f12a5940555735ced0ac193e4493062686122edf": {
+    "url": "https://agorars.com/rs/metropolitana/preso-suspeito-atear-fogo-homem-situacao-rua-alvorada",
+    "title": "Homem é preso em Alvorada suspeito de atear fogo em morador de rua",
+    "guid": "rs1multi:b2189bc5589a3663ce1e5c9e75538d2e8a9d221c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b2189bc5589a3663ce1e5c9e75538d2e8a9d221c/",
+    "usedAt": 1787066825856,
+    "usedAtIso": "2026-08-18T15:27:05.856Z"
   }
 }
