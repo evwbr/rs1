@@ -1,4 +1,12 @@
 {
+  "source:af9761b512a64daadd03eb13c79c05dfb039a148": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-calor-no-norte-e-risco-de-chuva-volumosa-no-sul-nesta-terca",
+    "title": "Sul do Rio Grande do Sul enfrenta risco de temporais e cheias enquanto Norte registra calor intenso",
+    "guid": "rs1multi:ff51b79cc420b6f53140b882b2f87d565de8691d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ff51b79cc420b6f53140b882b2f87d565de8691d/",
+    "usedAt": 1787016425884,
+    "usedAtIso": "2026-08-18T01:27:05.884Z"
+  },
   "source:33c418bb46534c106bef46ae816af7839619035e": {
     "url": "https://agorars.com/rs/serra/homem-e-condenado-a-13-anos-por-adulterar-leite-com-ureia-no-rs",
     "title": "Homem é condenado por adulteração de leite com substâncias químicas no Rio Grande do Sul",
@@ -3399,12 +3407,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:af9761b512a64daadd03eb13c79c05dfb039a148": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-calor-no-norte-e-risco-de-chuva-volumosa-no-sul-nesta-terca",
-    "title": "Sul do Rio Grande do Sul enfrenta risco de temporais e cheias enquanto Norte registra calor intenso",
-    "guid": "rs1multi:ff51b79cc420b6f53140b882b2f87d565de8691d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ff51b79cc420b6f53140b882b2f87d565de8691d/",
-    "usedAt": 1787016425884,
-    "usedAtIso": "2026-08-18T01:27:05.884Z"
+  "source:97697b6276abd5912f905351d90fb126814c3d6f": {
+    "url": "https://agorars.com/rs/sul-do-rs/jaguarao-desabrigados-alerta-inundacao-rio-chuva-rs",
+    "title": "Defesa Civil emite alerta vermelho para risco de inundação em Jaguarão após fortes chuvas",
+    "guid": "rs1multi:8fb45721db8bedcf30f094b19690739345f8d097",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8fb45721db8bedcf30f094b19690739345f8d097/",
+    "usedAt": 1787059625619,
+    "usedAtIso": "2026-08-18T13:27:05.619Z"
   }
 }
