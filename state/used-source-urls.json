@@ -1,4 +1,12 @@
 {
+  "source:33c418bb46534c106bef46ae816af7839619035e": {
+    "url": "https://agorars.com/rs/serra/homem-e-condenado-a-13-anos-por-adulterar-leite-com-ureia-no-rs",
+    "title": "Homem é condenado por adulteração de leite com substâncias químicas no Rio Grande do Sul",
+    "guid": "rs1multi:570d556ca188632ce36d94f773e20e67c4c4498c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_570d556ca188632ce36d94f773e20e67c4c4498c/",
+    "usedAt": 1787009225875,
+    "usedAtIso": "2026-08-17T23:27:05.875Z"
+  },
   "source:993803fd831c935f28fb5ec7f0ace96ac20951a2": {
     "url": "https://agorars.com/rs/vales/sinos/duas-novas-bacias-serao-construidas-em-novo-hamburgo-para-reduzir-cheias",
     "title": "Novo Hamburgo planeja construção de duas bacias para reduzir risco de cheias nos bairros Operário e Guarani",
@@ -3391,12 +3399,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:33c418bb46534c106bef46ae816af7839619035e": {
-    "url": "https://agorars.com/rs/serra/homem-e-condenado-a-13-anos-por-adulterar-leite-com-ureia-no-rs",
-    "title": "Homem é condenado por adulteração de leite com substâncias químicas no Rio Grande do Sul",
-    "guid": "rs1multi:570d556ca188632ce36d94f773e20e67c4c4498c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_570d556ca188632ce36d94f773e20e67c4c4498c/",
-    "usedAt": 1787009225875,
-    "usedAtIso": "2026-08-17T23:27:05.875Z"
+  "source:af9761b512a64daadd03eb13c79c05dfb039a148": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-calor-no-norte-e-risco-de-chuva-volumosa-no-sul-nesta-terca",
+    "title": "Sul do Rio Grande do Sul enfrenta risco de temporais e cheias enquanto Norte registra calor intenso",
+    "guid": "rs1multi:ff51b79cc420b6f53140b882b2f87d565de8691d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ff51b79cc420b6f53140b882b2f87d565de8691d/",
+    "usedAt": 1787016425884,
+    "usedAtIso": "2026-08-18T01:27:05.884Z"
   }
 }
