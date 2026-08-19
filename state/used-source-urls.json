@@ -1,4 +1,12 @@
 {
+  "source:a71b8e6a9601f90398eb393d7b8a06838c5d3c8a": {
+    "url": "https://agorars.com/brasil-e-mundo/gloria-menezes-morre-91-anos-pelotas",
+    "title": "Atriz Glória Menezes, natural de Pelotas, morre aos 91 anos no Rio de Janeiro",
+    "guid": "rs1multi:72cc4a5a203457b98ff344f929911eb193f84090",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_72cc4a5a203457b98ff344f929911eb193f84090/",
+    "usedAt": 1787088425482,
+    "usedAtIso": "2026-08-18T21:27:05.482Z"
+  },
   "source:f12a5940555735ced0ac193e4493062686122edf": {
     "url": "https://agorars.com/rs/metropolitana/preso-suspeito-atear-fogo-homem-situacao-rua-alvorada",
     "title": "Homem é preso em Alvorada suspeito de atear fogo em morador de rua",
@@ -3423,12 +3431,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:a71b8e6a9601f90398eb393d7b8a06838c5d3c8a": {
-    "url": "https://agorars.com/brasil-e-mundo/gloria-menezes-morre-91-anos-pelotas",
-    "title": "Atriz Glória Menezes, natural de Pelotas, morre aos 91 anos no Rio de Janeiro",
-    "guid": "rs1multi:72cc4a5a203457b98ff344f929911eb193f84090",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_72cc4a5a203457b98ff344f929911eb193f84090/",
-    "usedAt": 1787088425482,
-    "usedAtIso": "2026-08-18T21:27:05.482Z"
+  "source:b99d184b423942dcc5e0936cb2d5b831759c552d": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-temporais-no-oeste-e-norte-e-chuva-forte-no-sul-nesta-quarta",
+    "title": "Chuva moderada a forte atinge a metade sul do Rio Grande do Sul com temperaturas em queda",
+    "guid": "rs1multi:e1d3d8c0ad1ff3566cd85490afe318123618f034",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e1d3d8c0ad1ff3566cd85490afe318123618f034/",
+    "usedAt": 1787102825373,
+    "usedAtIso": "2026-08-19T01:27:05.373Z"
+  },
+  "source:b17e3ee86818b6517bc7430f1bde9a9c5b47be24": {
+    "url": "https://agorars.com/rs/campanha/rio-santa-maria-cota-inundacao-dom-pedrito",
+    "title": "Rio Santa Maria em Dom Pedrito atinge 10,75 metros e mantém alerta de inundação",
+    "guid": "rs1multi:2f2efc2fdcf4bf5c3bcdabafb158b8291371bcde",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2f2efc2fdcf4bf5c3bcdabafb158b8291371bcde/",
+    "usedAt": 1787102825373,
+    "usedAtIso": "2026-08-19T01:27:05.373Z"
   }
 }
