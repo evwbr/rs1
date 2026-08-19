@@ -1,4 +1,20 @@
 {
+  "source:b99d184b423942dcc5e0936cb2d5b831759c552d": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-temporais-no-oeste-e-norte-e-chuva-forte-no-sul-nesta-quarta",
+    "title": "Chuva moderada a forte atinge a metade sul do Rio Grande do Sul com temperaturas em queda",
+    "guid": "rs1multi:e1d3d8c0ad1ff3566cd85490afe318123618f034",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e1d3d8c0ad1ff3566cd85490afe318123618f034/",
+    "usedAt": 1787102825373,
+    "usedAtIso": "2026-08-19T01:27:05.373Z"
+  },
+  "source:b17e3ee86818b6517bc7430f1bde9a9c5b47be24": {
+    "url": "https://agorars.com/rs/campanha/rio-santa-maria-cota-inundacao-dom-pedrito",
+    "title": "Rio Santa Maria em Dom Pedrito atinge 10,75 metros e mantém alerta de inundação",
+    "guid": "rs1multi:2f2efc2fdcf4bf5c3bcdabafb158b8291371bcde",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2f2efc2fdcf4bf5c3bcdabafb158b8291371bcde/",
+    "usedAt": 1787102825373,
+    "usedAtIso": "2026-08-19T01:27:05.373Z"
+  },
   "source:a71b8e6a9601f90398eb393d7b8a06838c5d3c8a": {
     "url": "https://agorars.com/brasil-e-mundo/gloria-menezes-morre-91-anos-pelotas",
     "title": "Atriz Glória Menezes, natural de Pelotas, morre aos 91 anos no Rio de Janeiro",
@@ -3431,20 +3447,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:b99d184b423942dcc5e0936cb2d5b831759c552d": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-temporais-no-oeste-e-norte-e-chuva-forte-no-sul-nesta-quarta",
-    "title": "Chuva moderada a forte atinge a metade sul do Rio Grande do Sul com temperaturas em queda",
-    "guid": "rs1multi:e1d3d8c0ad1ff3566cd85490afe318123618f034",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e1d3d8c0ad1ff3566cd85490afe318123618f034/",
-    "usedAt": 1787102825373,
-    "usedAtIso": "2026-08-19T01:27:05.373Z"
-  },
-  "source:b17e3ee86818b6517bc7430f1bde9a9c5b47be24": {
-    "url": "https://agorars.com/rs/campanha/rio-santa-maria-cota-inundacao-dom-pedrito",
-    "title": "Rio Santa Maria em Dom Pedrito atinge 10,75 metros e mantém alerta de inundação",
-    "guid": "rs1multi:2f2efc2fdcf4bf5c3bcdabafb158b8291371bcde",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2f2efc2fdcf4bf5c3bcdabafb158b8291371bcde/",
-    "usedAt": 1787102825373,
-    "usedAtIso": "2026-08-19T01:27:05.373Z"
+  "source:7d56d8615986fd90f0c2cb98b4e23cf259537fa7": {
+    "url": "https://agorars.com/rs/sul-do-rs/pelotas-luto-oficial-gloria-menezes",
+    "title": "Prefeito de Pelotas assina decreto em homenagem à atriz Glória Menezes",
+    "guid": "rs1multi:a2aeb47df10e0f4819ad7a35d2f781cb91a3ac76",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a2aeb47df10e0f4819ad7a35d2f781cb91a3ac76/",
+    "usedAt": 1787110025544,
+    "usedAtIso": "2026-08-19T03:27:05.544Z"
   }
 }
