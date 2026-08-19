@@ -1,4 +1,12 @@
 {
+  "source:7d56d8615986fd90f0c2cb98b4e23cf259537fa7": {
+    "url": "https://agorars.com/rs/sul-do-rs/pelotas-luto-oficial-gloria-menezes",
+    "title": "Prefeito de Pelotas assina decreto em homenagem à atriz Glória Menezes",
+    "guid": "rs1multi:a2aeb47df10e0f4819ad7a35d2f781cb91a3ac76",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a2aeb47df10e0f4819ad7a35d2f781cb91a3ac76/",
+    "usedAt": 1787110025544,
+    "usedAtIso": "2026-08-19T03:27:05.544Z"
+  },
   "source:b99d184b423942dcc5e0936cb2d5b831759c552d": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-temporais-no-oeste-e-norte-e-chuva-forte-no-sul-nesta-quarta",
     "title": "Chuva moderada a forte atinge a metade sul do Rio Grande do Sul com temperaturas em queda",
@@ -3447,12 +3455,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7d56d8615986fd90f0c2cb98b4e23cf259537fa7": {
-    "url": "https://agorars.com/rs/sul-do-rs/pelotas-luto-oficial-gloria-menezes",
-    "title": "Prefeito de Pelotas assina decreto em homenagem à atriz Glória Menezes",
-    "guid": "rs1multi:a2aeb47df10e0f4819ad7a35d2f781cb91a3ac76",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a2aeb47df10e0f4819ad7a35d2f781cb91a3ac76/",
-    "usedAt": 1787110025544,
-    "usedAtIso": "2026-08-19T03:27:05.544Z"
+  "source:6fcef162aefaa9bbc2a2f272e07f67f611e33103": {
+    "url": "https://agorars.com/agora-no-transito/acidente-br-373-micro-onibus-carreta-23-mortos-parana",
+    "title": "Acidente entre caminhão e micro-ônibus deixa 23 vítimas e interdita rodovia no Paraná",
+    "guid": "rs1multi:10a6dba772780a8d635f3148eaede12ba25edfaf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_10a6dba772780a8d635f3148eaede12ba25edfaf/",
+    "usedAt": 1787146025662,
+    "usedAtIso": "2026-08-19T13:27:05.662Z"
   }
 }
