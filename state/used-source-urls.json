@@ -1,4 +1,12 @@
 {
+  "source:6fcef162aefaa9bbc2a2f272e07f67f611e33103": {
+    "url": "https://agorars.com/agora-no-transito/acidente-br-373-micro-onibus-carreta-23-mortos-parana",
+    "title": "Acidente entre caminhão e micro-ônibus deixa 23 vítimas e interdita rodovia no Paraná",
+    "guid": "rs1multi:10a6dba772780a8d635f3148eaede12ba25edfaf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_10a6dba772780a8d635f3148eaede12ba25edfaf/",
+    "usedAt": 1787146025662,
+    "usedAtIso": "2026-08-19T13:27:05.662Z"
+  },
   "source:7d56d8615986fd90f0c2cb98b4e23cf259537fa7": {
     "url": "https://agorars.com/rs/sul-do-rs/pelotas-luto-oficial-gloria-menezes",
     "title": "Prefeito de Pelotas assina decreto em homenagem à atriz Glória Menezes",
@@ -3455,12 +3463,28 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:6fcef162aefaa9bbc2a2f272e07f67f611e33103": {
-    "url": "https://agorars.com/agora-no-transito/acidente-br-373-micro-onibus-carreta-23-mortos-parana",
-    "title": "Acidente entre caminhão e micro-ônibus deixa 23 vítimas e interdita rodovia no Paraná",
-    "guid": "rs1multi:10a6dba772780a8d635f3148eaede12ba25edfaf",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_10a6dba772780a8d635f3148eaede12ba25edfaf/",
-    "usedAt": 1787146025662,
-    "usedAtIso": "2026-08-19T13:27:05.662Z"
+  "source:3aebedb5d64d08e116ea111fb137de32b0b5913d": {
+    "url": "https://agorars.com/agora-no-tempo/chuvas-rs-174-pessoas-fora-casa-jaguarao-inundacao",
+    "title": "Chuvas intensas deixam desalojados e causam danos em municípios do Rio Grande do Sul",
+    "guid": "rs1multi:f97e985168b1307c489de417b22d6b04be05b7b8",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f97e985168b1307c489de417b22d6b04be05b7b8/",
+    "usedAt": 1787153225529,
+    "usedAtIso": "2026-08-19T15:27:05.529Z"
+  },
+  "source:6a17126925b45370647a8358dc99c467d79be766": {
+    "url": "https://agorars.com/agora-no-tempo/porto-alegre-aviso-vendaval-rajadas-80-kmh-quinta-sexta",
+    "title": "Defesa Civil de Porto Alegre emite alerta para vendaval com rajadas de até 80 km/h",
+    "guid": "rs1multi:f34e23c7703516c1ce8628cb474eb688d516762d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f34e23c7703516c1ce8628cb474eb688d516762d/",
+    "usedAt": 1787153225529,
+    "usedAtIso": "2026-08-19T15:27:05.529Z"
+  },
+  "source:eb3640ed55da8dfaf5c13bf3c94e0caaab9d30d3": {
+    "url": "https://agorars.com/agora-no-tempo/alertas-tempestades-rs-granizo-vento-100-kmh-inmet",
+    "title": "Instituto Nacional de Meteorologia emite alerta laranja de tempestade para áreas do Rio Grande do Sul",
+    "guid": "rs1multi:169ead77fc71f14b879b79dd432119928519cff0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_169ead77fc71f14b879b79dd432119928519cff0/",
+    "usedAt": 1787153225529,
+    "usedAtIso": "2026-08-19T15:27:05.529Z"
   }
 }
