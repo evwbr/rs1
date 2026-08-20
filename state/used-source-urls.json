@@ -1,4 +1,12 @@
 {
+  "source:ffbc505fad711e198f4f2b383e686d6c668324b4": {
+    "url": "https://agorars.com/rs/porto-alegre/peixaria-e-interditada-por-irregularidades-no-mercado-publico-de-porto-alegre",
+    "title": "Peixaria é interditada por irregularidades no Mercado Público de Porto Alegre",
+    "guid": "rs1multi:8286110ceed0c7b8bc0ff9966b662dc8efbe3f5d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8286110ceed0c7b8bc0ff9966b662dc8efbe3f5d/",
+    "usedAt": 1787254025660,
+    "usedAtIso": "2026-08-20T19:27:05.660Z"
+  },
   "source:dad49fbbfd1889e8c5fb53fd148c55525b15316f": {
     "url": "https://agorars.com/agora-no-transito/idoso-morre-acidente-ers-474-osorio",
     "title": "Idoso morre em acidente na ERS-474, em Osório",
@@ -3535,12 +3543,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:ffbc505fad711e198f4f2b383e686d6c668324b4": {
-    "url": "https://agorars.com/rs/porto-alegre/peixaria-e-interditada-por-irregularidades-no-mercado-publico-de-porto-alegre",
-    "title": "Peixaria é interditada por irregularidades no Mercado Público de Porto Alegre",
-    "guid": "rs1multi:8286110ceed0c7b8bc0ff9966b662dc8efbe3f5d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8286110ceed0c7b8bc0ff9966b662dc8efbe3f5d/",
-    "usedAt": 1787254025660,
-    "usedAtIso": "2026-08-20T19:27:05.660Z"
+  "source:7cd1a236eaf54f7b81ab3ae85236e5a77729889a": {
+    "url": "https://agorars.com/plantao-rs/justica-decreta-prisao-preventiva-de-investigado-por-morte-de-menina-de-4-anos-em-porto-alegre",
+    "title": "Justiça decreta prisão preventiva de investigado por morte de menina de 4 anos em Porto Alegre",
+    "guid": "rs1multi:eb9cb38ac67911ffbfb841f8f407a7cb49cdb0e6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_eb9cb38ac67911ffbfb841f8f407a7cb49cdb0e6/",
+    "usedAt": 1787261225408,
+    "usedAtIso": "2026-08-20T21:27:05.408Z"
   }
 }
