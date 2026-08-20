@@ -1,4 +1,12 @@
 {
+  "source:dad49fbbfd1889e8c5fb53fd148c55525b15316f": {
+    "url": "https://agorars.com/agora-no-transito/idoso-morre-acidente-ers-474-osorio",
+    "title": "Idoso morre em acidente na ERS-474, em Osório",
+    "guid": "rs1multi:e8f3404fa6bfdff5c79e0bfc4e2f59cbccf29dcc",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e8f3404fa6bfdff5c79e0bfc4e2f59cbccf29dcc/",
+    "usedAt": 1787246825699,
+    "usedAtIso": "2026-08-20T17:27:05.699Z"
+  },
   "source:d40419bed77e2e6e38892cca7cbeb34c3aea928f": {
     "url": "https://agorars.com/agora-no-tempo/ciclone-temporais-rs-queda-temperaturas-frio",
     "title": "RS terá queda nas temperaturas após passagem de frente fria e ciclone",
@@ -3527,12 +3535,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:dad49fbbfd1889e8c5fb53fd148c55525b15316f": {
-    "url": "https://agorars.com/agora-no-transito/idoso-morre-acidente-ers-474-osorio",
-    "title": "Idoso morre em acidente na ERS-474, em Osório",
-    "guid": "rs1multi:e8f3404fa6bfdff5c79e0bfc4e2f59cbccf29dcc",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e8f3404fa6bfdff5c79e0bfc4e2f59cbccf29dcc/",
-    "usedAt": 1787246825699,
-    "usedAtIso": "2026-08-20T17:27:05.699Z"
+  "source:ffbc505fad711e198f4f2b383e686d6c668324b4": {
+    "url": "https://agorars.com/rs/porto-alegre/peixaria-e-interditada-por-irregularidades-no-mercado-publico-de-porto-alegre",
+    "title": "Peixaria é interditada por irregularidades no Mercado Público de Porto Alegre",
+    "guid": "rs1multi:8286110ceed0c7b8bc0ff9966b662dc8efbe3f5d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8286110ceed0c7b8bc0ff9966b662dc8efbe3f5d/",
+    "usedAt": 1787254025660,
+    "usedAtIso": "2026-08-20T19:27:05.660Z"
   }
 }
