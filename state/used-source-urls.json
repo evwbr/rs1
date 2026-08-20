@@ -1,4 +1,12 @@
 {
+  "source:d40419bed77e2e6e38892cca7cbeb34c3aea928f": {
+    "url": "https://agorars.com/agora-no-tempo/ciclone-temporais-rs-queda-temperaturas-frio",
+    "title": "RS terá queda nas temperaturas após passagem de frente fria e ciclone",
+    "guid": "rs1multi:68225baad1d1b7a635cf1e143b9089fec7fda137",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_68225baad1d1b7a635cf1e143b9089fec7fda137/",
+    "usedAt": 1787232426467,
+    "usedAtIso": "2026-08-20T13:27:06.467Z"
+  },
   "source:b35437580efd92f7a557717dd1e579ea104ed3b5": {
     "url": "https://agorars.com/agora-no-transito/expointer-2026-deve-reunir-mais-de-79-mil-animais-em-esteio",
     "title": "Expointer 2026 em Esteio terá quase 8 mil animais e 202 expositores de artesanato",
@@ -3519,12 +3527,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:d40419bed77e2e6e38892cca7cbeb34c3aea928f": {
-    "url": "https://agorars.com/agora-no-tempo/ciclone-temporais-rs-queda-temperaturas-frio",
-    "title": "RS terá queda nas temperaturas após passagem de frente fria e ciclone",
-    "guid": "rs1multi:68225baad1d1b7a635cf1e143b9089fec7fda137",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_68225baad1d1b7a635cf1e143b9089fec7fda137/",
-    "usedAt": 1787232426467,
-    "usedAtIso": "2026-08-20T13:27:06.467Z"
+  "source:dad49fbbfd1889e8c5fb53fd148c55525b15316f": {
+    "url": "https://agorars.com/agora-no-transito/idoso-morre-acidente-ers-474-osorio",
+    "title": "Idoso morre em acidente na ERS-474, em Osório",
+    "guid": "rs1multi:e8f3404fa6bfdff5c79e0bfc4e2f59cbccf29dcc",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e8f3404fa6bfdff5c79e0bfc4e2f59cbccf29dcc/",
+    "usedAt": 1787246825699,
+    "usedAtIso": "2026-08-20T17:27:05.699Z"
   }
 }
