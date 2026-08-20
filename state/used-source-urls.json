@@ -1,4 +1,12 @@
 {
+  "source:4beee81b0c7c65e47175080b0198a7402aea6367": {
+    "url": "https://agorars.com/brasil-e-mundo/stf-amplia-medidas-da-lei-maria-da-penha-para-violencia-de-genero-fora-de-relacoes-domesticas",
+    "title": "STF amplia proteção da Lei Maria da Penha para casos de violência de gênero em diversos contextos",
+    "guid": "rs1multi:a1b90d58ccb1a13fc694977c538dd5dbb9100845",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a1b90d58ccb1a13fc694977c538dd5dbb9100845/",
+    "usedAt": 1787182025566,
+    "usedAtIso": "2026-08-19T23:27:05.566Z"
+  },
   "source:3aebedb5d64d08e116ea111fb137de32b0b5913d": {
     "url": "https://agorars.com/agora-no-tempo/chuvas-rs-174-pessoas-fora-casa-jaguarao-inundacao",
     "title": "Chuvas intensas deixam desalojados e causam danos em municípios do Rio Grande do Sul",
@@ -3487,12 +3495,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:4beee81b0c7c65e47175080b0198a7402aea6367": {
-    "url": "https://agorars.com/brasil-e-mundo/stf-amplia-medidas-da-lei-maria-da-penha-para-violencia-de-genero-fora-de-relacoes-domesticas",
-    "title": "STF amplia proteção da Lei Maria da Penha para casos de violência de gênero em diversos contextos",
-    "guid": "rs1multi:a1b90d58ccb1a13fc694977c538dd5dbb9100845",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a1b90d58ccb1a13fc694977c538dd5dbb9100845/",
-    "usedAt": 1787182025566,
-    "usedAtIso": "2026-08-19T23:27:05.566Z"
+  "source:e6e15f2615d3108d244a74e560b5a4da1dc5c533": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tem-previsao-de-temporais-granizo-e-chuva-forte-nesta-quinta-feira",
+    "title": "Rio Grande do Sul enfrenta temporais isolados com risco de granizo e chuva forte nesta quinta-feira",
+    "guid": "rs1multi:999243d10f1b22a12184ebbd08258fe8ea82a428",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_999243d10f1b22a12184ebbd08258fe8ea82a428/",
+    "usedAt": 1787189225228,
+    "usedAtIso": "2026-08-20T01:27:05.228Z"
+  },
+  "source:79e0aa5c9efc2082e48bd7d8de9f0311c9df07d0": {
+    "url": "https://agorars.com/cultura/criticas-de-cinema/coyote-vs-acme-o-filme-que-finalmente-vera-a-luz-do-dia",
+    "title": "Filme \"Coyote vs. Acme\" traz mistura inédita entre animação e live action e estreia no Brasil",
+    "guid": "rs1multi:be0963789022bbfac445a36146e02fc16b21a8de",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_be0963789022bbfac445a36146e02fc16b21a8de/",
+    "usedAt": 1787189225228,
+    "usedAtIso": "2026-08-20T01:27:05.228Z"
   }
 }
