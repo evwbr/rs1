@@ -1,4 +1,20 @@
 {
+  "source:515de94a7eea9b9712a4f16f7416cd76feaa7ae5": {
+    "url": "https://agorars.com/brasil-e-mundo/governo-supercomputador-ia-r-1-bilhao-rio-grande-norte",
+    "title": "RN vai abrigar supercomputador brasileiro de Inteligência Artificial",
+    "guid": "rs1multi:2b05113e2b7543f749bac218fe800c832041fd5c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2b05113e2b7543f749bac218fe800c832041fd5c/",
+    "usedAt": 1787326025517,
+    "usedAtIso": "2026-08-21T15:27:05.517Z"
+  },
+  "source:9598885ab954e0081a0d395e834007b59dbe7449": {
+    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-queda-temperatura-rs-sabado-frio-geada",
+    "title": "Inmet tem alerta laranja para declínio das temperaturas no sábado (22)",
+    "guid": "rs1multi:aa2ae5ff8042d9282f6fcf08183a622bbb6ecddb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aa2ae5ff8042d9282f6fcf08183a622bbb6ecddb/",
+    "usedAt": 1787326025517,
+    "usedAtIso": "2026-08-21T15:27:05.517Z"
+  },
   "source:de5712e11198d971048860046c59cb459d70f19c": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-chuva-fraca-vento-forte-e-frio-nesta-sexta-feira",
     "title": "RS terá chuva fraca, vento forte e frio nesta sexta-feira",
@@ -3567,20 +3583,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:515de94a7eea9b9712a4f16f7416cd76feaa7ae5": {
-    "url": "https://agorars.com/brasil-e-mundo/governo-supercomputador-ia-r-1-bilhao-rio-grande-norte",
-    "title": "RN vai abrigar supercomputador brasileiro de Inteligência Artificial",
-    "guid": "rs1multi:2b05113e2b7543f749bac218fe800c832041fd5c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_2b05113e2b7543f749bac218fe800c832041fd5c/",
-    "usedAt": 1787326025517,
-    "usedAtIso": "2026-08-21T15:27:05.517Z"
+  "source:75dbb75634cead54deb01a9f2de4f3c195cef952": {
+    "url": "https://agorars.com/agora-no-transito/pedagios-da-viasul-sobem-na-segunda-feira-veja-novos-valores",
+    "title": "Pedágios da ViaSul sobem na segunda-feira; veja novos valores",
+    "guid": "rs1multi:3a1ad6b01ee53b2b8df366033e2d37273be72961",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_3a1ad6b01ee53b2b8df366033e2d37273be72961/",
+    "usedAt": 1787340425469,
+    "usedAtIso": "2026-08-21T19:27:05.469Z"
   },
-  "source:9598885ab954e0081a0d395e834007b59dbe7449": {
-    "url": "https://agorars.com/agora-no-tempo/inmet-alerta-queda-temperatura-rs-sabado-frio-geada",
-    "title": "Inmet tem alerta laranja para declínio das temperaturas no sábado (22)",
-    "guid": "rs1multi:aa2ae5ff8042d9282f6fcf08183a622bbb6ecddb",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_aa2ae5ff8042d9282f6fcf08183a622bbb6ecddb/",
-    "usedAt": 1787326025517,
-    "usedAtIso": "2026-08-21T15:27:05.517Z"
+  "source:631cb665d20183a804e5204a182c358d374c7246": {
+    "url": "https://agorars.com/rs/vestibular-ufrgs-2027-abre-inscricoes-na-segunda-feira",
+    "title": "Vestibular UFRGS 2027 abre inscrições na segunda-feira",
+    "guid": "rs1multi:78112e7a34bf7cdc6258e1151fb8074caa7262b5",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_78112e7a34bf7cdc6258e1151fb8074caa7262b5/",
+    "usedAt": 1787340425469,
+    "usedAtIso": "2026-08-21T19:27:05.469Z"
   }
 }
