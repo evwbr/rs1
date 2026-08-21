@@ -1,4 +1,12 @@
 {
+  "source:7cd1a236eaf54f7b81ab3ae85236e5a77729889a": {
+    "url": "https://agorars.com/plantao-rs/justica-decreta-prisao-preventiva-de-investigado-por-morte-de-menina-de-4-anos-em-porto-alegre",
+    "title": "Justiça decreta prisão preventiva de investigado por morte de menina de 4 anos em Porto Alegre",
+    "guid": "rs1multi:eb9cb38ac67911ffbfb841f8f407a7cb49cdb0e6",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_eb9cb38ac67911ffbfb841f8f407a7cb49cdb0e6/",
+    "usedAt": 1787261225408,
+    "usedAtIso": "2026-08-20T21:27:05.408Z"
+  },
   "source:ffbc505fad711e198f4f2b383e686d6c668324b4": {
     "url": "https://agorars.com/rs/porto-alegre/peixaria-e-interditada-por-irregularidades-no-mercado-publico-de-porto-alegre",
     "title": "Peixaria é interditada por irregularidades no Mercado Público de Porto Alegre",
@@ -3543,12 +3551,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:7cd1a236eaf54f7b81ab3ae85236e5a77729889a": {
-    "url": "https://agorars.com/plantao-rs/justica-decreta-prisao-preventiva-de-investigado-por-morte-de-menina-de-4-anos-em-porto-alegre",
-    "title": "Justiça decreta prisão preventiva de investigado por morte de menina de 4 anos em Porto Alegre",
-    "guid": "rs1multi:eb9cb38ac67911ffbfb841f8f407a7cb49cdb0e6",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_eb9cb38ac67911ffbfb841f8f407a7cb49cdb0e6/",
-    "usedAt": 1787261225408,
-    "usedAtIso": "2026-08-20T21:27:05.408Z"
+  "source:de5712e11198d971048860046c59cb459d70f19c": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-chuva-fraca-vento-forte-e-frio-nesta-sexta-feira",
+    "title": "RS terá chuva fraca, vento forte e frio nesta sexta-feira",
+    "guid": "rs1multi:e1a48d4268b16715152b03548672dae7a776faef",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e1a48d4268b16715152b03548672dae7a776faef/",
+    "usedAt": 1787275626033,
+    "usedAtIso": "2026-08-21T01:27:06.033Z"
+  },
+  "source:d0b182e8efb1f7b013b187ec937913af4a7f6555": {
+    "url": "https://agorars.com/agora-no-tempo/rs-danos-municipios-desalojados-jaguarao",
+    "title": "RS tem danos em 12 municípios e 172 desalojados em Jaguarão",
+    "guid": "rs1multi:5227358001924790e70a616d95e474e3a2195ce8",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5227358001924790e70a616d95e474e3a2195ce8/",
+    "usedAt": 1787275626033,
+    "usedAtIso": "2026-08-21T01:27:06.033Z"
   }
 }
