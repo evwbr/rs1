@@ -1,4 +1,12 @@
 {
+  "source:1bf1b5f5b21dab9d2eeeff35f8e94798d8fea089": {
+    "url": "https://agorars.com/sua-saude/caxias-57-medicos-nomeados-26-assumiram-cargos",
+    "title": "Dos 57 médicos nomeados em Caxias do Sul, 26 assumiram os cargos",
+    "guid": "rs1multi:b1b1cf31170b57dca53247dee824054024f1c305",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b1b1cf31170b57dca53247dee824054024f1c305/",
+    "usedAt": 1787426825679,
+    "usedAtIso": "2026-08-22T19:27:05.679Z"
+  },
   "source:2aa492b5b0f1f2bb4276cc2813cc3620ecf4d55a": {
     "url": "https://agorars.com/agora-no-tempo/rs-tem-areas-em-alerta-para-frio-intenso-entre-sabado-e-terca-feira",
     "title": "RS tem áreas em alerta para frio intenso entre sábado e terça-feira",
@@ -3615,12 +3623,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:1bf1b5f5b21dab9d2eeeff35f8e94798d8fea089": {
-    "url": "https://agorars.com/sua-saude/caxias-57-medicos-nomeados-26-assumiram-cargos",
-    "title": "Dos 57 médicos nomeados em Caxias do Sul, 26 assumiram os cargos",
-    "guid": "rs1multi:b1b1cf31170b57dca53247dee824054024f1c305",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b1b1cf31170b57dca53247dee824054024f1c305/",
-    "usedAt": 1787426825679,
-    "usedAtIso": "2026-08-22T19:27:05.679Z"
+  "source:fce72da9d26a1204fadc47ffa64edfca75df1821": {
+    "url": "https://agorars.com/rs/porto-alegre/furto-fios-abastecimento-vila-nova-belem-velho",
+    "title": "Furto de fios afeta abastecimento nos bairros Vila Nova e Belém Velho",
+    "guid": "rs1multi:6d399cf17585bb1ef1412738600afd66246c3418",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6d399cf17585bb1ef1412738600afd66246c3418/",
+    "usedAt": 1787434025717,
+    "usedAtIso": "2026-08-22T21:27:05.717Z"
   }
 }
