@@ -1,4 +1,12 @@
 {
+  "source:6f590db9e1d97ae9a860441428a9862459086e85": {
+    "url": "https://agorars.com/rs/norte/motorista-morre-em-colisao-frontal-na-ers-324-em-ronda-alta",
+    "title": "Motorista morre em colisão frontal na ERS-324, em Ronda Alta",
+    "guid": "rs1multi:4c8b2f460c56ff0f90f99c024719aaf04d59f56a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4c8b2f460c56ff0f90f99c024719aaf04d59f56a/",
+    "usedAt": 1787448425324,
+    "usedAtIso": "2026-08-23T01:27:05.324Z"
+  },
   "source:fce72da9d26a1204fadc47ffa64edfca75df1821": {
     "url": "https://agorars.com/rs/porto-alegre/furto-fios-abastecimento-vila-nova-belem-velho",
     "title": "Furto de fios afeta abastecimento nos bairros Vila Nova e Belém Velho",
@@ -3631,12 +3639,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:6f590db9e1d97ae9a860441428a9862459086e85": {
-    "url": "https://agorars.com/rs/norte/motorista-morre-em-colisao-frontal-na-ers-324-em-ronda-alta",
-    "title": "Motorista morre em colisão frontal na ERS-324, em Ronda Alta",
-    "guid": "rs1multi:4c8b2f460c56ff0f90f99c024719aaf04d59f56a",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4c8b2f460c56ff0f90f99c024719aaf04d59f56a/",
-    "usedAt": 1787448425324,
-    "usedAtIso": "2026-08-23T01:27:05.324Z"
+  "source:958604e8927aa76394690da265fc51ec126a18c9": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-domingo-frio-geada-23-agosto",
+    "title": "RS pode ter mínimas negativas e geada generalizada neste domingo",
+    "guid": "rs1multi:0c0404212c8a2c114477a814bb726c02cedb876c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0c0404212c8a2c114477a814bb726c02cedb876c/",
+    "usedAt": 1787455626033,
+    "usedAtIso": "2026-08-23T03:27:06.033Z"
   }
 }
