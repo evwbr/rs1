@@ -1,4 +1,12 @@
 {
+  "source:fce72da9d26a1204fadc47ffa64edfca75df1821": {
+    "url": "https://agorars.com/rs/porto-alegre/furto-fios-abastecimento-vila-nova-belem-velho",
+    "title": "Furto de fios afeta abastecimento nos bairros Vila Nova e Belém Velho",
+    "guid": "rs1multi:6d399cf17585bb1ef1412738600afd66246c3418",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6d399cf17585bb1ef1412738600afd66246c3418/",
+    "usedAt": 1787434025717,
+    "usedAtIso": "2026-08-22T21:27:05.717Z"
+  },
   "source:1bf1b5f5b21dab9d2eeeff35f8e94798d8fea089": {
     "url": "https://agorars.com/sua-saude/caxias-57-medicos-nomeados-26-assumiram-cargos",
     "title": "Dos 57 médicos nomeados em Caxias do Sul, 26 assumiram os cargos",
@@ -3623,12 +3631,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:fce72da9d26a1204fadc47ffa64edfca75df1821": {
-    "url": "https://agorars.com/rs/porto-alegre/furto-fios-abastecimento-vila-nova-belem-velho",
-    "title": "Furto de fios afeta abastecimento nos bairros Vila Nova e Belém Velho",
-    "guid": "rs1multi:6d399cf17585bb1ef1412738600afd66246c3418",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_6d399cf17585bb1ef1412738600afd66246c3418/",
-    "usedAt": 1787434025717,
-    "usedAtIso": "2026-08-22T21:27:05.717Z"
+  "source:6f590db9e1d97ae9a860441428a9862459086e85": {
+    "url": "https://agorars.com/rs/norte/motorista-morre-em-colisao-frontal-na-ers-324-em-ronda-alta",
+    "title": "Motorista morre em colisão frontal na ERS-324, em Ronda Alta",
+    "guid": "rs1multi:4c8b2f460c56ff0f90f99c024719aaf04d59f56a",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4c8b2f460c56ff0f90f99c024719aaf04d59f56a/",
+    "usedAt": 1787448425324,
+    "usedAtIso": "2026-08-23T01:27:05.324Z"
   }
 }
