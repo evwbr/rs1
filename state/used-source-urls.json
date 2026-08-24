@@ -1,4 +1,20 @@
 {
+  "source:135919ac1f79627087061758ae22019f08358245": {
+    "url": "https://agorars.com/agora-no-transito/tres-mortos-colisao-ers-332-arvorezinha",
+    "title": "Três pessoas morrem em colisão na ERS-332, em Arvorezinha",
+    "guid": "rs1multi:740e8e5ea5020a3d176856d160d9b5aee08b4188",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_740e8e5ea5020a3d176856d160d9b5aee08b4188/",
+    "usedAt": 1787520425327,
+    "usedAtIso": "2026-08-23T21:27:05.327Z"
+  },
+  "source:97e735735965530ced4b67c0f8485dcd53a9b8d7": {
+    "url": "https://agorars.com/brasil-e-mundo/simples-nacional-2027-adesao-setembro-prazos",
+    "title": "Simples Nacional 2027: adesão passa a ser feita em setembro",
+    "guid": "rs1multi:a7ba537f7d7c2222a3f421e40a8e903127d3e946",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a7ba537f7d7c2222a3f421e40a8e903127d3e946/",
+    "usedAt": 1787520425327,
+    "usedAtIso": "2026-08-23T21:27:05.327Z"
+  },
   "source:958604e8927aa76394690da265fc51ec126a18c9": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-domingo-frio-geada-23-agosto",
     "title": "RS pode ter mínimas negativas e geada generalizada neste domingo",
@@ -3647,20 +3663,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:135919ac1f79627087061758ae22019f08358245": {
-    "url": "https://agorars.com/agora-no-transito/tres-mortos-colisao-ers-332-arvorezinha",
-    "title": "Três pessoas morrem em colisão na ERS-332, em Arvorezinha",
-    "guid": "rs1multi:740e8e5ea5020a3d176856d160d9b5aee08b4188",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_740e8e5ea5020a3d176856d160d9b5aee08b4188/",
-    "usedAt": 1787520425327,
-    "usedAtIso": "2026-08-23T21:27:05.327Z"
-  },
-  "source:97e735735965530ced4b67c0f8485dcd53a9b8d7": {
-    "url": "https://agorars.com/brasil-e-mundo/simples-nacional-2027-adesao-setembro-prazos",
-    "title": "Simples Nacional 2027: adesão passa a ser feita em setembro",
-    "guid": "rs1multi:a7ba537f7d7c2222a3f421e40a8e903127d3e946",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_a7ba537f7d7c2222a3f421e40a8e903127d3e946/",
-    "usedAt": 1787520425327,
-    "usedAtIso": "2026-08-23T21:27:05.327Z"
+  "source:ed532f3277821871e0e87124ff059b401390d87d": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temperatura-negativa-segunda",
+    "title": "RS pode ter temperatura negativa na madrugada desta segunda-feira",
+    "guid": "rs1multi:7ff4f3c772a671bedace8dccba98a02f483cebf2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7ff4f3c772a671bedace8dccba98a02f483cebf2/",
+    "usedAt": 1787542025420,
+    "usedAtIso": "2026-08-24T03:27:05.420Z"
   }
 }
