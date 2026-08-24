@@ -1,4 +1,12 @@
 {
+  "source:ed532f3277821871e0e87124ff059b401390d87d": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temperatura-negativa-segunda",
+    "title": "RS pode ter temperatura negativa na madrugada desta segunda-feira",
+    "guid": "rs1multi:7ff4f3c772a671bedace8dccba98a02f483cebf2",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7ff4f3c772a671bedace8dccba98a02f483cebf2/",
+    "usedAt": 1787542025420,
+    "usedAtIso": "2026-08-24T03:27:05.420Z"
+  },
   "source:135919ac1f79627087061758ae22019f08358245": {
     "url": "https://agorars.com/agora-no-transito/tres-mortos-colisao-ers-332-arvorezinha",
     "title": "Três pessoas morrem em colisão na ERS-332, em Arvorezinha",
@@ -3663,12 +3671,20 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:ed532f3277821871e0e87124ff059b401390d87d": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temperatura-negativa-segunda",
-    "title": "RS pode ter temperatura negativa na madrugada desta segunda-feira",
-    "guid": "rs1multi:7ff4f3c772a671bedace8dccba98a02f483cebf2",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_7ff4f3c772a671bedace8dccba98a02f483cebf2/",
-    "usedAt": 1787542025420,
-    "usedAtIso": "2026-08-24T03:27:05.420Z"
+  "source:07fd063abf3c323b6ca0294488bfbe2483cf1dba": {
+    "url": "https://agorars.com/agora-no-tempo/rs-registra-temperatura-negativa-de-37c-nesta-segunda-feira-24",
+    "title": "RS registra temperatura negativa de -3,7°C nesta segunda-feira (24)",
+    "guid": "rs1multi:f099624c6634cca76401f8eb51b0b9ae95c270bf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f099624c6634cca76401f8eb51b0b9ae95c270bf/",
+    "usedAt": 1787585225863,
+    "usedAtIso": "2026-08-24T15:27:05.863Z"
+  },
+  "source:8eb3bea5a1640f228b5963f532640d0f885a04b0": {
+    "url": "https://agorars.com/agora-no-transito/motociclista-morre-em-acidente-na-rsc-453-em-westfalia",
+    "title": "Motociclista morre em acidente na RSC-453, em Westfália",
+    "guid": "rs1multi:0c1d3dd267caa5c7cb816ef4c4543a7e67e75718",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0c1d3dd267caa5c7cb816ef4c4543a7e67e75718/",
+    "usedAt": 1787585225863,
+    "usedAtIso": "2026-08-24T15:27:05.863Z"
   }
 }
