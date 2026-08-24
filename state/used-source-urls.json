@@ -1,4 +1,20 @@
 {
+  "source:07fd063abf3c323b6ca0294488bfbe2483cf1dba": {
+    "url": "https://agorars.com/agora-no-tempo/rs-registra-temperatura-negativa-de-37c-nesta-segunda-feira-24",
+    "title": "RS registra temperatura negativa de -3,7°C nesta segunda-feira (24)",
+    "guid": "rs1multi:f099624c6634cca76401f8eb51b0b9ae95c270bf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f099624c6634cca76401f8eb51b0b9ae95c270bf/",
+    "usedAt": 1787585225863,
+    "usedAtIso": "2026-08-24T15:27:05.863Z"
+  },
+  "source:8eb3bea5a1640f228b5963f532640d0f885a04b0": {
+    "url": "https://agorars.com/agora-no-transito/motociclista-morre-em-acidente-na-rsc-453-em-westfalia",
+    "title": "Motociclista morre em acidente na RSC-453, em Westfália",
+    "guid": "rs1multi:0c1d3dd267caa5c7cb816ef4c4543a7e67e75718",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0c1d3dd267caa5c7cb816ef4c4543a7e67e75718/",
+    "usedAt": 1787585225863,
+    "usedAtIso": "2026-08-24T15:27:05.863Z"
+  },
   "source:ed532f3277821871e0e87124ff059b401390d87d": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temperatura-negativa-segunda",
     "title": "RS pode ter temperatura negativa na madrugada desta segunda-feira",
@@ -3671,20 +3687,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:07fd063abf3c323b6ca0294488bfbe2483cf1dba": {
-    "url": "https://agorars.com/agora-no-tempo/rs-registra-temperatura-negativa-de-37c-nesta-segunda-feira-24",
-    "title": "RS registra temperatura negativa de -3,7°C nesta segunda-feira (24)",
-    "guid": "rs1multi:f099624c6634cca76401f8eb51b0b9ae95c270bf",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f099624c6634cca76401f8eb51b0b9ae95c270bf/",
-    "usedAt": 1787585225863,
-    "usedAtIso": "2026-08-24T15:27:05.863Z"
-  },
-  "source:8eb3bea5a1640f228b5963f532640d0f885a04b0": {
-    "url": "https://agorars.com/agora-no-transito/motociclista-morre-em-acidente-na-rsc-453-em-westfalia",
-    "title": "Motociclista morre em acidente na RSC-453, em Westfália",
-    "guid": "rs1multi:0c1d3dd267caa5c7cb816ef4c4543a7e67e75718",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0c1d3dd267caa5c7cb816ef4c4543a7e67e75718/",
-    "usedAt": 1787585225863,
-    "usedAtIso": "2026-08-24T15:27:05.863Z"
+  "source:16c442f70265ddf6f763272f79d77f118fbac3e5": {
+    "url": "https://agorars.com/rs/metropolitana/homem-e-condenado-por-estupro-de-vulneravel-de-vitima-em-estado-de-embriaguez",
+    "title": "Homem é condenado por estupro de vulnerável de vítima em estado de embriaguez",
+    "guid": "rs1multi:806c587585ec36adbd7e9d65140574a1fa2afa58",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_806c587585ec36adbd7e9d65140574a1fa2afa58/",
+    "usedAt": 1787599626355,
+    "usedAtIso": "2026-08-24T19:27:06.355Z"
   }
 }
