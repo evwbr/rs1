@@ -1,4 +1,12 @@
 {
+  "source:16c442f70265ddf6f763272f79d77f118fbac3e5": {
+    "url": "https://agorars.com/rs/metropolitana/homem-e-condenado-por-estupro-de-vulneravel-de-vitima-em-estado-de-embriaguez",
+    "title": "Homem é condenado por estupro de vulnerável de vítima em estado de embriaguez",
+    "guid": "rs1multi:806c587585ec36adbd7e9d65140574a1fa2afa58",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_806c587585ec36adbd7e9d65140574a1fa2afa58/",
+    "usedAt": 1787599626355,
+    "usedAtIso": "2026-08-24T19:27:06.355Z"
+  },
   "source:07fd063abf3c323b6ca0294488bfbe2483cf1dba": {
     "url": "https://agorars.com/agora-no-tempo/rs-registra-temperatura-negativa-de-37c-nesta-segunda-feira-24",
     "title": "RS registra temperatura negativa de -3,7°C nesta segunda-feira (24)",
@@ -3687,12 +3695,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:16c442f70265ddf6f763272f79d77f118fbac3e5": {
-    "url": "https://agorars.com/rs/metropolitana/homem-e-condenado-por-estupro-de-vulneravel-de-vitima-em-estado-de-embriaguez",
-    "title": "Homem é condenado por estupro de vulnerável de vítima em estado de embriaguez",
-    "guid": "rs1multi:806c587585ec36adbd7e9d65140574a1fa2afa58",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_806c587585ec36adbd7e9d65140574a1fa2afa58/",
-    "usedAt": 1787599626355,
-    "usedAtIso": "2026-08-24T19:27:06.355Z"
+  "source:5ecb60686e2d1cf762cd132cedd6d8d725cfbee7": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-porto-alegre-chuva-quinta-sexta",
+    "title": "Porto Alegre terá sol até quarta e pode ter chuva na quinta",
+    "guid": "rs1multi:58f86d52fd5bd72a5f57da1cbe79b233abab2e1d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_58f86d52fd5bd72a5f57da1cbe79b233abab2e1d/",
+    "usedAt": 1787614025357,
+    "usedAtIso": "2026-08-24T23:27:05.357Z"
   }
 }
