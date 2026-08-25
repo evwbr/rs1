@@ -1,4 +1,12 @@
 {
+  "source:ce36f367dae6feea28d50f34407c87dfb8cdfdc7": {
+    "url": "https://agorars.com/economia/salario-minimo-devera-subir-para-r-1-741-em-2027",
+    "title": "Salário mínimo deverá subir para R$ 1.741 em 2027",
+    "guid": "rs1multi:1baa31e8c2355082bef7dfbcae38507e03bbee47",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1baa31e8c2355082bef7dfbcae38507e03bbee47/",
+    "usedAt": 1787664427603,
+    "usedAtIso": "2026-08-25T13:27:07.603Z"
+  },
   "source:4b7f830413135c67bc684e9308ef340ca090e0f1": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-frio-geada-terca-feira",
     "title": "RS terá frio e tempo firme nesta terça, com chance de geada",
@@ -3711,12 +3719,36 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:ce36f367dae6feea28d50f34407c87dfb8cdfdc7": {
-    "url": "https://agorars.com/economia/salario-minimo-devera-subir-para-r-1-741-em-2027",
-    "title": "Salário mínimo deverá subir para R$ 1.741 em 2027",
-    "guid": "rs1multi:1baa31e8c2355082bef7dfbcae38507e03bbee47",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1baa31e8c2355082bef7dfbcae38507e03bbee47/",
-    "usedAt": 1787664427603,
-    "usedAtIso": "2026-08-25T13:27:07.603Z"
+  "source:8f2f7e11661825a1ea8da96c866006068b7096a3": {
+    "url": "https://agorars.com/rs/metropolitana/paciente-do-caps-e-localizado-com-sacola-contendo-cranios-humanos-em-taquara",
+    "title": "Paciente do CAPS é localizado com sacola contendo crânios humanos, em Taquara",
+    "guid": "rs1multi:b7810d7907e1ff919e68f3dd642829f41a37b901",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b7810d7907e1ff919e68f3dd642829f41a37b901/",
+    "usedAt": 1787671626209,
+    "usedAtIso": "2026-08-25T15:27:06.209Z"
+  },
+  "source:a3e0458db06fc8c5fe5f947b3ded5435f0ff8333": {
+    "url": "https://agorars.com/rs/metropolitana/pavilhao-da-agricultura-familiar-tera-mais-de-500-expositores-na-49a-expointer",
+    "title": "Pavilhão da Agricultura Familiar terá mais de 500 expositores na 49ª Expointer",
+    "guid": "rs1multi:8b837bec043a869182b0dcfc4743f63c9a0f18cf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8b837bec043a869182b0dcfc4743f63c9a0f18cf/",
+    "usedAt": 1787671626209,
+    "usedAtIso": "2026-08-25T15:27:06.209Z"
+  },
+  "source:0477423fff64703b4912b4465eb3908898aa1728": {
+    "url": "https://agorars.com/politica/eleicoes/real-time-big-data-juliana-brizola-zucco-governo-rs",
+    "title": "Real Time Big Data aponta Juliana Brizola à frente de Zucco pelo governo do Rio Grande do Sul",
+    "guid": "rs1multi:87fb5609f95a6611bf204e325c9d98dbf4d8f3a1",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_87fb5609f95a6611bf204e325c9d98dbf4d8f3a1/",
+    "usedAt": 1787671626209,
+    "usedAtIso": "2026-08-25T15:27:06.209Z"
+  },
+  "source:91e9c548fae5b24ffb2ac43bcf1f4184872f92b3": {
+    "url": "https://agorars.com/politica/eleicoes/quaest-rs-zucco-juliana-brizola-governo-agosto-2026",
+    "title": "Quaest aponta empate técnico entre Luciano Zucco e Juliana Brizola pelo governo do Rio Grande do Sul",
+    "guid": "rs1multi:efa5bd9700661f18ca4e608a3d47a2cebad76b52",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_efa5bd9700661f18ca4e608a3d47a2cebad76b52/",
+    "usedAt": 1787671626209,
+    "usedAtIso": "2026-08-25T15:27:06.209Z"
   }
 }
