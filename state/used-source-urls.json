@@ -1,4 +1,12 @@
 {
+  "source:4b7f830413135c67bc684e9308ef340ca090e0f1": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-frio-geada-terca-feira",
+    "title": "RS terá frio e tempo firme nesta terça, com chance de geada",
+    "guid": "rs1multi:b44e1fa2fac1441e50710e81dd03ef6ca5a4698c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b44e1fa2fac1441e50710e81dd03ef6ca5a4698c/",
+    "usedAt": 1787628426235,
+    "usedAtIso": "2026-08-25T03:27:06.235Z"
+  },
   "source:5ecb60686e2d1cf762cd132cedd6d8d725cfbee7": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-porto-alegre-chuva-quinta-sexta",
     "title": "Porto Alegre terá sol até quarta e pode ter chuva na quinta",
@@ -3703,12 +3711,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:4b7f830413135c67bc684e9308ef340ca090e0f1": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-frio-geada-terca-feira",
-    "title": "RS terá frio e tempo firme nesta terça, com chance de geada",
-    "guid": "rs1multi:b44e1fa2fac1441e50710e81dd03ef6ca5a4698c",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b44e1fa2fac1441e50710e81dd03ef6ca5a4698c/",
-    "usedAt": 1787628426235,
-    "usedAtIso": "2026-08-25T03:27:06.235Z"
+  "source:ce36f367dae6feea28d50f34407c87dfb8cdfdc7": {
+    "url": "https://agorars.com/economia/salario-minimo-devera-subir-para-r-1-741-em-2027",
+    "title": "Salário mínimo deverá subir para R$ 1.741 em 2027",
+    "guid": "rs1multi:1baa31e8c2355082bef7dfbcae38507e03bbee47",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1baa31e8c2355082bef7dfbcae38507e03bbee47/",
+    "usedAt": 1787664427603,
+    "usedAtIso": "2026-08-25T13:27:07.603Z"
   }
 }
