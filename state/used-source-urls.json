@@ -1,4 +1,12 @@
 {
+  "source:5911101e141332fee7b36d520d817f3e3f67f396": {
+    "url": "https://agorars.com/politica/eleicoes/real-time-big-data-aponta-empate-tecnico-entre-tres-candidatos-na-lideranca-pelo-senado-no-rs",
+    "title": "Real Time Big Data aponta empate técnico entre três candidatos na liderança pelo Senado no Rio Grande do Sul",
+    "guid": "rs1multi:e80759b8f6de46e1793d5643a5f2902d898773cf",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e80759b8f6de46e1793d5643a5f2902d898773cf/",
+    "usedAt": 1787678827108,
+    "usedAtIso": "2026-08-25T17:27:07.108Z"
+  },
   "source:8f2f7e11661825a1ea8da96c866006068b7096a3": {
     "url": "https://agorars.com/rs/metropolitana/paciente-do-caps-e-localizado-com-sacola-contendo-cranios-humanos-em-taquara",
     "title": "Paciente do CAPS é localizado com sacola contendo crânios humanos, em Taquara",
@@ -3751,12 +3759,36 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:5911101e141332fee7b36d520d817f3e3f67f396": {
-    "url": "https://agorars.com/politica/eleicoes/real-time-big-data-aponta-empate-tecnico-entre-tres-candidatos-na-lideranca-pelo-senado-no-rs",
-    "title": "Real Time Big Data aponta empate técnico entre três candidatos na liderança pelo Senado no Rio Grande do Sul",
-    "guid": "rs1multi:e80759b8f6de46e1793d5643a5f2902d898773cf",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e80759b8f6de46e1793d5643a5f2902d898773cf/",
-    "usedAt": 1787678827108,
-    "usedAtIso": "2026-08-25T17:27:07.108Z"
+  "source:ae6ef2dce3c7280f628e035bb76f5d8e2c26328a": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-quarta-tempo-firme-30-graus",
+    "title": "Quarta-feira terá tempo firme na maior parte do Rio Grande do Sul e máxima de até 30°C",
+    "guid": "rs1multi:5690977af6c8a333b865d74e7d2fd044743d7f38",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_5690977af6c8a333b865d74e7d2fd044743d7f38/",
+    "usedAt": 1787693225618,
+    "usedAtIso": "2026-08-25T21:27:05.618Z"
+  },
+  "source:722275a5ae848c083d1b2b5e4d6c5256ba2987bb": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/temporais-rs-chuva-volumosa-quinta-segunda",
+    "title": "RS terá risco de temporais e chuva volumosa entre quinta e segunda-feira",
+    "guid": "rs1multi:0ba61a397b2330935f97b7b49c2d0b335d65f8bb",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0ba61a397b2330935f97b7b49c2d0b335d65f8bb/",
+    "usedAt": 1787693225618,
+    "usedAtIso": "2026-08-25T21:27:05.618Z"
+  },
+  "source:3a8f8f4bf0640808a54e2f0d4d465884ebd8c8b8": {
+    "url": "https://agorars.com/agora-no-transito/al-rs-derruba-veto-taxa-licenciamento-rs",
+    "title": "AL-RS derruba veto a projeto que acaba com taxa de R$ 114,09 do licenciamento",
+    "guid": "rs1multi:1a2a9b5d4f2d289f99d0a311aa887048a55f0e25",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_1a2a9b5d4f2d289f99d0a311aa887048a55f0e25/",
+    "usedAt": 1787693225618,
+    "usedAtIso": "2026-08-25T21:27:05.618Z"
+  },
+  "source:1073be30332eedac41dfa17412326e0d47075ec0": {
+    "url": "https://agorars.com/cultura/theatro-sao-pedro-reabre-em-26-de-novembro-apos-restauro",
+    "title": "Theatro São Pedro reabre em 26 de novembro após restauro",
+    "guid": "rs1multi:8eaae54db4f9e1e1f156c994286423f5636af02f",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_8eaae54db4f9e1e1f156c994286423f5636af02f/",
+    "usedAt": 1787693225618,
+    "usedAtIso": "2026-08-25T21:27:05.618Z"
   }
 }
