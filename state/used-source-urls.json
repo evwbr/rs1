@@ -1,4 +1,12 @@
 {
+  "source:5ecb60686e2d1cf762cd132cedd6d8d725cfbee7": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-porto-alegre-chuva-quinta-sexta",
+    "title": "Porto Alegre terá sol até quarta e pode ter chuva na quinta",
+    "guid": "rs1multi:58f86d52fd5bd72a5f57da1cbe79b233abab2e1d",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_58f86d52fd5bd72a5f57da1cbe79b233abab2e1d/",
+    "usedAt": 1787614025357,
+    "usedAtIso": "2026-08-24T23:27:05.357Z"
+  },
   "source:16c442f70265ddf6f763272f79d77f118fbac3e5": {
     "url": "https://agorars.com/rs/metropolitana/homem-e-condenado-por-estupro-de-vulneravel-de-vitima-em-estado-de-embriaguez",
     "title": "Homem é condenado por estupro de vulnerável de vítima em estado de embriaguez",
@@ -3695,12 +3703,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:5ecb60686e2d1cf762cd132cedd6d8d725cfbee7": {
-    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-porto-alegre-chuva-quinta-sexta",
-    "title": "Porto Alegre terá sol até quarta e pode ter chuva na quinta",
-    "guid": "rs1multi:58f86d52fd5bd72a5f57da1cbe79b233abab2e1d",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_58f86d52fd5bd72a5f57da1cbe79b233abab2e1d/",
-    "usedAt": 1787614025357,
-    "usedAtIso": "2026-08-24T23:27:05.357Z"
+  "source:4b7f830413135c67bc684e9308ef340ca090e0f1": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-frio-geada-terca-feira",
+    "title": "RS terá frio e tempo firme nesta terça, com chance de geada",
+    "guid": "rs1multi:b44e1fa2fac1441e50710e81dd03ef6ca5a4698c",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_b44e1fa2fac1441e50710e81dd03ef6ca5a4698c/",
+    "usedAt": 1787628426235,
+    "usedAtIso": "2026-08-25T03:27:06.235Z"
   }
 }
