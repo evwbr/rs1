@@ -1,4 +1,12 @@
 {
+  "source:3d6cf35fd387bede019e4ee92c5c1db38d46f922": {
+    "url": "https://agorars.com/agora-no-transito/porto-alegre-gre-nal-tera-esquema-especial-de-transito",
+    "title": "Porto Alegre: Gre-Nal terá esquema especial de trânsito",
+    "guid": "rs1multi:d9e0eb58a20595cb0f64d23e219e7d2fe33109c5",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9e0eb58a20595cb0f64d23e219e7d2fe33109c5/",
+    "usedAt": 1787750825383,
+    "usedAtIso": "2026-08-26T13:27:05.383Z"
+  },
   "source:ae6ef2dce3c7280f628e035bb76f5d8e2c26328a": {
     "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-quarta-tempo-firme-30-graus",
     "title": "Quarta-feira terá tempo firme na maior parte do Rio Grande do Sul e máxima de até 30°C",
@@ -3791,12 +3799,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:3d6cf35fd387bede019e4ee92c5c1db38d46f922": {
-    "url": "https://agorars.com/agora-no-transito/porto-alegre-gre-nal-tera-esquema-especial-de-transito",
-    "title": "Porto Alegre: Gre-Nal terá esquema especial de trânsito",
-    "guid": "rs1multi:d9e0eb58a20595cb0f64d23e219e7d2fe33109c5",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_d9e0eb58a20595cb0f64d23e219e7d2fe33109c5/",
-    "usedAt": 1787750825383,
-    "usedAtIso": "2026-08-26T13:27:05.383Z"
+  "source:c057be0a6b62f3b852c62fdc80b2605400defc45": {
+    "url": "https://agorars.com/agora-no-tempo/inmet-publica-alerta-laranja-para-tempestades-no-rs-na-quinta-feira-27",
+    "title": "Inmet pública alerta laranja para tempestades no Rio Grande do Sul na quinta-feira (27)",
+    "guid": "rs1multi:0b84318fa2d3653f789c71046a28a7bbd3fa7e57",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0b84318fa2d3653f789c71046a28a7bbd3fa7e57/",
+    "usedAt": 1787758026618,
+    "usedAtIso": "2026-08-26T15:27:06.618Z"
   }
 }
