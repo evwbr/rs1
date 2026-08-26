@@ -1,4 +1,12 @@
 {
+  "source:c057be0a6b62f3b852c62fdc80b2605400defc45": {
+    "url": "https://agorars.com/agora-no-tempo/inmet-publica-alerta-laranja-para-tempestades-no-rs-na-quinta-feira-27",
+    "title": "Inmet pública alerta laranja para tempestades no Rio Grande do Sul na quinta-feira (27)",
+    "guid": "rs1multi:0b84318fa2d3653f789c71046a28a7bbd3fa7e57",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0b84318fa2d3653f789c71046a28a7bbd3fa7e57/",
+    "usedAt": 1787758026618,
+    "usedAtIso": "2026-08-26T15:27:06.618Z"
+  },
   "source:3d6cf35fd387bede019e4ee92c5c1db38d46f922": {
     "url": "https://agorars.com/agora-no-transito/porto-alegre-gre-nal-tera-esquema-especial-de-transito",
     "title": "Porto Alegre: Gre-Nal terá esquema especial de trânsito",
@@ -3799,12 +3807,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:c057be0a6b62f3b852c62fdc80b2605400defc45": {
-    "url": "https://agorars.com/agora-no-tempo/inmet-publica-alerta-laranja-para-tempestades-no-rs-na-quinta-feira-27",
-    "title": "Inmet pública alerta laranja para tempestades no Rio Grande do Sul na quinta-feira (27)",
-    "guid": "rs1multi:0b84318fa2d3653f789c71046a28a7bbd3fa7e57",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_0b84318fa2d3653f789c71046a28a7bbd3fa7e57/",
-    "usedAt": 1787758026618,
-    "usedAtIso": "2026-08-26T15:27:06.618Z"
+  "source:c0744df293015437241140743a2050b965a8cadf": {
+    "url": "https://agorars.com/agora-no-transito/egr-suspende-cobranca-no-pedagio-de-encantado-apos-intimacao-judicial",
+    "title": "EGR suspende cobrança no pedágio de Encantado após intimação judicial",
+    "guid": "rs1multi:ce6a1cbdb3ffc4cdbcdfe365041468489a5241af",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ce6a1cbdb3ffc4cdbcdfe365041468489a5241af/",
+    "usedAt": 1787765226660,
+    "usedAtIso": "2026-08-26T17:27:06.660Z"
   }
 }
