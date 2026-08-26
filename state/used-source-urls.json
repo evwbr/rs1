@@ -1,4 +1,12 @@
 {
+  "source:4f9f4efcd97d71ed7c7594505f568fbb4e6cb5e9": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-chuvas-intensas-porto-alegre-quinta-segunda",
+    "title": "Porto Alegre entra em alerta para chuvas intensas a partir desta quinta-feira",
+    "guid": "rs1multi:4ae1c4f21c1c53c75b09f471514dfd48a6f65f0b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4ae1c4f21c1c53c75b09f471514dfd48a6f65f0b/",
+    "usedAt": 1787779626043,
+    "usedAtIso": "2026-08-26T21:27:06.043Z"
+  },
   "source:c0744df293015437241140743a2050b965a8cadf": {
     "url": "https://agorars.com/agora-no-transito/egr-suspende-cobranca-no-pedagio-de-encantado-apos-intimacao-judicial",
     "title": "EGR suspende cobrança no pedágio de Encantado após intimação judicial",
@@ -3815,12 +3823,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:4f9f4efcd97d71ed7c7594505f568fbb4e6cb5e9": {
-    "url": "https://agorars.com/agora-no-tempo/alerta-chuvas-intensas-porto-alegre-quinta-segunda",
-    "title": "Porto Alegre entra em alerta para chuvas intensas a partir desta quinta-feira",
-    "guid": "rs1multi:4ae1c4f21c1c53c75b09f471514dfd48a6f65f0b",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4ae1c4f21c1c53c75b09f471514dfd48a6f65f0b/",
-    "usedAt": 1787779626043,
-    "usedAtIso": "2026-08-26T21:27:06.043Z"
+  "source:c54327501cf3420150e2ee75407b135508e52f4e": {
+    "url": "https://agorars.com/rs/metropolitana/ingressos-da-expointer-2026-ja-estao-a-venda-veja-precos",
+    "title": "Ingressos da Expointer 2026 já estão à venda; veja preços",
+    "guid": "rs1multi:f87f7d914a4cde2fa00ee35e195e7f5c90f434a1",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_f87f7d914a4cde2fa00ee35e195e7f5c90f434a1/",
+    "usedAt": 1787786825288,
+    "usedAtIso": "2026-08-26T23:27:05.288Z"
   }
 }
