@@ -1,4 +1,12 @@
 {
+  "source:c0744df293015437241140743a2050b965a8cadf": {
+    "url": "https://agorars.com/agora-no-transito/egr-suspende-cobranca-no-pedagio-de-encantado-apos-intimacao-judicial",
+    "title": "EGR suspende cobrança no pedágio de Encantado após intimação judicial",
+    "guid": "rs1multi:ce6a1cbdb3ffc4cdbcdfe365041468489a5241af",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ce6a1cbdb3ffc4cdbcdfe365041468489a5241af/",
+    "usedAt": 1787765226660,
+    "usedAtIso": "2026-08-26T17:27:06.660Z"
+  },
   "source:c057be0a6b62f3b852c62fdc80b2605400defc45": {
     "url": "https://agorars.com/agora-no-tempo/inmet-publica-alerta-laranja-para-tempestades-no-rs-na-quinta-feira-27",
     "title": "Inmet pública alerta laranja para tempestades no Rio Grande do Sul na quinta-feira (27)",
@@ -3807,12 +3815,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:c0744df293015437241140743a2050b965a8cadf": {
-    "url": "https://agorars.com/agora-no-transito/egr-suspende-cobranca-no-pedagio-de-encantado-apos-intimacao-judicial",
-    "title": "EGR suspende cobrança no pedágio de Encantado após intimação judicial",
-    "guid": "rs1multi:ce6a1cbdb3ffc4cdbcdfe365041468489a5241af",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_ce6a1cbdb3ffc4cdbcdfe365041468489a5241af/",
-    "usedAt": 1787765226660,
-    "usedAtIso": "2026-08-26T17:27:06.660Z"
+  "source:4f9f4efcd97d71ed7c7594505f568fbb4e6cb5e9": {
+    "url": "https://agorars.com/agora-no-tempo/alerta-chuvas-intensas-porto-alegre-quinta-segunda",
+    "title": "Porto Alegre entra em alerta para chuvas intensas a partir desta quinta-feira",
+    "guid": "rs1multi:4ae1c4f21c1c53c75b09f471514dfd48a6f65f0b",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_4ae1c4f21c1c53c75b09f471514dfd48a6f65f0b/",
+    "usedAt": 1787779626043,
+    "usedAtIso": "2026-08-26T21:27:06.043Z"
   }
 }
