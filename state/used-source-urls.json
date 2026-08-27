@@ -1,4 +1,12 @@
 {
+  "source:a1e7b9d12530e0b28074d14aeb3a526632909d71": {
+    "url": "https://agorars.com/rs/sul-do-rs/motorista-denunciado-11-homicidios-culposos-br-116-pelotas",
+    "title": "Motorista é denunciado por 11 homicídios culposos em acidente na BR-116 em Pelotas",
+    "guid": "rs1multi:e6d250c465d773140a94fca62e823a5d9f557a32",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e6d250c465d773140a94fca62e823a5d9f557a32/",
+    "usedAt": 1787794025309,
+    "usedAtIso": "2026-08-27T01:27:05.309Z"
+  },
   "source:c54327501cf3420150e2ee75407b135508e52f4e": {
     "url": "https://agorars.com/rs/metropolitana/ingressos-da-expointer-2026-ja-estao-a-venda-veja-precos",
     "title": "Ingressos da Expointer 2026 já estão à venda; veja preços",
@@ -3831,12 +3839,12 @@
     "usedAt": 1784679973361,
     "usedAtIso": "2026-07-22T00:26:13.361Z"
   },
-  "source:a1e7b9d12530e0b28074d14aeb3a526632909d71": {
-    "url": "https://agorars.com/rs/sul-do-rs/motorista-denunciado-11-homicidios-culposos-br-116-pelotas",
-    "title": "Motorista é denunciado por 11 homicídios culposos em acidente na BR-116 em Pelotas",
-    "guid": "rs1multi:e6d250c465d773140a94fca62e823a5d9f557a32",
-    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_e6d250c465d773140a94fca62e823a5d9f557a32/",
-    "usedAt": 1787794025309,
-    "usedAtIso": "2026-08-27T01:27:05.309Z"
+  "source:2d10b6dca99a4b8d996e9a2a1efbe5a166ed8540": {
+    "url": "https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-temporais-granizo-chuva-quinta",
+    "title": "RS tem previsão de temporais, granizo e chuva intensa nesta quinta-feira",
+    "guid": "rs1multi:04cb2e9d1492682eb34cfe9b25f5e723b103e0a0",
+    "pageUrl": "https://evwbr.github.io/rs1/p/rs1multi_04cb2e9d1492682eb34cfe9b25f5e723b103e0a0/",
+    "usedAt": 1787801225399,
+    "usedAtIso": "2026-08-27T03:27:05.399Z"
   }
 }
